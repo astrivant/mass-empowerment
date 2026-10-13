@@ -1,0 +1,6092 @@
+{
+  "title": "The Hours We Keep — border and divider assets",
+  "source_pdf": "The Hours We Keep with appendix.pdf",
+  "source_pdf_sha256": "dc29375fb5c897304269621acf5e86d1d85234315d7db885fb4ea245b1934b91",
+  "source_pdf_pages": 98,
+  "page_numbering": "1-based PDF pages, not printed folios",
+  "method": "Original vector path rasterization at 600 DPI. Text, images and annotations were excluded from an intermediate PDF; the original path commands, transforms, stroke widths and colors were preserved. Each export is cropped with at least 2 points of transparent padding. No AI image generation or reinterpretation.",
+  "fidelity_note": "PNG is losslessly encoded, but these are finite-resolution rasterizations of vector artwork, not recovered original raster files. The intentionally faint border palette and inward fade are unchanged.",
+  "deduplication": "Translation-normalized geometry identifies three border families in both left/right orientations, two mirrored corners and three divider families. Coordinate rounding to 0.01 points is used only for grouping equivalent translated PDF paths; export pixels use unrounded original PDF commands. Every source occurrence is listed.",
+  "summary": {
+    "assets": 11,
+    "border_motif_families": 3,
+    "border_orientations": 6,
+    "corner_variants": 2,
+    "divider_families": 3,
+    "border_and_corner_occurrences": 552,
+    "divider_occurrences": 29,
+    "pages_with_borders": 92,
+    "pages_without_borders": [
+      10,
+      22,
+      41,
+      60,
+      74,
+      91
+    ]
+  },
+  "assets": [
+    {
+      "id": "corner-left",
+      "file": "corner-left.png",
+      "description": "Subtle upper-left corner linework.",
+      "pixels": [
+        200,
+        200
+      ],
+      "dpi": 600,
+      "mode": "RGBA",
+      "transparent_background": true,
+      "bytes": 634,
+      "sha256": "2cb593dd1290dc771f38ee0bf3a1cc6101ec2db5c16066da699513450605975c",
+      "source_bounds_points": [
+        14.0,
+        14.0,
+        34.0,
+        34.0
+      ],
+      "export_crop_points": [
+        12.0,
+        12.0,
+        36.0,
+        36.0
+      ],
+      "native_ornament_size_points": [
+        20.0,
+        20.0
+      ],
+      "representative_source_page": 1,
+      "path_count": 1,
+      "occurrence_count": 92,
+      "source_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98
+      ],
+      "occurrences": [
+        {
+          "page": 1,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 2,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 3,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 4,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 5,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 6,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 7,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 8,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 9,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 11,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 12,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 13,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 14,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 15,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 16,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 17,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 18,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 19,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 20,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 21,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 23,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 24,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 25,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 26,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 27,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 28,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 29,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 30,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 31,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 32,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 33,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 34,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 35,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 36,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 37,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 38,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 39,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 40,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 42,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 43,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 44,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 45,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 46,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 47,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 48,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 49,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 50,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 51,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 52,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 53,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 54,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 55,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 56,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 57,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 58,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 59,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 61,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 62,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 63,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 64,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 65,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 66,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 67,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 68,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 69,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 70,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 71,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 72,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 73,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 75,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 76,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 77,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 78,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 79,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 80,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 81,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 82,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 83,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 84,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 85,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 86,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 87,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 88,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 89,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 90,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 92,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 93,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 94,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 95,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 96,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 97,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "page": 98,
+          "bounds_points": [
+            14.0,
+            14.0,
+            34.0,
+            34.0
+          ]
+        }
+      ],
+      "direct_original_crop_pixel_match": true
+    },
+    {
+      "id": "border-network-left",
+      "file": "border-network-left.png",
+      "description": "Three inward-fading layers of connected node geometry for the left margin.",
+      "pixels": [
+        229,
+        513
+      ],
+      "dpi": 600,
+      "mode": "RGBA",
+      "transparent_background": true,
+      "bytes": 20875,
+      "sha256": "ef0154de9fd431d7fe194ff6157c4b2a832a2997ad9d31f4aff51d69f0407d91",
+      "source_bounds_points": [
+        7.8,
+        230.8,
+        31.2,
+        288.2
+      ],
+      "export_crop_points": [
+        5.76,
+        228.72,
+        33.24,
+        290.28
+      ],
+      "native_ornament_size_points": [
+        23.4,
+        57.4
+      ],
+      "representative_source_page": 1,
+      "path_count": 18,
+      "occurrence_count": 60,
+      "source_pages": [
+        1,
+        4,
+        7,
+        13,
+        16,
+        19,
+        25,
+        28,
+        31,
+        34,
+        37,
+        40,
+        43,
+        46,
+        49,
+        52,
+        55,
+        58,
+        61,
+        64,
+        67,
+        70,
+        73,
+        76,
+        79,
+        82,
+        85,
+        88,
+        94,
+        97
+      ],
+      "occurrences": [
+        {
+          "page": 1,
+          "bounds_points": [
+            7.8,
+            230.8,
+            31.2,
+            288.2
+          ]
+        },
+        {
+          "page": 1,
+          "bounds_points": [
+            7.8,
+            484.8,
+            31.2,
+            542.2
+          ]
+        },
+        {
+          "page": 4,
+          "bounds_points": [
+            7.8,
+            263.8,
+            31.2,
+            321.2
+          ]
+        },
+        {
+          "page": 4,
+          "bounds_points": [
+            7.8,
+            433.8,
+            31.2,
+            491.2
+          ]
+        },
+        {
+          "page": 7,
+          "bounds_points": [
+            7.8,
+            239.8,
+            31.2,
+            297.2
+          ]
+        },
+        {
+          "page": 7,
+          "bounds_points": [
+            7.8,
+            473.8,
+            31.2,
+            531.2
+          ]
+        },
+        {
+          "page": 13,
+          "bounds_points": [
+            7.8,
+            248.8,
+            31.2,
+            306.2
+          ]
+        },
+        {
+          "page": 13,
+          "bounds_points": [
+            7.8,
+            462.8,
+            31.2,
+            520.2
+          ]
+        },
+        {
+          "page": 16,
+          "bounds_points": [
+            7.8,
+            224.8,
+            31.2,
+            282.2
+          ]
+        },
+        {
+          "page": 16,
+          "bounds_points": [
+            7.8,
+            411.8,
+            31.2,
+            469.2
+          ]
+        },
+        {
+          "page": 19,
+          "bounds_points": [
+            7.8,
+            257.8,
+            31.2,
+            315.2
+          ]
+        },
+        {
+          "page": 19,
+          "bounds_points": [
+            7.8,
+            451.8,
+            31.2,
+            509.2
+          ]
+        },
+        {
+          "page": 25,
+          "bounds_points": [
+            7.8,
+            266.8,
+            31.2,
+            324.2
+          ]
+        },
+        {
+          "page": 25,
+          "bounds_points": [
+            7.8,
+            440.8,
+            31.2,
+            498.2
+          ]
+        },
+        {
+          "page": 28,
+          "bounds_points": [
+            7.8,
+            242.8,
+            31.2,
+            300.2
+          ]
+        },
+        {
+          "page": 28,
+          "bounds_points": [
+            7.8,
+            480.8,
+            31.2,
+            538.2
+          ]
+        },
+        {
+          "page": 31,
+          "bounds_points": [
+            7.8,
+            275.8,
+            31.2,
+            333.2
+          ]
+        },
+        {
+          "page": 31,
+          "bounds_points": [
+            7.8,
+            429.8,
+            31.2,
+            487.2
+          ]
+        },
+        {
+          "page": 34,
+          "bounds_points": [
+            7.8,
+            251.8,
+            31.2,
+            309.2
+          ]
+        },
+        {
+          "page": 34,
+          "bounds_points": [
+            7.8,
+            469.8,
+            31.2,
+            527.2
+          ]
+        },
+        {
+          "page": 37,
+          "bounds_points": [
+            7.8,
+            227.8,
+            31.2,
+            285.2
+          ]
+        },
+        {
+          "page": 37,
+          "bounds_points": [
+            7.8,
+            418.8,
+            31.2,
+            476.2
+          ]
+        },
+        {
+          "page": 40,
+          "bounds_points": [
+            7.8,
+            260.8,
+            31.2,
+            318.2
+          ]
+        },
+        {
+          "page": 40,
+          "bounds_points": [
+            7.8,
+            458.8,
+            31.2,
+            516.2
+          ]
+        },
+        {
+          "page": 43,
+          "bounds_points": [
+            7.8,
+            236.8,
+            31.2,
+            294.2
+          ]
+        },
+        {
+          "page": 43,
+          "bounds_points": [
+            7.8,
+            498.8,
+            31.2,
+            556.2
+          ]
+        },
+        {
+          "page": 46,
+          "bounds_points": [
+            7.8,
+            269.8,
+            31.2,
+            327.2
+          ]
+        },
+        {
+          "page": 46,
+          "bounds_points": [
+            7.8,
+            447.8,
+            31.2,
+            505.2
+          ]
+        },
+        {
+          "page": 49,
+          "bounds_points": [
+            7.8,
+            245.8,
+            31.2,
+            303.2
+          ]
+        },
+        {
+          "page": 49,
+          "bounds_points": [
+            7.8,
+            487.8,
+            31.2,
+            545.2
+          ]
+        },
+        {
+          "page": 52,
+          "bounds_points": [
+            7.8,
+            221.8,
+            31.2,
+            279.2
+          ]
+        },
+        {
+          "page": 52,
+          "bounds_points": [
+            7.8,
+            436.8,
+            31.2,
+            494.2
+          ]
+        },
+        {
+          "page": 55,
+          "bounds_points": [
+            7.8,
+            254.8,
+            31.2,
+            312.2
+          ]
+        },
+        {
+          "page": 55,
+          "bounds_points": [
+            7.8,
+            476.8,
+            31.2,
+            534.2
+          ]
+        },
+        {
+          "page": 58,
+          "bounds_points": [
+            7.8,
+            230.8,
+            31.2,
+            288.2
+          ]
+        },
+        {
+          "page": 58,
+          "bounds_points": [
+            7.8,
+            425.8,
+            31.2,
+            483.2
+          ]
+        },
+        {
+          "page": 61,
+          "bounds_points": [
+            7.8,
+            263.8,
+            31.2,
+            321.2
+          ]
+        },
+        {
+          "page": 61,
+          "bounds_points": [
+            7.8,
+            465.8,
+            31.2,
+            523.2
+          ]
+        },
+        {
+          "page": 64,
+          "bounds_points": [
+            7.8,
+            239.8,
+            31.2,
+            297.2
+          ]
+        },
+        {
+          "page": 64,
+          "bounds_points": [
+            7.8,
+            414.8,
+            31.2,
+            472.2
+          ]
+        },
+        {
+          "page": 67,
+          "bounds_points": [
+            7.8,
+            272.8,
+            31.2,
+            330.2
+          ]
+        },
+        {
+          "page": 67,
+          "bounds_points": [
+            7.8,
+            454.8,
+            31.2,
+            512.2
+          ]
+        },
+        {
+          "page": 70,
+          "bounds_points": [
+            7.8,
+            248.8,
+            31.2,
+            306.2
+          ]
+        },
+        {
+          "page": 70,
+          "bounds_points": [
+            7.8,
+            494.8,
+            31.2,
+            552.2
+          ]
+        },
+        {
+          "page": 73,
+          "bounds_points": [
+            7.8,
+            224.8,
+            31.2,
+            282.2
+          ]
+        },
+        {
+          "page": 73,
+          "bounds_points": [
+            7.8,
+            443.8,
+            31.2,
+            501.2
+          ]
+        },
+        {
+          "page": 76,
+          "bounds_points": [
+            7.8,
+            257.8,
+            31.2,
+            315.2
+          ]
+        },
+        {
+          "page": 76,
+          "bounds_points": [
+            7.8,
+            483.8,
+            31.2,
+            541.2
+          ]
+        },
+        {
+          "page": 79,
+          "bounds_points": [
+            7.8,
+            233.8,
+            31.2,
+            291.2
+          ]
+        },
+        {
+          "page": 79,
+          "bounds_points": [
+            7.8,
+            432.8,
+            31.2,
+            490.2
+          ]
+        },
+        {
+          "page": 82,
+          "bounds_points": [
+            7.8,
+            266.8,
+            31.2,
+            324.2
+          ]
+        },
+        {
+          "page": 82,
+          "bounds_points": [
+            7.8,
+            472.8,
+            31.2,
+            530.2
+          ]
+        },
+        {
+          "page": 85,
+          "bounds_points": [
+            7.8,
+            242.8,
+            31.2,
+            300.2
+          ]
+        },
+        {
+          "page": 85,
+          "bounds_points": [
+            7.8,
+            421.8,
+            31.2,
+            479.2
+          ]
+        },
+        {
+          "page": 88,
+          "bounds_points": [
+            7.8,
+            275.8,
+            31.2,
+            333.2
+          ]
+        },
+        {
+          "page": 88,
+          "bounds_points": [
+            7.8,
+            461.8,
+            31.2,
+            519.2
+          ]
+        },
+        {
+          "page": 94,
+          "bounds_points": [
+            7.8,
+            227.8,
+            31.2,
+            285.2
+          ]
+        },
+        {
+          "page": 94,
+          "bounds_points": [
+            7.8,
+            450.8,
+            31.2,
+            508.2
+          ]
+        },
+        {
+          "page": 97,
+          "bounds_points": [
+            7.8,
+            260.8,
+            31.2,
+            318.2
+          ]
+        },
+        {
+          "page": 97,
+          "bounds_points": [
+            7.8,
+            490.8,
+            31.2,
+            548.2
+          ]
+        }
+      ],
+      "direct_original_crop_pixel_match": true
+    },
+    {
+      "id": "corner-right",
+      "file": "corner-right.png",
+      "description": "Subtle upper-right corner linework.",
+      "pixels": [
+        201,
+        200
+      ],
+      "dpi": 600,
+      "mode": "RGBA",
+      "transparent_background": true,
+      "bytes": 639,
+      "sha256": "2629c4cd8f9b7edc20c44c6f276d002b41ad5f13e4541725868355917212ec47",
+      "source_bounds_points": [
+        398.0,
+        14.0,
+        418.0,
+        34.0
+      ],
+      "export_crop_points": [
+        396.0,
+        12.0,
+        420.12,
+        36.0
+      ],
+      "native_ornament_size_points": [
+        20.0,
+        20.0
+      ],
+      "representative_source_page": 1,
+      "path_count": 1,
+      "occurrence_count": 92,
+      "source_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98
+      ],
+      "occurrences": [
+        {
+          "page": 1,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 2,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 3,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 4,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 5,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 6,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 7,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 8,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 9,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 11,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 12,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 13,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 14,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 15,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 16,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 17,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 18,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 19,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 20,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 21,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 23,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 24,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 25,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 26,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 27,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 28,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 29,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 30,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 31,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 32,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 33,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 34,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 35,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 36,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 37,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 38,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 39,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 40,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 42,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 43,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 44,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 45,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 46,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 47,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 48,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 49,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 50,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 51,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 52,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 53,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 54,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 55,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 56,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 57,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 58,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 59,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 61,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 62,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 63,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 64,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 65,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 66,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 67,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 68,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 69,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 70,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 71,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 72,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 73,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 75,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 76,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 77,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 78,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 79,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 80,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 81,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 82,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 83,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 84,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 85,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 86,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 87,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 88,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 89,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 90,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 92,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 93,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 94,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 95,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 96,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 97,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        },
+        {
+          "page": 98,
+          "bounds_points": [
+            398.0,
+            14.0,
+            418.0,
+            34.0
+          ]
+        }
+      ],
+      "direct_original_crop_pixel_match": true
+    },
+    {
+      "id": "border-hexagonal-right",
+      "file": "border-hexagonal-right.png",
+      "description": "Three inward-fading layers of linked hexagonal geometry for the right margin.",
+      "pixels": [
+        226,
+        476
+      ],
+      "dpi": 600,
+      "mode": "RGBA",
+      "transparent_background": true,
+      "bytes": 7507,
+      "sha256": "9f67a0debbfba0fe003a2bb221c3a790f05f5e7a0a097867ab930b4c90d88834",
+      "source_bounds_points": [
+        401.0,
+        238.0,
+        424.0,
+        291.0
+      ],
+      "export_crop_points": [
+        399.0,
+        235.92,
+        426.12,
+        293.04
+      ],
+      "native_ornament_size_points": [
+        23.0,
+        53.0
+      ],
+      "representative_source_page": 1,
+      "path_count": 9,
+      "occurrence_count": 60,
+      "source_pages": [
+        1,
+        4,
+        7,
+        13,
+        16,
+        19,
+        25,
+        28,
+        31,
+        34,
+        37,
+        40,
+        43,
+        46,
+        49,
+        52,
+        55,
+        58,
+        61,
+        64,
+        67,
+        70,
+        73,
+        76,
+        79,
+        82,
+        85,
+        88,
+        94,
+        97
+      ],
+      "occurrences": [
+        {
+          "page": 1,
+          "bounds_points": [
+            401.0,
+            238.0,
+            424.0,
+            291.0
+          ]
+        },
+        {
+          "page": 1,
+          "bounds_points": [
+            401.0,
+            492.0,
+            424.0,
+            545.0
+          ]
+        },
+        {
+          "page": 4,
+          "bounds_points": [
+            401.0,
+            271.0,
+            424.0,
+            324.0
+          ]
+        },
+        {
+          "page": 4,
+          "bounds_points": [
+            401.0,
+            441.0,
+            424.0,
+            494.0
+          ]
+        },
+        {
+          "page": 7,
+          "bounds_points": [
+            401.0,
+            247.0,
+            424.0,
+            300.0
+          ]
+        },
+        {
+          "page": 7,
+          "bounds_points": [
+            401.0,
+            481.0,
+            424.0,
+            534.0
+          ]
+        },
+        {
+          "page": 13,
+          "bounds_points": [
+            401.0,
+            256.0,
+            424.0,
+            309.0
+          ]
+        },
+        {
+          "page": 13,
+          "bounds_points": [
+            401.0,
+            470.0,
+            424.0,
+            523.0
+          ]
+        },
+        {
+          "page": 16,
+          "bounds_points": [
+            401.0,
+            232.0,
+            424.0,
+            285.0
+          ]
+        },
+        {
+          "page": 16,
+          "bounds_points": [
+            401.0,
+            419.0,
+            424.0,
+            472.0
+          ]
+        },
+        {
+          "page": 19,
+          "bounds_points": [
+            401.0,
+            265.0,
+            424.0,
+            318.0
+          ]
+        },
+        {
+          "page": 19,
+          "bounds_points": [
+            401.0,
+            459.0,
+            424.0,
+            512.0
+          ]
+        },
+        {
+          "page": 25,
+          "bounds_points": [
+            401.0,
+            274.0,
+            424.0,
+            327.0
+          ]
+        },
+        {
+          "page": 25,
+          "bounds_points": [
+            401.0,
+            448.0,
+            424.0,
+            501.0
+          ]
+        },
+        {
+          "page": 28,
+          "bounds_points": [
+            401.0,
+            250.0,
+            424.0,
+            303.0
+          ]
+        },
+        {
+          "page": 28,
+          "bounds_points": [
+            401.0,
+            488.0,
+            424.0,
+            541.0
+          ]
+        },
+        {
+          "page": 31,
+          "bounds_points": [
+            401.0,
+            283.0,
+            424.0,
+            336.0
+          ]
+        },
+        {
+          "page": 31,
+          "bounds_points": [
+            401.0,
+            437.0,
+            424.0,
+            490.0
+          ]
+        },
+        {
+          "page": 34,
+          "bounds_points": [
+            401.0,
+            259.0,
+            424.0,
+            312.0
+          ]
+        },
+        {
+          "page": 34,
+          "bounds_points": [
+            401.0,
+            477.0,
+            424.0,
+            530.0
+          ]
+        },
+        {
+          "page": 37,
+          "bounds_points": [
+            401.0,
+            235.0,
+            424.0,
+            288.0
+          ]
+        },
+        {
+          "page": 37,
+          "bounds_points": [
+            401.0,
+            426.0,
+            424.0,
+            479.0
+          ]
+        },
+        {
+          "page": 40,
+          "bounds_points": [
+            401.0,
+            268.0,
+            424.0,
+            321.0
+          ]
+        },
+        {
+          "page": 40,
+          "bounds_points": [
+            401.0,
+            466.0,
+            424.0,
+            519.0
+          ]
+        },
+        {
+          "page": 43,
+          "bounds_points": [
+            401.0,
+            244.0,
+            424.0,
+            297.0
+          ]
+        },
+        {
+          "page": 43,
+          "bounds_points": [
+            401.0,
+            506.0,
+            424.0,
+            559.0
+          ]
+        },
+        {
+          "page": 46,
+          "bounds_points": [
+            401.0,
+            277.0,
+            424.0,
+            330.0
+          ]
+        },
+        {
+          "page": 46,
+          "bounds_points": [
+            401.0,
+            455.0,
+            424.0,
+            508.0
+          ]
+        },
+        {
+          "page": 49,
+          "bounds_points": [
+            401.0,
+            253.0,
+            424.0,
+            306.0
+          ]
+        },
+        {
+          "page": 49,
+          "bounds_points": [
+            401.0,
+            495.0,
+            424.0,
+            548.0
+          ]
+        },
+        {
+          "page": 52,
+          "bounds_points": [
+            401.0,
+            229.0,
+            424.0,
+            282.0
+          ]
+        },
+        {
+          "page": 52,
+          "bounds_points": [
+            401.0,
+            444.0,
+            424.0,
+            497.0
+          ]
+        },
+        {
+          "page": 55,
+          "bounds_points": [
+            401.0,
+            262.0,
+            424.0,
+            315.0
+          ]
+        },
+        {
+          "page": 55,
+          "bounds_points": [
+            401.0,
+            484.0,
+            424.0,
+            537.0
+          ]
+        },
+        {
+          "page": 58,
+          "bounds_points": [
+            401.0,
+            238.0,
+            424.0,
+            291.0
+          ]
+        },
+        {
+          "page": 58,
+          "bounds_points": [
+            401.0,
+            433.0,
+            424.0,
+            486.0
+          ]
+        },
+        {
+          "page": 61,
+          "bounds_points": [
+            401.0,
+            271.0,
+            424.0,
+            324.0
+          ]
+        },
+        {
+          "page": 61,
+          "bounds_points": [
+            401.0,
+            473.0,
+            424.0,
+            526.0
+          ]
+        },
+        {
+          "page": 64,
+          "bounds_points": [
+            401.0,
+            247.0,
+            424.0,
+            300.0
+          ]
+        },
+        {
+          "page": 64,
+          "bounds_points": [
+            401.0,
+            422.0,
+            424.0,
+            475.0
+          ]
+        },
+        {
+          "page": 67,
+          "bounds_points": [
+            401.0,
+            280.0,
+            424.0,
+            333.0
+          ]
+        },
+        {
+          "page": 67,
+          "bounds_points": [
+            401.0,
+            462.0,
+            424.0,
+            515.0
+          ]
+        },
+        {
+          "page": 70,
+          "bounds_points": [
+            401.0,
+            256.0,
+            424.0,
+            309.0
+          ]
+        },
+        {
+          "page": 70,
+          "bounds_points": [
+            401.0,
+            502.0,
+            424.0,
+            555.0
+          ]
+        },
+        {
+          "page": 73,
+          "bounds_points": [
+            401.0,
+            232.0,
+            424.0,
+            285.0
+          ]
+        },
+        {
+          "page": 73,
+          "bounds_points": [
+            401.0,
+            451.0,
+            424.0,
+            504.0
+          ]
+        },
+        {
+          "page": 76,
+          "bounds_points": [
+            401.0,
+            265.0,
+            424.0,
+            318.0
+          ]
+        },
+        {
+          "page": 76,
+          "bounds_points": [
+            401.0,
+            491.0,
+            424.0,
+            544.0
+          ]
+        },
+        {
+          "page": 79,
+          "bounds_points": [
+            401.0,
+            241.0,
+            424.0,
+            294.0
+          ]
+        },
+        {
+          "page": 79,
+          "bounds_points": [
+            401.0,
+            440.0,
+            424.0,
+            493.0
+          ]
+        },
+        {
+          "page": 82,
+          "bounds_points": [
+            401.0,
+            274.0,
+            424.0,
+            327.0
+          ]
+        },
+        {
+          "page": 82,
+          "bounds_points": [
+            401.0,
+            480.0,
+            424.0,
+            533.0
+          ]
+        },
+        {
+          "page": 85,
+          "bounds_points": [
+            401.0,
+            250.0,
+            424.0,
+            303.0
+          ]
+        },
+        {
+          "page": 85,
+          "bounds_points": [
+            401.0,
+            429.0,
+            424.0,
+            482.0
+          ]
+        },
+        {
+          "page": 88,
+          "bounds_points": [
+            401.0,
+            283.0,
+            424.0,
+            336.0
+          ]
+        },
+        {
+          "page": 88,
+          "bounds_points": [
+            401.0,
+            469.0,
+            424.0,
+            522.0
+          ]
+        },
+        {
+          "page": 94,
+          "bounds_points": [
+            401.0,
+            235.0,
+            424.0,
+            288.0
+          ]
+        },
+        {
+          "page": 94,
+          "bounds_points": [
+            401.0,
+            458.0,
+            424.0,
+            511.0
+          ]
+        },
+        {
+          "page": 97,
+          "bounds_points": [
+            401.0,
+            268.0,
+            424.0,
+            321.0
+          ]
+        },
+        {
+          "page": 97,
+          "bounds_points": [
+            401.0,
+            498.0,
+            424.0,
+            551.0
+          ]
+        }
+      ],
+      "direct_original_crop_pixel_match": true
+    },
+    {
+      "id": "border-hexagonal-left",
+      "file": "border-hexagonal-left.png",
+      "description": "Three inward-fading layers of linked hexagonal geometry for the left margin.",
+      "pixels": [
+        225,
+        476
+      ],
+      "dpi": 600,
+      "mode": "RGBA",
+      "transparent_background": true,
+      "bytes": 7514,
+      "sha256": "47ca2dd5b136b8d24d56270ef95f79218d6e09e6bb73477aacd2606d08640242",
+      "source_bounds_points": [
+        8.0,
+        249.0,
+        31.0,
+        302.0
+      ],
+      "export_crop_points": [
+        6.0,
+        246.96,
+        33.0,
+        304.08
+      ],
+      "native_ornament_size_points": [
+        23.0,
+        53.0
+      ],
+      "representative_source_page": 2,
+      "path_count": 9,
+      "occurrence_count": 62,
+      "source_pages": [
+        2,
+        5,
+        8,
+        11,
+        14,
+        17,
+        20,
+        23,
+        26,
+        29,
+        32,
+        35,
+        38,
+        44,
+        47,
+        50,
+        53,
+        56,
+        59,
+        62,
+        65,
+        68,
+        71,
+        77,
+        80,
+        83,
+        86,
+        89,
+        92,
+        95,
+        98
+      ],
+      "occurrences": [
+        {
+          "page": 2,
+          "bounds_points": [
+            8.0,
+            249.0,
+            31.0,
+            302.0
+          ]
+        },
+        {
+          "page": 2,
+          "bounds_points": [
+            8.0,
+            475.0,
+            31.0,
+            528.0
+          ]
+        },
+        {
+          "page": 5,
+          "bounds_points": [
+            8.0,
+            282.0,
+            31.0,
+            335.0
+          ]
+        },
+        {
+          "page": 5,
+          "bounds_points": [
+            8.0,
+            424.0,
+            31.0,
+            477.0
+          ]
+        },
+        {
+          "page": 8,
+          "bounds_points": [
+            8.0,
+            258.0,
+            31.0,
+            311.0
+          ]
+        },
+        {
+          "page": 8,
+          "bounds_points": [
+            8.0,
+            464.0,
+            31.0,
+            517.0
+          ]
+        },
+        {
+          "page": 11,
+          "bounds_points": [
+            8.0,
+            234.0,
+            31.0,
+            287.0
+          ]
+        },
+        {
+          "page": 11,
+          "bounds_points": [
+            8.0,
+            504.0,
+            31.0,
+            557.0
+          ]
+        },
+        {
+          "page": 14,
+          "bounds_points": [
+            8.0,
+            267.0,
+            31.0,
+            320.0
+          ]
+        },
+        {
+          "page": 14,
+          "bounds_points": [
+            8.0,
+            453.0,
+            31.0,
+            506.0
+          ]
+        },
+        {
+          "page": 17,
+          "bounds_points": [
+            8.0,
+            243.0,
+            31.0,
+            296.0
+          ]
+        },
+        {
+          "page": 17,
+          "bounds_points": [
+            8.0,
+            493.0,
+            31.0,
+            546.0
+          ]
+        },
+        {
+          "page": 20,
+          "bounds_points": [
+            8.0,
+            276.0,
+            31.0,
+            329.0
+          ]
+        },
+        {
+          "page": 20,
+          "bounds_points": [
+            8.0,
+            442.0,
+            31.0,
+            495.0
+          ]
+        },
+        {
+          "page": 23,
+          "bounds_points": [
+            8.0,
+            252.0,
+            31.0,
+            305.0
+          ]
+        },
+        {
+          "page": 23,
+          "bounds_points": [
+            8.0,
+            482.0,
+            31.0,
+            535.0
+          ]
+        },
+        {
+          "page": 26,
+          "bounds_points": [
+            8.0,
+            228.0,
+            31.0,
+            281.0
+          ]
+        },
+        {
+          "page": 26,
+          "bounds_points": [
+            8.0,
+            431.0,
+            31.0,
+            484.0
+          ]
+        },
+        {
+          "page": 29,
+          "bounds_points": [
+            8.0,
+            261.0,
+            31.0,
+            314.0
+          ]
+        },
+        {
+          "page": 29,
+          "bounds_points": [
+            8.0,
+            471.0,
+            31.0,
+            524.0
+          ]
+        },
+        {
+          "page": 32,
+          "bounds_points": [
+            8.0,
+            237.0,
+            31.0,
+            290.0
+          ]
+        },
+        {
+          "page": 32,
+          "bounds_points": [
+            8.0,
+            420.0,
+            31.0,
+            473.0
+          ]
+        },
+        {
+          "page": 35,
+          "bounds_points": [
+            8.0,
+            270.0,
+            31.0,
+            323.0
+          ]
+        },
+        {
+          "page": 35,
+          "bounds_points": [
+            8.0,
+            460.0,
+            31.0,
+            513.0
+          ]
+        },
+        {
+          "page": 38,
+          "bounds_points": [
+            8.0,
+            246.0,
+            31.0,
+            299.0
+          ]
+        },
+        {
+          "page": 38,
+          "bounds_points": [
+            8.0,
+            500.0,
+            31.0,
+            553.0
+          ]
+        },
+        {
+          "page": 44,
+          "bounds_points": [
+            8.0,
+            255.0,
+            31.0,
+            308.0
+          ]
+        },
+        {
+          "page": 44,
+          "bounds_points": [
+            8.0,
+            489.0,
+            31.0,
+            542.0
+          ]
+        },
+        {
+          "page": 47,
+          "bounds_points": [
+            8.0,
+            231.0,
+            31.0,
+            284.0
+          ]
+        },
+        {
+          "page": 47,
+          "bounds_points": [
+            8.0,
+            438.0,
+            31.0,
+            491.0
+          ]
+        },
+        {
+          "page": 50,
+          "bounds_points": [
+            8.0,
+            264.0,
+            31.0,
+            317.0
+          ]
+        },
+        {
+          "page": 50,
+          "bounds_points": [
+            8.0,
+            478.0,
+            31.0,
+            531.0
+          ]
+        },
+        {
+          "page": 53,
+          "bounds_points": [
+            8.0,
+            240.0,
+            31.0,
+            293.0
+          ]
+        },
+        {
+          "page": 53,
+          "bounds_points": [
+            8.0,
+            427.0,
+            31.0,
+            480.0
+          ]
+        },
+        {
+          "page": 56,
+          "bounds_points": [
+            8.0,
+            273.0,
+            31.0,
+            326.0
+          ]
+        },
+        {
+          "page": 56,
+          "bounds_points": [
+            8.0,
+            467.0,
+            31.0,
+            520.0
+          ]
+        },
+        {
+          "page": 59,
+          "bounds_points": [
+            8.0,
+            249.0,
+            31.0,
+            302.0
+          ]
+        },
+        {
+          "page": 59,
+          "bounds_points": [
+            8.0,
+            507.0,
+            31.0,
+            560.0
+          ]
+        },
+        {
+          "page": 62,
+          "bounds_points": [
+            8.0,
+            282.0,
+            31.0,
+            335.0
+          ]
+        },
+        {
+          "page": 62,
+          "bounds_points": [
+            8.0,
+            456.0,
+            31.0,
+            509.0
+          ]
+        },
+        {
+          "page": 65,
+          "bounds_points": [
+            8.0,
+            258.0,
+            31.0,
+            311.0
+          ]
+        },
+        {
+          "page": 65,
+          "bounds_points": [
+            8.0,
+            496.0,
+            31.0,
+            549.0
+          ]
+        },
+        {
+          "page": 68,
+          "bounds_points": [
+            8.0,
+            234.0,
+            31.0,
+            287.0
+          ]
+        },
+        {
+          "page": 68,
+          "bounds_points": [
+            8.0,
+            445.0,
+            31.0,
+            498.0
+          ]
+        },
+        {
+          "page": 71,
+          "bounds_points": [
+            8.0,
+            267.0,
+            31.0,
+            320.0
+          ]
+        },
+        {
+          "page": 71,
+          "bounds_points": [
+            8.0,
+            485.0,
+            31.0,
+            538.0
+          ]
+        },
+        {
+          "page": 77,
+          "bounds_points": [
+            8.0,
+            276.0,
+            31.0,
+            329.0
+          ]
+        },
+        {
+          "page": 77,
+          "bounds_points": [
+            8.0,
+            474.0,
+            31.0,
+            527.0
+          ]
+        },
+        {
+          "page": 80,
+          "bounds_points": [
+            8.0,
+            252.0,
+            31.0,
+            305.0
+          ]
+        },
+        {
+          "page": 80,
+          "bounds_points": [
+            8.0,
+            423.0,
+            31.0,
+            476.0
+          ]
+        },
+        {
+          "page": 83,
+          "bounds_points": [
+            8.0,
+            228.0,
+            31.0,
+            281.0
+          ]
+        },
+        {
+          "page": 83,
+          "bounds_points": [
+            8.0,
+            463.0,
+            31.0,
+            516.0
+          ]
+        },
+        {
+          "page": 86,
+          "bounds_points": [
+            8.0,
+            261.0,
+            31.0,
+            314.0
+          ]
+        },
+        {
+          "page": 86,
+          "bounds_points": [
+            8.0,
+            503.0,
+            31.0,
+            556.0
+          ]
+        },
+        {
+          "page": 89,
+          "bounds_points": [
+            8.0,
+            237.0,
+            31.0,
+            290.0
+          ]
+        },
+        {
+          "page": 89,
+          "bounds_points": [
+            8.0,
+            452.0,
+            31.0,
+            505.0
+          ]
+        },
+        {
+          "page": 92,
+          "bounds_points": [
+            8.0,
+            270.0,
+            31.0,
+            323.0
+          ]
+        },
+        {
+          "page": 92,
+          "bounds_points": [
+            8.0,
+            492.0,
+            31.0,
+            545.0
+          ]
+        },
+        {
+          "page": 95,
+          "bounds_points": [
+            8.0,
+            246.0,
+            31.0,
+            299.0
+          ]
+        },
+        {
+          "page": 95,
+          "bounds_points": [
+            8.0,
+            441.0,
+            31.0,
+            494.0
+          ]
+        },
+        {
+          "page": 98,
+          "bounds_points": [
+            8.0,
+            279.0,
+            31.0,
+            332.0
+          ]
+        },
+        {
+          "page": 98,
+          "bounds_points": [
+            8.0,
+            481.0,
+            31.0,
+            534.0
+          ]
+        }
+      ],
+      "direct_original_crop_pixel_match": true
+    },
+    {
+      "id": "border-circuit-right",
+      "file": "border-circuit-right.png",
+      "description": "Three inward-fading layers of stepped circuit traces for the right margin.",
+      "pixels": [
+        244,
+        601
+      ],
+      "dpi": 600,
+      "mode": "RGBA",
+      "transparent_background": true,
+      "bytes": 7252,
+      "sha256": "7b6bfb40054b61cda72b60b34994b243febf1acdc9c9a555a8732b9ea7dac737",
+      "source_bounds_points": [
+        400.0,
+        242.0,
+        425.1,
+        310.1
+      ],
+      "export_crop_points": [
+        397.92,
+        240.0,
+        427.2,
+        312.12
+      ],
+      "native_ornament_size_points": [
+        25.1,
+        68.1
+      ],
+      "representative_source_page": 2,
+      "path_count": 9,
+      "occurrence_count": 62,
+      "source_pages": [
+        2,
+        5,
+        8,
+        11,
+        14,
+        17,
+        20,
+        23,
+        26,
+        29,
+        32,
+        35,
+        38,
+        44,
+        47,
+        50,
+        53,
+        56,
+        59,
+        62,
+        65,
+        68,
+        71,
+        77,
+        80,
+        83,
+        86,
+        89,
+        92,
+        95,
+        98
+      ],
+      "occurrences": [
+        {
+          "page": 2,
+          "bounds_points": [
+            400.0,
+            242.0,
+            425.1,
+            310.1
+          ]
+        },
+        {
+          "page": 2,
+          "bounds_points": [
+            400.0,
+            468.0,
+            425.1,
+            536.1
+          ]
+        },
+        {
+          "page": 5,
+          "bounds_points": [
+            400.0,
+            275.0,
+            425.1,
+            343.1
+          ]
+        },
+        {
+          "page": 5,
+          "bounds_points": [
+            400.0,
+            417.0,
+            425.1,
+            485.1
+          ]
+        },
+        {
+          "page": 8,
+          "bounds_points": [
+            400.0,
+            251.0,
+            425.1,
+            319.1
+          ]
+        },
+        {
+          "page": 8,
+          "bounds_points": [
+            400.0,
+            457.0,
+            425.1,
+            525.1
+          ]
+        },
+        {
+          "page": 11,
+          "bounds_points": [
+            400.0,
+            227.0,
+            425.1,
+            295.1
+          ]
+        },
+        {
+          "page": 11,
+          "bounds_points": [
+            400.0,
+            497.0,
+            425.1,
+            565.1
+          ]
+        },
+        {
+          "page": 14,
+          "bounds_points": [
+            400.0,
+            260.0,
+            425.1,
+            328.1
+          ]
+        },
+        {
+          "page": 14,
+          "bounds_points": [
+            400.0,
+            446.0,
+            425.1,
+            514.1
+          ]
+        },
+        {
+          "page": 17,
+          "bounds_points": [
+            400.0,
+            236.0,
+            425.1,
+            304.1
+          ]
+        },
+        {
+          "page": 17,
+          "bounds_points": [
+            400.0,
+            486.0,
+            425.1,
+            554.1
+          ]
+        },
+        {
+          "page": 20,
+          "bounds_points": [
+            400.0,
+            269.0,
+            425.1,
+            337.1
+          ]
+        },
+        {
+          "page": 20,
+          "bounds_points": [
+            400.0,
+            435.0,
+            425.1,
+            503.1
+          ]
+        },
+        {
+          "page": 23,
+          "bounds_points": [
+            400.0,
+            245.0,
+            425.1,
+            313.1
+          ]
+        },
+        {
+          "page": 23,
+          "bounds_points": [
+            400.0,
+            475.0,
+            425.1,
+            543.1
+          ]
+        },
+        {
+          "page": 26,
+          "bounds_points": [
+            400.0,
+            221.0,
+            425.1,
+            289.1
+          ]
+        },
+        {
+          "page": 26,
+          "bounds_points": [
+            400.0,
+            424.0,
+            425.1,
+            492.1
+          ]
+        },
+        {
+          "page": 29,
+          "bounds_points": [
+            400.0,
+            254.0,
+            425.1,
+            322.1
+          ]
+        },
+        {
+          "page": 29,
+          "bounds_points": [
+            400.0,
+            464.0,
+            425.1,
+            532.1
+          ]
+        },
+        {
+          "page": 32,
+          "bounds_points": [
+            400.0,
+            230.0,
+            425.1,
+            298.1
+          ]
+        },
+        {
+          "page": 32,
+          "bounds_points": [
+            400.0,
+            413.0,
+            425.1,
+            481.1
+          ]
+        },
+        {
+          "page": 35,
+          "bounds_points": [
+            400.0,
+            263.0,
+            425.1,
+            331.1
+          ]
+        },
+        {
+          "page": 35,
+          "bounds_points": [
+            400.0,
+            453.0,
+            425.1,
+            521.1
+          ]
+        },
+        {
+          "page": 38,
+          "bounds_points": [
+            400.0,
+            239.0,
+            425.1,
+            307.1
+          ]
+        },
+        {
+          "page": 38,
+          "bounds_points": [
+            400.0,
+            493.0,
+            425.1,
+            561.1
+          ]
+        },
+        {
+          "page": 44,
+          "bounds_points": [
+            400.0,
+            248.0,
+            425.1,
+            316.1
+          ]
+        },
+        {
+          "page": 44,
+          "bounds_points": [
+            400.0,
+            482.0,
+            425.1,
+            550.1
+          ]
+        },
+        {
+          "page": 47,
+          "bounds_points": [
+            400.0,
+            224.0,
+            425.1,
+            292.1
+          ]
+        },
+        {
+          "page": 47,
+          "bounds_points": [
+            400.0,
+            431.0,
+            425.1,
+            499.1
+          ]
+        },
+        {
+          "page": 50,
+          "bounds_points": [
+            400.0,
+            257.0,
+            425.1,
+            325.1
+          ]
+        },
+        {
+          "page": 50,
+          "bounds_points": [
+            400.0,
+            471.0,
+            425.1,
+            539.1
+          ]
+        },
+        {
+          "page": 53,
+          "bounds_points": [
+            400.0,
+            233.0,
+            425.1,
+            301.1
+          ]
+        },
+        {
+          "page": 53,
+          "bounds_points": [
+            400.0,
+            420.0,
+            425.1,
+            488.1
+          ]
+        },
+        {
+          "page": 56,
+          "bounds_points": [
+            400.0,
+            266.0,
+            425.1,
+            334.1
+          ]
+        },
+        {
+          "page": 56,
+          "bounds_points": [
+            400.0,
+            460.0,
+            425.1,
+            528.1
+          ]
+        },
+        {
+          "page": 59,
+          "bounds_points": [
+            400.0,
+            242.0,
+            425.1,
+            310.1
+          ]
+        },
+        {
+          "page": 59,
+          "bounds_points": [
+            400.0,
+            500.0,
+            425.1,
+            568.1
+          ]
+        },
+        {
+          "page": 62,
+          "bounds_points": [
+            400.0,
+            275.0,
+            425.1,
+            343.1
+          ]
+        },
+        {
+          "page": 62,
+          "bounds_points": [
+            400.0,
+            449.0,
+            425.1,
+            517.1
+          ]
+        },
+        {
+          "page": 65,
+          "bounds_points": [
+            400.0,
+            251.0,
+            425.1,
+            319.1
+          ]
+        },
+        {
+          "page": 65,
+          "bounds_points": [
+            400.0,
+            489.0,
+            425.1,
+            557.1
+          ]
+        },
+        {
+          "page": 68,
+          "bounds_points": [
+            400.0,
+            227.0,
+            425.1,
+            295.1
+          ]
+        },
+        {
+          "page": 68,
+          "bounds_points": [
+            400.0,
+            438.0,
+            425.1,
+            506.1
+          ]
+        },
+        {
+          "page": 71,
+          "bounds_points": [
+            400.0,
+            260.0,
+            425.1,
+            328.1
+          ]
+        },
+        {
+          "page": 71,
+          "bounds_points": [
+            400.0,
+            478.0,
+            425.1,
+            546.1
+          ]
+        },
+        {
+          "page": 77,
+          "bounds_points": [
+            400.0,
+            269.0,
+            425.1,
+            337.1
+          ]
+        },
+        {
+          "page": 77,
+          "bounds_points": [
+            400.0,
+            467.0,
+            425.1,
+            535.1
+          ]
+        },
+        {
+          "page": 80,
+          "bounds_points": [
+            400.0,
+            245.0,
+            425.1,
+            313.1
+          ]
+        },
+        {
+          "page": 80,
+          "bounds_points": [
+            400.0,
+            416.0,
+            425.1,
+            484.1
+          ]
+        },
+        {
+          "page": 83,
+          "bounds_points": [
+            400.0,
+            221.0,
+            425.1,
+            289.1
+          ]
+        },
+        {
+          "page": 83,
+          "bounds_points": [
+            400.0,
+            456.0,
+            425.1,
+            524.1
+          ]
+        },
+        {
+          "page": 86,
+          "bounds_points": [
+            400.0,
+            254.0,
+            425.1,
+            322.1
+          ]
+        },
+        {
+          "page": 86,
+          "bounds_points": [
+            400.0,
+            496.0,
+            425.1,
+            564.1
+          ]
+        },
+        {
+          "page": 89,
+          "bounds_points": [
+            400.0,
+            230.0,
+            425.1,
+            298.1
+          ]
+        },
+        {
+          "page": 89,
+          "bounds_points": [
+            400.0,
+            445.0,
+            425.1,
+            513.1
+          ]
+        },
+        {
+          "page": 92,
+          "bounds_points": [
+            400.0,
+            263.0,
+            425.1,
+            331.1
+          ]
+        },
+        {
+          "page": 92,
+          "bounds_points": [
+            400.0,
+            485.0,
+            425.1,
+            553.1
+          ]
+        },
+        {
+          "page": 95,
+          "bounds_points": [
+            400.0,
+            239.0,
+            425.1,
+            307.1
+          ]
+        },
+        {
+          "page": 95,
+          "bounds_points": [
+            400.0,
+            434.0,
+            425.1,
+            502.1
+          ]
+        },
+        {
+          "page": 98,
+          "bounds_points": [
+            400.0,
+            272.0,
+            425.1,
+            340.1
+          ]
+        },
+        {
+          "page": 98,
+          "bounds_points": [
+            400.0,
+            474.0,
+            425.1,
+            542.1
+          ]
+        }
+      ],
+      "direct_original_crop_pixel_match": true
+    },
+    {
+      "id": "border-circuit-left",
+      "file": "border-circuit-left.png",
+      "description": "Three inward-fading layers of stepped circuit traces for the left margin.",
+      "pixels": [
+        244,
+        602
+      ],
+      "dpi": 600,
+      "mode": "RGBA",
+      "transparent_background": true,
+      "bytes": 7310,
+      "sha256": "8b272682ca874411428f73f40018884483705cb43fb74209b8b28a44f1a9da40",
+      "source_bounds_points": [
+        6.9,
+        253.0,
+        32.0,
+        321.1
+      ],
+      "export_crop_points": [
+        4.8,
+        250.92,
+        34.08,
+        323.16
+      ],
+      "native_ornament_size_points": [
+        25.1,
+        68.1
+      ],
+      "representative_source_page": 3,
+      "path_count": 9,
+      "occurrence_count": 62,
+      "source_pages": [
+        3,
+        6,
+        9,
+        12,
+        15,
+        18,
+        21,
+        24,
+        27,
+        30,
+        33,
+        36,
+        39,
+        42,
+        45,
+        48,
+        51,
+        54,
+        57,
+        63,
+        66,
+        69,
+        72,
+        75,
+        78,
+        81,
+        84,
+        87,
+        90,
+        93,
+        96
+      ],
+      "occurrences": [
+        {
+          "page": 3,
+          "bounds_points": [
+            6.9,
+            253.0,
+            32.0,
+            321.1
+          ]
+        },
+        {
+          "page": 3,
+          "bounds_points": [
+            6.9,
+            451.0,
+            32.0,
+            519.1
+          ]
+        },
+        {
+          "page": 6,
+          "bounds_points": [
+            6.9,
+            229.0,
+            32.0,
+            297.1
+          ]
+        },
+        {
+          "page": 6,
+          "bounds_points": [
+            6.9,
+            491.0,
+            32.0,
+            559.1
+          ]
+        },
+        {
+          "page": 9,
+          "bounds_points": [
+            6.9,
+            262.0,
+            32.0,
+            330.1
+          ]
+        },
+        {
+          "page": 9,
+          "bounds_points": [
+            6.9,
+            440.0,
+            32.0,
+            508.1
+          ]
+        },
+        {
+          "page": 12,
+          "bounds_points": [
+            6.9,
+            238.0,
+            32.0,
+            306.1
+          ]
+        },
+        {
+          "page": 12,
+          "bounds_points": [
+            6.9,
+            480.0,
+            32.0,
+            548.1
+          ]
+        },
+        {
+          "page": 15,
+          "bounds_points": [
+            6.9,
+            271.0,
+            32.0,
+            339.1
+          ]
+        },
+        {
+          "page": 15,
+          "bounds_points": [
+            6.9,
+            429.0,
+            32.0,
+            497.1
+          ]
+        },
+        {
+          "page": 18,
+          "bounds_points": [
+            6.9,
+            247.0,
+            32.0,
+            315.1
+          ]
+        },
+        {
+          "page": 18,
+          "bounds_points": [
+            6.9,
+            469.0,
+            32.0,
+            537.1
+          ]
+        },
+        {
+          "page": 21,
+          "bounds_points": [
+            6.9,
+            223.0,
+            32.0,
+            291.1
+          ]
+        },
+        {
+          "page": 21,
+          "bounds_points": [
+            6.9,
+            418.0,
+            32.0,
+            486.1
+          ]
+        },
+        {
+          "page": 24,
+          "bounds_points": [
+            6.9,
+            256.0,
+            32.0,
+            324.1
+          ]
+        },
+        {
+          "page": 24,
+          "bounds_points": [
+            6.9,
+            458.0,
+            32.0,
+            526.1
+          ]
+        },
+        {
+          "page": 27,
+          "bounds_points": [
+            6.9,
+            232.0,
+            32.0,
+            300.1
+          ]
+        },
+        {
+          "page": 27,
+          "bounds_points": [
+            6.9,
+            498.0,
+            32.0,
+            566.1
+          ]
+        },
+        {
+          "page": 30,
+          "bounds_points": [
+            6.9,
+            265.0,
+            32.0,
+            333.1
+          ]
+        },
+        {
+          "page": 30,
+          "bounds_points": [
+            6.9,
+            447.0,
+            32.0,
+            515.1
+          ]
+        },
+        {
+          "page": 33,
+          "bounds_points": [
+            6.9,
+            241.0,
+            32.0,
+            309.1
+          ]
+        },
+        {
+          "page": 33,
+          "bounds_points": [
+            6.9,
+            487.0,
+            32.0,
+            555.1
+          ]
+        },
+        {
+          "page": 36,
+          "bounds_points": [
+            6.9,
+            274.0,
+            32.0,
+            342.1
+          ]
+        },
+        {
+          "page": 36,
+          "bounds_points": [
+            6.9,
+            436.0,
+            32.0,
+            504.1
+          ]
+        },
+        {
+          "page": 39,
+          "bounds_points": [
+            6.9,
+            250.0,
+            32.0,
+            318.1
+          ]
+        },
+        {
+          "page": 39,
+          "bounds_points": [
+            6.9,
+            476.0,
+            32.0,
+            544.1
+          ]
+        },
+        {
+          "page": 42,
+          "bounds_points": [
+            6.9,
+            226.0,
+            32.0,
+            294.1
+          ]
+        },
+        {
+          "page": 42,
+          "bounds_points": [
+            6.9,
+            425.0,
+            32.0,
+            493.1
+          ]
+        },
+        {
+          "page": 45,
+          "bounds_points": [
+            6.9,
+            259.0,
+            32.0,
+            327.1
+          ]
+        },
+        {
+          "page": 45,
+          "bounds_points": [
+            6.9,
+            465.0,
+            32.0,
+            533.1
+          ]
+        },
+        {
+          "page": 48,
+          "bounds_points": [
+            6.9,
+            235.0,
+            32.0,
+            303.1
+          ]
+        },
+        {
+          "page": 48,
+          "bounds_points": [
+            6.9,
+            414.0,
+            32.0,
+            482.1
+          ]
+        },
+        {
+          "page": 51,
+          "bounds_points": [
+            6.9,
+            268.0,
+            32.0,
+            336.1
+          ]
+        },
+        {
+          "page": 51,
+          "bounds_points": [
+            6.9,
+            454.0,
+            32.0,
+            522.1
+          ]
+        },
+        {
+          "page": 54,
+          "bounds_points": [
+            6.9,
+            244.0,
+            32.0,
+            312.1
+          ]
+        },
+        {
+          "page": 54,
+          "bounds_points": [
+            6.9,
+            494.0,
+            32.0,
+            562.1
+          ]
+        },
+        {
+          "page": 57,
+          "bounds_points": [
+            6.9,
+            220.0,
+            32.0,
+            288.1
+          ]
+        },
+        {
+          "page": 57,
+          "bounds_points": [
+            6.9,
+            443.0,
+            32.0,
+            511.1
+          ]
+        },
+        {
+          "page": 63,
+          "bounds_points": [
+            6.9,
+            229.0,
+            32.0,
+            297.1
+          ]
+        },
+        {
+          "page": 63,
+          "bounds_points": [
+            6.9,
+            432.0,
+            32.0,
+            500.1
+          ]
+        },
+        {
+          "page": 66,
+          "bounds_points": [
+            6.9,
+            262.0,
+            32.0,
+            330.1
+          ]
+        },
+        {
+          "page": 66,
+          "bounds_points": [
+            6.9,
+            472.0,
+            32.0,
+            540.1
+          ]
+        },
+        {
+          "page": 69,
+          "bounds_points": [
+            6.9,
+            238.0,
+            32.0,
+            306.1
+          ]
+        },
+        {
+          "page": 69,
+          "bounds_points": [
+            6.9,
+            421.0,
+            32.0,
+            489.1
+          ]
+        },
+        {
+          "page": 72,
+          "bounds_points": [
+            6.9,
+            271.0,
+            32.0,
+            339.1
+          ]
+        },
+        {
+          "page": 72,
+          "bounds_points": [
+            6.9,
+            461.0,
+            32.0,
+            529.1
+          ]
+        },
+        {
+          "page": 75,
+          "bounds_points": [
+            6.9,
+            247.0,
+            32.0,
+            315.1
+          ]
+        },
+        {
+          "page": 75,
+          "bounds_points": [
+            6.9,
+            501.0,
+            32.0,
+            569.1
+          ]
+        },
+        {
+          "page": 78,
+          "bounds_points": [
+            6.9,
+            223.0,
+            32.0,
+            291.1
+          ]
+        },
+        {
+          "page": 78,
+          "bounds_points": [
+            6.9,
+            450.0,
+            32.0,
+            518.1
+          ]
+        },
+        {
+          "page": 81,
+          "bounds_points": [
+            6.9,
+            256.0,
+            32.0,
+            324.1
+          ]
+        },
+        {
+          "page": 81,
+          "bounds_points": [
+            6.9,
+            490.0,
+            32.0,
+            558.1
+          ]
+        },
+        {
+          "page": 84,
+          "bounds_points": [
+            6.9,
+            232.0,
+            32.0,
+            300.1
+          ]
+        },
+        {
+          "page": 84,
+          "bounds_points": [
+            6.9,
+            439.0,
+            32.0,
+            507.1
+          ]
+        },
+        {
+          "page": 87,
+          "bounds_points": [
+            6.9,
+            265.0,
+            32.0,
+            333.1
+          ]
+        },
+        {
+          "page": 87,
+          "bounds_points": [
+            6.9,
+            479.0,
+            32.0,
+            547.1
+          ]
+        },
+        {
+          "page": 90,
+          "bounds_points": [
+            6.9,
+            241.0,
+            32.0,
+            309.1
+          ]
+        },
+        {
+          "page": 90,
+          "bounds_points": [
+            6.9,
+            428.0,
+            32.0,
+            496.1
+          ]
+        },
+        {
+          "page": 93,
+          "bounds_points": [
+            6.9,
+            274.0,
+            32.0,
+            342.1
+          ]
+        },
+        {
+          "page": 93,
+          "bounds_points": [
+            6.9,
+            468.0,
+            32.0,
+            536.1
+          ]
+        },
+        {
+          "page": 96,
+          "bounds_points": [
+            6.9,
+            250.0,
+            32.0,
+            318.1
+          ]
+        },
+        {
+          "page": 96,
+          "bounds_points": [
+            6.9,
+            417.0,
+            32.0,
+            485.1
+          ]
+        }
+      ],
+      "direct_original_crop_pixel_match": true
+    },
+    {
+      "id": "border-network-right",
+      "file": "border-network-right.png",
+      "description": "Three inward-fading layers of connected node geometry for the right margin.",
+      "pixels": [
+        229,
+        512
+      ],
+      "dpi": 600,
+      "mode": "RGBA",
+      "transparent_background": true,
+      "bytes": 21097,
+      "sha256": "e5dcbd0489c7609c06224a3050b4e490c447869135c15ccceedce3d52276c1c5",
+      "source_bounds_points": [
+        400.8,
+        252.8,
+        424.2,
+        310.2
+      ],
+      "export_crop_points": [
+        398.76,
+        250.8,
+        426.24,
+        312.24
+      ],
+      "native_ornament_size_points": [
+        23.4,
+        57.4
+      ],
+      "representative_source_page": 3,
+      "path_count": 18,
+      "occurrence_count": 62,
+      "source_pages": [
+        3,
+        6,
+        9,
+        12,
+        15,
+        18,
+        21,
+        24,
+        27,
+        30,
+        33,
+        36,
+        39,
+        42,
+        45,
+        48,
+        51,
+        54,
+        57,
+        63,
+        66,
+        69,
+        72,
+        75,
+        78,
+        81,
+        84,
+        87,
+        90,
+        93,
+        96
+      ],
+      "occurrences": [
+        {
+          "page": 3,
+          "bounds_points": [
+            400.8,
+            252.8,
+            424.2,
+            310.2
+          ]
+        },
+        {
+          "page": 3,
+          "bounds_points": [
+            400.8,
+            450.8,
+            424.2,
+            508.2
+          ]
+        },
+        {
+          "page": 6,
+          "bounds_points": [
+            400.8,
+            228.8,
+            424.2,
+            286.2
+          ]
+        },
+        {
+          "page": 6,
+          "bounds_points": [
+            400.8,
+            490.8,
+            424.2,
+            548.2
+          ]
+        },
+        {
+          "page": 9,
+          "bounds_points": [
+            400.8,
+            261.8,
+            424.2,
+            319.2
+          ]
+        },
+        {
+          "page": 9,
+          "bounds_points": [
+            400.8,
+            439.8,
+            424.2,
+            497.2
+          ]
+        },
+        {
+          "page": 12,
+          "bounds_points": [
+            400.8,
+            237.8,
+            424.2,
+            295.2
+          ]
+        },
+        {
+          "page": 12,
+          "bounds_points": [
+            400.8,
+            479.8,
+            424.2,
+            537.2
+          ]
+        },
+        {
+          "page": 15,
+          "bounds_points": [
+            400.8,
+            270.8,
+            424.2,
+            328.2
+          ]
+        },
+        {
+          "page": 15,
+          "bounds_points": [
+            400.8,
+            428.8,
+            424.2,
+            486.2
+          ]
+        },
+        {
+          "page": 18,
+          "bounds_points": [
+            400.8,
+            246.8,
+            424.2,
+            304.2
+          ]
+        },
+        {
+          "page": 18,
+          "bounds_points": [
+            400.8,
+            468.8,
+            424.2,
+            526.2
+          ]
+        },
+        {
+          "page": 21,
+          "bounds_points": [
+            400.8,
+            222.8,
+            424.2,
+            280.2
+          ]
+        },
+        {
+          "page": 21,
+          "bounds_points": [
+            400.8,
+            417.8,
+            424.2,
+            475.2
+          ]
+        },
+        {
+          "page": 24,
+          "bounds_points": [
+            400.8,
+            255.8,
+            424.2,
+            313.2
+          ]
+        },
+        {
+          "page": 24,
+          "bounds_points": [
+            400.8,
+            457.8,
+            424.2,
+            515.2
+          ]
+        },
+        {
+          "page": 27,
+          "bounds_points": [
+            400.8,
+            231.8,
+            424.2,
+            289.2
+          ]
+        },
+        {
+          "page": 27,
+          "bounds_points": [
+            400.8,
+            497.8,
+            424.2,
+            555.2
+          ]
+        },
+        {
+          "page": 30,
+          "bounds_points": [
+            400.8,
+            264.8,
+            424.2,
+            322.2
+          ]
+        },
+        {
+          "page": 30,
+          "bounds_points": [
+            400.8,
+            446.8,
+            424.2,
+            504.2
+          ]
+        },
+        {
+          "page": 33,
+          "bounds_points": [
+            400.8,
+            240.8,
+            424.2,
+            298.2
+          ]
+        },
+        {
+          "page": 33,
+          "bounds_points": [
+            400.8,
+            486.8,
+            424.2,
+            544.2
+          ]
+        },
+        {
+          "page": 36,
+          "bounds_points": [
+            400.8,
+            273.8,
+            424.2,
+            331.2
+          ]
+        },
+        {
+          "page": 36,
+          "bounds_points": [
+            400.8,
+            435.8,
+            424.2,
+            493.2
+          ]
+        },
+        {
+          "page": 39,
+          "bounds_points": [
+            400.8,
+            249.8,
+            424.2,
+            307.2
+          ]
+        },
+        {
+          "page": 39,
+          "bounds_points": [
+            400.8,
+            475.8,
+            424.2,
+            533.2
+          ]
+        },
+        {
+          "page": 42,
+          "bounds_points": [
+            400.8,
+            225.8,
+            424.2,
+            283.2
+          ]
+        },
+        {
+          "page": 42,
+          "bounds_points": [
+            400.8,
+            424.8,
+            424.2,
+            482.2
+          ]
+        },
+        {
+          "page": 45,
+          "bounds_points": [
+            400.8,
+            258.8,
+            424.2,
+            316.2
+          ]
+        },
+        {
+          "page": 45,
+          "bounds_points": [
+            400.8,
+            464.8,
+            424.2,
+            522.2
+          ]
+        },
+        {
+          "page": 48,
+          "bounds_points": [
+            400.8,
+            234.8,
+            424.2,
+            292.2
+          ]
+        },
+        {
+          "page": 48,
+          "bounds_points": [
+            400.8,
+            413.8,
+            424.2,
+            471.2
+          ]
+        },
+        {
+          "page": 51,
+          "bounds_points": [
+            400.8,
+            267.8,
+            424.2,
+            325.2
+          ]
+        },
+        {
+          "page": 51,
+          "bounds_points": [
+            400.8,
+            453.8,
+            424.2,
+            511.2
+          ]
+        },
+        {
+          "page": 54,
+          "bounds_points": [
+            400.8,
+            243.8,
+            424.2,
+            301.2
+          ]
+        },
+        {
+          "page": 54,
+          "bounds_points": [
+            400.8,
+            493.8,
+            424.2,
+            551.2
+          ]
+        },
+        {
+          "page": 57,
+          "bounds_points": [
+            400.8,
+            219.8,
+            424.2,
+            277.2
+          ]
+        },
+        {
+          "page": 57,
+          "bounds_points": [
+            400.8,
+            442.8,
+            424.2,
+            500.2
+          ]
+        },
+        {
+          "page": 63,
+          "bounds_points": [
+            400.8,
+            228.8,
+            424.2,
+            286.2
+          ]
+        },
+        {
+          "page": 63,
+          "bounds_points": [
+            400.8,
+            431.8,
+            424.2,
+            489.2
+          ]
+        },
+        {
+          "page": 66,
+          "bounds_points": [
+            400.8,
+            261.8,
+            424.2,
+            319.2
+          ]
+        },
+        {
+          "page": 66,
+          "bounds_points": [
+            400.8,
+            471.8,
+            424.2,
+            529.2
+          ]
+        },
+        {
+          "page": 69,
+          "bounds_points": [
+            400.8,
+            237.8,
+            424.2,
+            295.2
+          ]
+        },
+        {
+          "page": 69,
+          "bounds_points": [
+            400.8,
+            420.8,
+            424.2,
+            478.2
+          ]
+        },
+        {
+          "page": 72,
+          "bounds_points": [
+            400.8,
+            270.8,
+            424.2,
+            328.2
+          ]
+        },
+        {
+          "page": 72,
+          "bounds_points": [
+            400.8,
+            460.8,
+            424.2,
+            518.2
+          ]
+        },
+        {
+          "page": 75,
+          "bounds_points": [
+            400.8,
+            246.8,
+            424.2,
+            304.2
+          ]
+        },
+        {
+          "page": 75,
+          "bounds_points": [
+            400.8,
+            500.8,
+            424.2,
+            558.2
+          ]
+        },
+        {
+          "page": 78,
+          "bounds_points": [
+            400.8,
+            222.8,
+            424.2,
+            280.2
+          ]
+        },
+        {
+          "page": 78,
+          "bounds_points": [
+            400.8,
+            449.8,
+            424.2,
+            507.2
+          ]
+        },
+        {
+          "page": 81,
+          "bounds_points": [
+            400.8,
+            255.8,
+            424.2,
+            313.2
+          ]
+        },
+        {
+          "page": 81,
+          "bounds_points": [
+            400.8,
+            489.8,
+            424.2,
+            547.2
+          ]
+        },
+        {
+          "page": 84,
+          "bounds_points": [
+            400.8,
+            231.8,
+            424.2,
+            289.2
+          ]
+        },
+        {
+          "page": 84,
+          "bounds_points": [
+            400.8,
+            438.8,
+            424.2,
+            496.2
+          ]
+        },
+        {
+          "page": 87,
+          "bounds_points": [
+            400.8,
+            264.8,
+            424.2,
+            322.2
+          ]
+        },
+        {
+          "page": 87,
+          "bounds_points": [
+            400.8,
+            478.8,
+            424.2,
+            536.2
+          ]
+        },
+        {
+          "page": 90,
+          "bounds_points": [
+            400.8,
+            240.8,
+            424.2,
+            298.2
+          ]
+        },
+        {
+          "page": 90,
+          "bounds_points": [
+            400.8,
+            427.8,
+            424.2,
+            485.2
+          ]
+        },
+        {
+          "page": 93,
+          "bounds_points": [
+            400.8,
+            273.8,
+            424.2,
+            331.2
+          ]
+        },
+        {
+          "page": 93,
+          "bounds_points": [
+            400.8,
+            467.8,
+            424.2,
+            525.2
+          ]
+        },
+        {
+          "page": 96,
+          "bounds_points": [
+            400.8,
+            249.8,
+            424.2,
+            307.2
+          ]
+        },
+        {
+          "page": 96,
+          "bounds_points": [
+            400.8,
+            416.8,
+            424.2,
+            474.2
+          ]
+        }
+      ],
+      "direct_original_crop_pixel_match": true
+    },
+    {
+      "id": "divider-electronic",
+      "file": "divider-electronic.png",
+      "description": "A central processor symbol with branching electronic traces.",
+      "pixels": [
+        1126,
+        168
+      ],
+      "dpi": 600,
+      "mode": "RGBA",
+      "transparent_background": true,
+      "bytes": 7785,
+      "sha256": "84607f7f78a87f55ffebde64ae7501bd07ec54f61acc6dffeff1fd4a808bcd35",
+      "source_bounds_points": [
+        152.5,
+        352.0,
+        283.5,
+        368.0
+      ],
+      "export_crop_points": [
+        150.48,
+        349.92,
+        285.6,
+        370.08
+      ],
+      "native_ornament_size_points": [
+        131.0,
+        16.0
+      ],
+      "representative_source_page": 6,
+      "path_count": 14,
+      "occurrence_count": 10,
+      "source_pages": [
+        6,
+        19,
+        33,
+        43,
+        51,
+        61,
+        65,
+        72,
+        81,
+        87
+      ],
+      "occurrences": [
+        {
+          "page": 6,
+          "bounds_points": [
+            152.5,
+            352.0,
+            283.5,
+            368.0
+          ]
+        },
+        {
+          "page": 19,
+          "bounds_points": [
+            152.5,
+            104.5,
+            283.5,
+            120.5
+          ]
+        },
+        {
+          "page": 33,
+          "bounds_points": [
+            152.5,
+            220.0,
+            283.5,
+            236.0
+          ]
+        },
+        {
+          "page": 43,
+          "bounds_points": [
+            152.5,
+            352.0,
+            283.5,
+            368.0
+          ]
+        },
+        {
+          "page": 51,
+          "bounds_points": [
+            152.5,
+            484.0,
+            283.5,
+            500.0
+          ]
+        },
+        {
+          "page": 61,
+          "bounds_points": [
+            152.5,
+            536.833,
+            283.5,
+            552.833
+          ]
+        },
+        {
+          "page": 65,
+          "bounds_points": [
+            152.5,
+            220.0,
+            283.5,
+            236.0
+          ]
+        },
+        {
+          "page": 72,
+          "bounds_points": [
+            152.5,
+            203.5,
+            283.5,
+            219.5
+          ]
+        },
+        {
+          "page": 81,
+          "bounds_points": [
+            152.5,
+            322.333,
+            283.5,
+            338.333
+          ]
+        },
+        {
+          "page": 87,
+          "bounds_points": [
+            152.5,
+            269.5,
+            283.5,
+            285.5
+          ]
+        }
+      ],
+      "direct_original_crop_pixel_match": true
+    },
+    {
+      "id": "divider-orchid",
+      "file": "divider-orchid.png",
+      "description": "An orchid-like blossom with curved stems and leaves.",
+      "pixels": [
+        1034,
+        192
+      ],
+      "dpi": 600,
+      "mode": "RGBA",
+      "transparent_background": true,
+      "bytes": 18583,
+      "sha256": "6821c9a62ee3140c60ff0a081f7a5fa8635c1688af4e95cad6ec5545c9c06bdf",
+      "source_bounds_points": [
+        158.0,
+        431.5,
+        278.0,
+        450.5
+      ],
+      "export_crop_points": [
+        156.0,
+        429.48,
+        280.08,
+        452.52
+      ],
+      "native_ornament_size_points": [
+        120.0,
+        19.0
+      ],
+      "representative_source_page": 8,
+      "path_count": 14,
+      "occurrence_count": 10,
+      "source_pages": [
+        8,
+        25,
+        36,
+        44,
+        56,
+        63,
+        67,
+        77,
+        83,
+        88
+      ],
+      "occurrences": [
+        {
+          "page": 8,
+          "bounds_points": [
+            158.0,
+            431.5,
+            278.0,
+            450.5
+          ]
+        },
+        {
+          "page": 25,
+          "bounds_points": [
+            158.0,
+            299.5,
+            278.0,
+            318.5
+          ]
+        },
+        {
+          "page": 36,
+          "bounds_points": [
+            158.0,
+            299.5,
+            278.0,
+            318.5
+          ]
+        },
+        {
+          "page": 44,
+          "bounds_points": [
+            158.0,
+            365.5,
+            278.0,
+            384.5
+          ]
+        },
+        {
+          "page": 56,
+          "bounds_points": [
+            158.0,
+            85.0,
+            278.0,
+            104.0
+          ]
+        },
+        {
+          "page": 63,
+          "bounds_points": [
+            158.0,
+            349.0,
+            278.0,
+            368.0
+          ]
+        },
+        {
+          "page": 67,
+          "bounds_points": [
+            158.0,
+            382.0,
+            278.0,
+            401.0
+          ]
+        },
+        {
+          "page": 77,
+          "bounds_points": [
+            158.0,
+            118.0,
+            278.0,
+            137.0
+          ]
+        },
+        {
+          "page": 83,
+          "bounds_points": [
+            158.0,
+            44.0,
+            278.0,
+            63.0
+          ]
+        },
+        {
+          "page": 88,
+          "bounds_points": [
+            158.0,
+            349.0,
+            278.0,
+            368.0
+          ]
+        }
+      ],
+      "direct_original_crop_pixel_match": true
+    },
+    {
+      "id": "divider-pencil",
+      "file": "divider-pencil.png",
+      "description": "Three overlapping hand-drawn pencil-like curves.",
+      "pixels": [
+        1075,
+        67
+      ],
+      "dpi": 600,
+      "mode": "RGBA",
+      "transparent_background": true,
+      "bytes": 6734,
+      "sha256": "112efc1454ba51a319c3253071e5b5fa36d30030e10e6422c9645aefbbf0652f",
+      "source_bounds_points": [
+        155.0,
+        391.0,
+        280.0,
+        394.9
+      ],
+      "export_crop_points": [
+        153.0,
+        388.92,
+        282.0,
+        396.96
+      ],
+      "native_ornament_size_points": [
+        125.0,
+        3.9
+      ],
+      "representative_source_page": 14,
+      "path_count": 3,
+      "occurrence_count": 9,
+      "source_pages": [
+        14,
+        31,
+        38,
+        49,
+        57,
+        64,
+        71,
+        78,
+        83
+      ],
+      "occurrences": [
+        {
+          "page": 14,
+          "bounds_points": [
+            155.0,
+            391.0,
+            280.0,
+            394.9
+          ]
+        },
+        {
+          "page": 31,
+          "bounds_points": [
+            155.0,
+            160.0,
+            280.0,
+            163.9
+          ]
+        },
+        {
+          "page": 38,
+          "bounds_points": [
+            155.0,
+            292.0,
+            280.0,
+            295.9
+          ]
+        },
+        {
+          "page": 49,
+          "bounds_points": [
+            155.0,
+            143.5,
+            280.0,
+            147.4
+          ]
+        },
+        {
+          "page": 57,
+          "bounds_points": [
+            155.0,
+            325.0,
+            280.0,
+            328.9
+          ]
+        },
+        {
+          "page": 64,
+          "bounds_points": [
+            155.0,
+            259.0,
+            280.0,
+            262.9
+          ]
+        },
+        {
+          "page": 71,
+          "bounds_points": [
+            155.0,
+            53.0,
+            280.0,
+            56.9
+          ]
+        },
+        {
+          "page": 78,
+          "bounds_points": [
+            155.0,
+            308.5,
+            280.0,
+            312.4
+          ]
+        },
+        {
+          "page": 83,
+          "bounds_points": [
+            155.0,
+            483.0,
+            280.0,
+            486.9
+          ]
+        }
+      ],
+      "direct_original_crop_pixel_match": true
+    }
+  ],
+  "qa": {
+    "independent_coverage_review": "passed",
+    "decorative_vector_drawings_accounted_for": 4901,
+    "excluded_non_decorative_vector_drawings": 66,
+    "all_exports_match_direct_original_pdf_crop_pixels": true,
+    "all_assets_have_rgba_transparency": true,
+    "all_assets_have_600_dpi_metadata": true,
+    "all_assets_have_unclipped_transparent_padding": true,
+    "visual_contact_sheet_review": "passed"
+  },
+  "palette": {
+    "border_layers_outer_to_inner": [
+      "#D8D5D1",
+      "#E6E4E1",
+      "#F2F1EF"
+    ],
+    "divider": "#746B66"
+  }
+}

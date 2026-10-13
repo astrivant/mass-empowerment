@@ -38,5 +38,14 @@
     "pixel_source": "archived high-quality review master",
     "original_png_containers_recovered": false,
     "prose_unchanged": true
+  },
+  "ornament_exports": {
+    "count": 11,
+    "format": "RGBA PNG",
+    "dpi": 600,
+    "source": "Original PDF vector paths",
+    "inventory": "ornaments/manifest.json",
+    "border_and_corner_occurrences": 552,
+    "divider_occurrences": 29
   }
 }

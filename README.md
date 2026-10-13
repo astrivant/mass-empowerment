@@ -57,6 +57,8 @@ Headings and ornaments use a muted gray-brown derivative of the public [Tiger Li
 
 The PDF embeds EB Garamond and DejaVu for reading. No new general license is assigned here to the original prose or illustrations.
 
+[Page-border icons and section dividers](ornaments/README.md) are available as eleven transparent 600-DPI PNGs, with a complete placement inventory. They are rasterizations of the original vector artwork.
+
 ## Source materials
 
 This repository includes the complete illustrated reading PDF, editable book text, fourteen chapter sources, public-source footnotes and provenance, and the appendix's indicator dataset and evidence map.
