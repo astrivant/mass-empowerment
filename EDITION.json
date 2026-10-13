@@ -31,5 +31,12 @@
     "all_visible_fonts_embedded": true
   },
   "pdf_revision": "Corrected a missing hyphen on PDF page 95; other 97 pages, links and bookmarks are unchanged.",
-  "source_package": "Reading PDF, editable text, chapter sources, citation provenance and evidence-map data. Standalone original-resolution art, font files and rendering helpers are not included."
+  "source_package": "Reading PDF, illustrated editable text, chapter sources, citation provenance, evidence-map data and seven full-resolution lossless PNG pixel recoveries. Font files and rendering helpers are not included.",
+  "separate_illustrations": {
+    "count": 7,
+    "format": "8-bit RGB PNG",
+    "pixel_source": "archived high-quality review master",
+    "original_png_containers_recovered": false,
+    "prose_unchanged": true
+  }
 }

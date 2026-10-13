@@ -1,0 +1,152 @@
+{
+  "title": "The Hours We Keep — illustration source inventory",
+  "recovery_method": "Lossless extraction from the archived high-resolution 99-page review master. Its RGB image streams use ASCII85Decode and FlateDecode; they are not JPEG streams. Each decoded stream was written to PNG without resizing, recoloring or pixel alteration. PNG round-trip decoded RGB hashes match the master exactly.",
+  "original_file_status": "The original generated PNG file containers have not been recovered. These PNG files preserve the master image pixels losslessly, but their file hashes differ from the recorded original PNG hashes. No image was regenerated or edited.",
+  "master_sha256": "7c512e35ba2e92fc348798c78b39bc99d49f90f1c6e246a0cca0abe7569a93ab",
+  "artwork_origin": "Original AI-generated illustrations created for this novella.",
+  "allocation": {
+    "story_scene": 4,
+    "world_context": 3
+  },
+  "images": [
+    {
+      "file": "00_title_towers.png",
+      "placement": {
+        "kind": "frontmatter"
+      },
+      "alt": "Corporate computation towers rise through mist above humans, cooperative machines and planted maintenance terraces.",
+      "role": "world context",
+      "width": 1536,
+      "height": 1024,
+      "color_mode": "RGB",
+      "bits_per_channel": 8,
+      "alpha": false,
+      "sha256": "6efdefeb1bd89b2e265c76986d21346be326b93d87dac5111f0a6712054af989",
+      "bytes": 2489609,
+      "decoded_rgb_sha256": "00a31a3f4b7e7baa61d0110b4f627558bd9a1183f0ac325a34c3f9dd39e3e481",
+      "archived_master_page": 1,
+      "original_generated_png_sha256": "97e2c5d53d592906453a53fca074320b2ffced206fdd8532458bd4edfee8547f",
+      "original_file_bytes_recovered": false
+    },
+    {
+      "file": "01_pump_gallery.png",
+      "placement": {
+        "kind": "chapter",
+        "after_chapter": 1
+      },
+      "alt": "A tiny maintenance worker stands among enormous pumps, enclosed cooling mains and receding industrial galleries.",
+      "role": "world context",
+      "width": 1024,
+      "height": 1536,
+      "color_mode": "RGB",
+      "bits_per_channel": 8,
+      "alpha": false,
+      "sha256": "40ffd879874d1a3f1526bd9b1db40dcb0e9056217c8c2b7e7d5e7747f0d0a574",
+      "bytes": 2975267,
+      "decoded_rgb_sha256": "885b205191d799897f91a30d715d2e8b775c0ea20fbc45f23de8f387d3c00433",
+      "archived_master_page": 11,
+      "original_generated_png_sha256": "1db610a6d6971b0f0492e003c97b6ab6383a95ab00fb05d504610456ff45dbb2",
+      "original_file_bytes_recovered": false
+    },
+    {
+      "file": "02_municipal_cavern.png",
+      "placement": {
+        "kind": "chapter",
+        "after_chapter": 3
+      },
+      "alt": "Two small figures cross a bridge within a vast geometric municipal data cavern.",
+      "role": "world context",
+      "width": 1024,
+      "height": 1536,
+      "color_mode": "RGB",
+      "bits_per_channel": 8,
+      "alpha": false,
+      "sha256": "393865ee42889d24757027c651e165473aba5f456cdf49713a358ad629df0664",
+      "bytes": 2929874,
+      "decoded_rgb_sha256": "14bbca26facd9971e5cc8abe9476f4c4ad2c65db77770843a650487839b11f21",
+      "archived_master_page": 24,
+      "original_generated_png_sha256": "c063782539d72b569ee6a9b9b03ae51a679e055d20947ccc35fa6ec979287515",
+      "original_file_bytes_recovered": false
+    },
+    {
+      "file": "03_intake_nine.png",
+      "placement": {
+        "kind": "chapter",
+        "after_chapter": 6
+      },
+      "alt": "Workers cross Intake Nine beside a monumental service gate, exposed machinery and a calm contained basin.",
+      "role": "story scene",
+      "width": 1024,
+      "height": 1536,
+      "color_mode": "RGB",
+      "bits_per_channel": 8,
+      "alpha": false,
+      "sha256": "2ea21ae408f08c4d4d3d6e52716086de00216c48b7c73bb58de4e10f094cf2b3",
+      "bytes": 3247953,
+      "decoded_rgb_sha256": "786f3b7cf1fe9908bd83fdbc9ee67751e060a6839e0105b8181e40aca7ce7508",
+      "archived_master_page": 45,
+      "original_generated_png_sha256": "be803a287c2c6d66ee8684c5f6ec0c201db4a2b02565d3a8320d82bff8d31b5b",
+      "original_file_bytes_recovered": false
+    },
+    {
+      "file": "04_depot_raid.png",
+      "placement": {
+        "kind": "chapter",
+        "after_chapter": 9
+      },
+      "alt": "People gather outside the rain-soaked tram depot beneath immense corporate structures.",
+      "role": "story scene",
+      "width": 1024,
+      "height": 1536,
+      "color_mode": "RGB",
+      "bits_per_channel": 8,
+      "alpha": false,
+      "sha256": "9be41f9a26d4c7c63a50b2a87dbec1a5951f34e634c8b060e18286428773770c",
+      "bytes": 3294498,
+      "decoded_rgb_sha256": "a624f724fd32e9c36be8751628beeddb4103afed20fac5fdd6a369b0bf33e353",
+      "archived_master_page": 66,
+      "original_generated_png_sha256": "01173d0d84a17b22968c7a0f00332dde4832b651ef27138061503488995a5a44",
+      "original_file_bytes_recovered": false
+    },
+    {
+      "file": "05_storm_switchhouse.png",
+      "placement": {
+        "kind": "chapter",
+        "after_chapter": 11
+      },
+      "alt": "A narrow catwalk reaches the suspended switchhouse beneath paired mains in a rainy mechanical cavern.",
+      "role": "story scene",
+      "width": 1024,
+      "height": 1536,
+      "color_mode": "RGB",
+      "bits_per_channel": 8,
+      "alpha": false,
+      "sha256": "bc978a466b3f9c9e3a535725551a167718ddeb3e5d5e64545205409ef524e06a",
+      "bytes": 3092674,
+      "decoded_rgb_sha256": "e1ba92ab71ee4606ff16e64f0670cbb5ce9aed582e6f7ba18d87208ebd33ee24",
+      "archived_master_page": 82,
+      "original_generated_png_sha256": "ef872bf2558556375c414217c8194ed66a2df176d8166bdda8043fce5a5ec160",
+      "original_file_bytes_recovered": false
+    },
+    {
+      "file": "06_reclaimed_workshop.png",
+      "placement": {
+        "kind": "chapter",
+        "after_chapter": 14
+      },
+      "alt": "A sunlit workshop opens onto immense machinery, with tropical plants, a human maker and capable maintenance machines.",
+      "role": "story scene",
+      "width": 1024,
+      "height": 1536,
+      "color_mode": "RGB",
+      "bits_per_channel": 8,
+      "alpha": false,
+      "sha256": "9613a0ec027e37cc016897c8c79ab8cfb7564f1f58568e3e4a7be8e985870f5c",
+      "bytes": 3100933,
+      "decoded_rgb_sha256": "8aa90236c154b9522fac939dd8029973868c9689a5a21a8911007ae94aff2ea7",
+      "archived_master_page": 99,
+      "original_generated_png_sha256": "c4a2084fed85e574ea739d0a470bb7cebb3cf23f11d969007f90466a77d843f6",
+      "original_file_bytes_recovered": false
+    }
+  ]
+}

@@ -9,5 +9,9 @@
     "The law protected a citizen's name and memories. An expired account could still take away the skill to read a wiring plan. The record of yesterday's work would remain.",
     "Below the streets, the Stackholds' buried computer halls ran through the night. Their cooling pipes passed through the foundations of buildings whose names had been forgotten. Far above, the high terraces were beginning to catch the sun.",
     "The water pressed against the gates. Somewhere in the lower city, a kettle began to boil."
-  ]
+  ],
+  "cover_illustration": {
+    "path": "illustrations/00_title_towers.png",
+    "alt": "Corporate computation towers rise through mist above humans, cooperative machines and planted maintenance terraces."
+  }
 }

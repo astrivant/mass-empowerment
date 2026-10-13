@@ -43,3 +43,12 @@ corroboration. Reading code is not running tests or validating a deployment.
 
 This document defines the review procedure; it does not install or claim that a
 weekly schedule exists.
+
+## Illustrated Markdown integrity
+
+`literary-baseline.json` records current chapter-file checksums, including their
+image references. `literary-prose-baseline.json` preserves the pre-illustration
+chapter checksums. Removing each added blank-line-prefixed illustration reference
+from the six illustrated chapter files reproduces those original bytes. This
+image-link edition changes no story prose or footnote claims. Git history retains
+the earlier text-only chapter files for direct comparison.

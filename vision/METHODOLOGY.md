@@ -51,8 +51,7 @@ Keep private research and sensitive personal data out of submissions. Strip conf
 
 The PNG is the reviewed figure; its byte checksum is recorded in the repository.
 The text and dataset expose the assessment for review. Executable plotting and
-book-rendering helpers, SVG/PDF exports of the standalone chart, original-resolution
-illustrations and font files are not included in this edition. This is not a
+book-rendering helpers, SVG/PDF exports of the standalone chart, font files are not included in this edition. The book's separate illustrations are documented in ../illustrations/README.md. This is not a
 complete reproducible book-build package. A future plotting tool should derive
 labels, dates and totals from the dataset, validate category values and demonstrate
 that changed rows alter the result correctly before it is accepted.

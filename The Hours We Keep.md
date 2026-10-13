@@ -1,5 +1,7 @@
 # The Hours We Keep
 
+![Corporate computation towers rise through mist above humans, cooperative machines and planted maintenance terraces.](illustrations/00_title_towers.png)
+
 A cyberpunk novella set in Lowreach, a city beneath corporate-owned towers of computation.
 
 *The lights went out by floor, but the counting never stopped.*
@@ -273,6 +275,8 @@ Kite read them while she sat with her brother.
 "There is a custody clause," it said at last. "It applies to running identities. Yours as well as mine."
 
 Mara looked from the smooth skin of her hand to the small worn seed. She had been back in the world for six hours. Somebody had already found a cleaner way to take what she knew.
+
+![A tiny maintenance worker stands among enormous pumps, enclosed cooling mains and receding industrial galleries.](illustrations/01_pump_gallery.png)
 
 # Chapter 2
 ## The Unbilled Hour
@@ -593,6 +597,8 @@ Kite did not thank her. After a moment it asked whether she wanted to save their
 She said yes.
 
 Sef lifted the lenses from her face. The depot returned around her, too small and full of smells. Someone had left a bowl of soup by her elbow. On the surface, a skin had formed while they were underneath the city.
+
+![Two small figures cross a bridge within a vast geometric municipal data cavern.](illustrations/02_municipal_cavern.png)
 
 # Chapter 4
 ## A Different Customer
@@ -1151,6 +1157,8 @@ At street level, the Stackhold's cooling exhaust struck them like an opened oven
 
 The evidence in the case could prove a lie. It could not supply any of those things.
 
+![Workers cross Intake Nine beside a monumental service gate, exposed machinery and a calm contained basin.](illustrations/03_intake_nine.png)
+
 # Chapter 7
 ## Current Debt
 
@@ -1688,6 +1696,8 @@ Mara looked at their oven, their boxed seeds, the tools they had saved. In the b
 
 "Then first we test the cable," she said.
 
+![People gather outside the rain-soaked tram depot beneath immense corporate structures.](illustrations/04_depot_raid.png)
+
 # Chapter 10
 ## Nobody Comes Alone
 
@@ -2075,6 +2085,8 @@ Kite checked the instruments once more.
 "Ready is a description of preparation," it said. "I am ready."
 
 Mara sat down beside the cradle. In the shaft, the maintenance crawler kept moving. Its tiny light passed behind a duct, and for a while she could not see it at all.
+
+![A narrow catwalk reaches the suspended switchhouse beneath paired mains in a rainy mechanical cavern.](illustrations/05_storm_switchhouse.png)
 
 # Chapter 12
 ## The Shape of a Door
@@ -2518,6 +2530,8 @@ Beyond the yellow fabric, the Stackhold filled half the visible sky. A tram rang
 The beetle crossed a patch of sunlight, hesitated, and went on until its spring ran down.
 
 Mara watched it for a while before winding it again.
+
+![A sunlit workshop opens onto immense machinery, with tropical plants, a human maker and capable maintenance machines.](illustrations/06_reclaimed_workshop.png)
 
 # Appendix: What Is Already Here?
 

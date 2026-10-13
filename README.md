@@ -49,7 +49,7 @@ Do not submit confidential proposals, personal records, credentials or private c
 
 Story text is embedded EB Garamond at 11 points with 16.5-point leading, left aligned. Other type sizes are balanced around it. The PDF retains linked Contents, bookmarks and genuine page footnotes. Its reading copy compresses illustrations without reducing their original pixel dimensions; text and the evidence matrix remain vector content.
 
-The cover and six interior plates are original AI-assisted illustrations embedded in the PDF. The story-scene/world-context allocation is four/three, approximately 57/43.
+The cover and six interior plates are original AI-assisted illustrations embedded in the PDF and linked from the Markdown. [Separate PNGs and provenance](illustrations/README.md) preserve the full-resolution RGB pixels losslessly from the archived high-quality master. Their PNG file containers differ from the unavailable original generated files. The story-scene/world-context allocation is four/three, approximately 57/43.
 
 Headings and ornaments use a muted gray-brown derivative of the public [Tiger Lily Plants](https://tiger-lily-plants.com/) theme. This is a design reference, not an affiliation claim.
 
@@ -59,6 +59,6 @@ The PDF embeds EB Garamond and DejaVu for reading. No new general license is ass
 
 This repository includes the complete illustrated reading PDF, editable book text, fourteen chapter sources, public-source footnotes and provenance, and the appendix's indicator dataset and evidence map.
 
-Standalone original-resolution illustration files, font files, and executable rendering or validation helpers are not included in this edition. This is not a complete reproducible build package. The PDF, text, sources and dataset can be reviewed without running code.
+Separate full-resolution PNG pixel recoveries are included, with alt text and chapter placement. Font files and executable rendering or validation helpers are not included in this edition. This is not a complete reproducible build package. The PDF, text, sources and dataset can be reviewed without running code.
 
 Citation updates should keep their revised text and evidence together. A changed PDF should be published only after its layout and links have been checked. No repository automation or build workflow is enabled by this edition.
