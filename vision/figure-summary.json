@@ -1,0 +1,17 @@
+{
+  "indicator_count": 10,
+  "reviewed_on": "2026-10-13",
+  "rfc_theme_counts": {
+    "Not found": 2,
+    "Covered": 7,
+    "Partial": 1
+  },
+  "reality_counts": {
+    "Observed": 2,
+    "Partial": 6,
+    "Unknown": 2
+  },
+  "rfc_caption": "RFC themes: 7/10 covered (70%)",
+  "reality_caption": "Public reality: 2/10 observed (20%)",
+  "dataset_sha256": "c318a28890bd1f5dac74c1e1763151c34cb9e24fa8925fd11e68dcae2c35229b"
+}

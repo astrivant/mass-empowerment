@@ -1,0 +1,65 @@
+{
+  "S1": {
+    "title": "Data Centers in Virginia",
+    "publisher": "Virginia JLARC",
+    "date": "2024-12",
+    "url": "https://jlarc.virginia.gov/landing-2024-data-centers-in-virginia.asp",
+    "kind": "Legislative audit"
+  },
+  "S2": {
+    "title": "Introducing ChatGPT agent",
+    "publisher": "OpenAI",
+    "date": "2025-07-17",
+    "url": "https://openai.com/index/introducing-chatgpt-agent/",
+    "kind": "Vendor release; historical availability, not independent reliability audit"
+  },
+  "S3": {
+    "title": "Memory in ChatGPT",
+    "publisher": "OpenAI",
+    "date": "Undated live documentation; reviewed 2026-10-13",
+    "url": "https://help.openai.com/en/articles/8590148-memory-in-chatgpt",
+    "kind": "Vendor documentation"
+  },
+  "S4": {
+    "title": "Verifiable Credentials Data Model v2.0",
+    "publisher": "W3C",
+    "date": "2025-05-15",
+    "url": "https://www.w3.org/TR/2025/REC-vc-data-model-2.0-20250515/",
+    "kind": "Technical standard; not adoption evidence"
+  },
+  "S5": {
+    "title": "OAuth 2.0 Token Revocation",
+    "publisher": "IETF / RFC Editor",
+    "date": "2013-08",
+    "url": "https://www.rfc-editor.org/info/rfc7009/",
+    "kind": "Technical standard; not complete consent enforcement"
+  },
+  "S6": {
+    "title": "Comments on Software and Agentic AI Identity Concept Paper",
+    "publisher": "NIST",
+    "date": "2026-09-29",
+    "url": "https://www.nist.gov/news-events/news/2026/09/comments-software-and-agentic-ai-identity-concept-paper",
+    "kind": "Project update; implementation use case described prospectively"
+  },
+  "S7": {
+    "title": "Private Cloud Compute: A new frontier for AI privacy in the cloud",
+    "publisher": "Apple Security Research",
+    "date": "2024-06-10",
+    "url": "https://security.apple.com/blog/private-cloud-compute/",
+    "kind": "Vendor architecture; not independent security certification"
+  },
+  "S8": {
+    "title": "AI Risk Management Framework",
+    "publisher": "NIST",
+    "date": "Framework released 2023-01-26; live page reviewed 2026-10-13",
+    "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+    "kind": "Voluntary framework; not universal compliance evidence"
+  },
+  "S9": {
+    "title": "Copyright and Artificial Intelligence, Part 1: Digital Replicas",
+    "publisher": "US Copyright Office",
+    "date": "2024-07",
+    "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-1-Digital-Replicas-Report.pdf",
+    "kind": "Historical policy report; not statement of current law"
+  }
+}
