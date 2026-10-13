@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "chapter": 2,
+    "anchor": "The repairer was already bent over the heater.",
+    "html": "This fictional separation extrapolates from Astrivant&#x27;s Identity, a user-owned policy and learning layer that records reviewed guidance, lessons and decisions. The records guide agents; enforcement depends on their runtime and delivery checks. It does not implement mind transfer or a memory-versus-intelligence architecture. <link href=\"https://github.com/astrivant/identity/blob/67c86d16ec24b8d9979856aa46f2f1d582cc448f/README.md\" color=\"#000000\"><u>Public source</u></link>",
+    "text": "This fictional separation extrapolates from Astrivant's Identity, a user-owned policy and learning layer that records reviewed guidance, lessons and decisions. The records guide agents; enforcement depends on their runtime and delivery checks. It does not implement mind transfer or a memory-versus-intelligence architecture.",
+    "url": "https://github.com/astrivant/identity/blob/67c86d16ec24b8d9979856aa46f2f1d582cc448f/README.md"
+  },
+  {
+    "id": 2,
+    "chapter": 3,
+    "anchor": "The mesh withdrew across a space the size of a doorway.",
+    "html": "The witness simulation is fictional. Astrivant&#x27;s hypothesis-helm explores generated configurations and reduces failures to reproducible examples, inspiring the practice of testing rules beyond their comfortable defaults. <link href=\"https://github.com/astrivant/hypothesis-helm/blob/25d9b41a2ecdf020651d62f293d63bce8e935730/README.md\" color=\"#000000\"><u>Public source</u></link>",
+    "text": "The witness simulation is fictional. Astrivant's hypothesis-helm explores generated configurations and reduces failures to reproducible examples, inspiring the practice of testing rules beyond their comfortable defaults.",
+    "url": "https://github.com/astrivant/hypothesis-helm/blob/25d9b41a2ecdf020651d62f293d63bce8e935730/README.md"
+  },
+  {
+    "id": 3,
+    "chapter": 4,
+    "anchor": "Three independent services could now agree which truck belonged where.",
+    "html": "The cold store&#x27;s joined services are fictional. Astrivant&#x27;s Composer translates Helm charts into Docker Compose development environments; translating deployment descriptions does not reproduce every controller&#x27;s behavior. <link href=\"https://github.com/astrivant/composer/blob/4ee8ce8507e10b6cbbac607d7bda01e22740cd37/README.md\" color=\"#000000\"><u>Public source</u></link>",
+    "text": "The cold store's joined services are fictional. Astrivant's Composer translates Helm charts into Docker Compose development environments; translating deployment descriptions does not reproduce every controller's behavior.",
+    "url": "https://github.com/astrivant/composer/blob/4ee8ce8507e10b6cbbac607d7bda01e22740cd37/README.md"
+  },
+  {
+    "id": 4,
+    "chapter": 7,
+    "anchor": "At dawn they had a proposal, covered in corrections.",
+    "html": "The district mesh extrapolates Polyad&#x27;s Service Symbiosis: services respond locally to changing capacity while authorized connections and wider graph constraints govern their cooperation. Its personhood remains fiction. <link href=\"https://github.com/astrivant/polyad/blob/c446fa5f0dc8eaaec82b49e864e8ca86046c53d1/docs/workloads/adaptive-microservices.md\" color=\"#000000\"><u>Public source</u></link>",
+    "text": "The district mesh extrapolates Polyad's Service Symbiosis: services respond locally to changing capacity while authorized connections and wider graph constraints govern their cooperation. Its personhood remains fiction.",
+    "url": "https://github.com/astrivant/polyad/blob/c446fa5f0dc8eaaec82b49e864e8ca86046c53d1/docs/workloads/adaptive-microservices.md"
+  },
+  {
+    "id": 5,
+    "chapter": 8,
+    "anchor": "She set the seed down and waited for its acceptance light",
+    "html": "Kite&#x27;s right to refuse is fictional personhood. Identity&#x27;s public security policy supplies a narrower practical boundary: personal records remain separately controlled, with explicit choices about external processing. <link href=\"https://github.com/astrivant/identity/blob/67c86d16ec24b8d9979856aa46f2f1d582cc448f/SECURITY.md\" color=\"#000000\"><u>Public source</u></link>",
+    "text": "Kite's right to refuse is fictional personhood. Identity's public security policy supplies a narrower practical boundary: personal records remain separately controlled, with explicit choices about external processing.",
+    "url": "https://github.com/astrivant/identity/blob/67c86d16ec24b8d9979856aa46f2f1d582cc448f/SECURITY.md"
+  },
+  {
+    "id": 6,
+    "chapter": 10,
+    "anchor": "Seven members had brought identity claims:",
+    "html": "The novel extends record portability into personhood. Identity&#x27;s multisleeving workflow starts separate instances from a shared revision, with isolated worktrees, signed checkpoints and reconciliation before normal closure. These workflow gates cannot prevent a host from terminating a process. <link href=\"https://github.com/astrivant/identity/blob/67c86d16ec24b8d9979856aa46f2f1d582cc448f/docs/multisleeving.md\" color=\"#000000\"><u>Public source</u></link>",
+    "text": "The novel extends record portability into personhood. Identity's multisleeving workflow starts separate instances from a shared revision, with isolated worktrees, signed checkpoints and reconciliation before normal closure. These workflow gates cannot prevent a host from terminating a process.",
+    "url": "https://github.com/astrivant/identity/blob/67c86d16ec24b8d9979856aa46f2f1d582cc448f/docs/multisleeving.md"
+  },
+  {
+    "id": 7,
+    "chapter": 12,
+    "anchor": "Vesper's emergency submission arrived as a long avenue of rooms.",
+    "html": "The civic trial is imagined. Polyad&#x27;s Soul study compares fixed and adaptive behavior across six real service processes, verifying completed work under controlled constraints. Its workload includes simulated I/O delay and modeled resource limits; it is not a production-scale civic trial. <link href=\"https://github.com/astrivant/polyad/blob/c446fa5f0dc8eaaec82b49e864e8ca86046c53d1/studies/soul/README.md\" color=\"#000000\"><u>Public source</u></link>",
+    "text": "The civic trial is imagined. Polyad's Soul study compares fixed and adaptive behavior across six real service processes, verifying completed work under controlled constraints. Its workload includes simulated I/O delay and modeled resource limits; it is not a production-scale civic trial.",
+    "url": "https://github.com/astrivant/polyad/blob/c446fa5f0dc8eaaec82b49e864e8ca86046c53d1/studies/soul/README.md"
+  },
+  {
+    "id": 8,
+    "chapter": 13,
+    "anchor": "They had the verified checkpoint from yesterday morning.",
+    "html": "Kite&#x27;s lost experience is fiction. Polyad&#x27;s managed event subscriptions can reconnect from their last completed checkpoint. Applications must preserve that checkpoint, handle at-least-once delivery and recover explicitly when replay has expired. This is an opt-in transport mechanism, not restoration of a mind. <link href=\"https://github.com/astrivant/polyad/blob/c446fa5f0dc8eaaec82b49e864e8ca86046c53d1/docs/operations/event-rebalancing.md\" color=\"#000000\"><u>Public source</u></link>",
+    "text": "Kite's lost experience is fiction. Polyad's managed event subscriptions can reconnect from their last completed checkpoint. Applications must preserve that checkpoint, handle at-least-once delivery and recover explicitly when replay has expired. This is an opt-in transport mechanism, not restoration of a mind.",
+    "url": "https://github.com/astrivant/polyad/blob/c446fa5f0dc8eaaec82b49e864e8ca86046c53d1/docs/operations/event-rebalancing.md"
+  }
+]

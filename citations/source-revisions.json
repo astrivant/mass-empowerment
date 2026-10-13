@@ -1,0 +1,176 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "repository": "astrivant/identity",
+      "visibility_verified": "public",
+      "checked_at": "2026-10-13T22:42:00Z",
+      "commit": "67c86d16ec24b8d9979856aa46f2f1d582cc448f",
+      "path": "README.md",
+      "blob_sha": "962cfb50704bae629ae889316dcb19de6023e000",
+      "url": "https://github.com/astrivant/identity/blob/67c86d16ec24b8d9979856aa46f2f1d582cc448f/README.md",
+      "evidence_level": "public documentation and selected implementation inspected; not executed",
+      "claim": "This fictional separation extrapolates from Astrivant's Identity, a user-owned policy and learning layer that records reviewed guidance, lessons and decisions. The records guide agents; enforcement depends on their runtime and delivery checks. It does not implement mind transfer or a memory-versus-intelligence architecture.",
+      "fictional_boundary": "Literary analogy only; no claim of personhood, consciousness, mind transfer or civic deployment.",
+      "implementation_paths_inspected": [
+        "pkg/witful/knowledge/models.py"
+      ]
+    },
+    {
+      "id": 2,
+      "repository": "astrivant/hypothesis-helm",
+      "visibility_verified": "public",
+      "checked_at": "2026-10-13T22:42:00Z",
+      "commit": "25d9b41a2ecdf020651d62f293d63bce8e935730",
+      "path": "README.md",
+      "blob_sha": "e312242ba8106e81eb3b91ca995bf3ae9d75d414",
+      "url": "https://github.com/astrivant/hypothesis-helm/blob/25d9b41a2ecdf020651d62f293d63bce8e935730/README.md",
+      "evidence_level": "public documentation and selected implementation inspected; not executed",
+      "claim": "The witness simulation is fictional. Astrivant's hypothesis-helm explores generated configurations and reduces failures to reproducible examples, inspiring the practice of testing rules beyond their comfortable defaults.",
+      "fictional_boundary": "Literary analogy only; no claim of personhood, consciousness, mind transfer or civic deployment.",
+      "implementation_paths_inspected": [
+        "pkg/hypothesis_helm/charts/suites/generate.py"
+      ]
+    },
+    {
+      "id": 3,
+      "repository": "astrivant/composer",
+      "visibility_verified": "public",
+      "checked_at": "2026-10-13T22:42:00Z",
+      "commit": "4ee8ce8507e10b6cbbac607d7bda01e22740cd37",
+      "path": "README.md",
+      "blob_sha": "27565760994842e1a112ef770a104cc5f4ee58b9",
+      "url": "https://github.com/astrivant/composer/blob/4ee8ce8507e10b6cbbac607d7bda01e22740cd37/README.md",
+      "evidence_level": "public documentation and selected implementation inspected; not executed",
+      "claim": "The cold store's joined services are fictional. Astrivant's Composer translates Helm charts into Docker Compose development environments; translating deployment descriptions does not reproduce every controller's behavior.",
+      "fictional_boundary": "Literary analogy only; no claim of personhood, consciousness, mind transfer or civic deployment.",
+      "implementation_paths_inspected": [
+        "pkg/composer/compiler.py"
+      ]
+    },
+    {
+      "id": 4,
+      "repository": "astrivant/polyad",
+      "visibility_verified": "public",
+      "checked_at": "2026-10-13T22:42:00Z",
+      "commit": "c446fa5f0dc8eaaec82b49e864e8ca86046c53d1",
+      "path": "docs/workloads/adaptive-microservices.md",
+      "blob_sha": "3306192d640ccdec21df116a1e91e0fc3af780da",
+      "url": "https://github.com/astrivant/polyad/blob/c446fa5f0dc8eaaec82b49e864e8ca86046c53d1/docs/workloads/adaptive-microservices.md",
+      "evidence_level": "public documentation and selected implementation inspected; not executed",
+      "claim": "The district mesh extrapolates Polyad's Service Symbiosis: services respond locally to changing capacity while authorized connections and wider graph constraints govern their cooperation. Its personhood remains fiction.",
+      "fictional_boundary": "Literary analogy only; no claim of personhood, consciousness, mind transfer or civic deployment.",
+      "implementation_paths_inspected": [
+        "pkg/polyad-sdk/polyad_sdk/symbiosis/service.py"
+      ]
+    },
+    {
+      "id": 5,
+      "repository": "astrivant/identity",
+      "visibility_verified": "public",
+      "checked_at": "2026-10-13T22:42:00Z",
+      "commit": "67c86d16ec24b8d9979856aa46f2f1d582cc448f",
+      "path": "SECURITY.md",
+      "blob_sha": "b8f59617784e6f9874b58d5717f0d41152f6da8d",
+      "url": "https://github.com/astrivant/identity/blob/67c86d16ec24b8d9979856aa46f2f1d582cc448f/SECURITY.md",
+      "evidence_level": "public security policy inspected; no independent security assessment",
+      "claim": "Kite's right to refuse is fictional personhood. Identity's public security policy supplies a narrower practical boundary: personal records remain separately controlled, with explicit choices about external processing.",
+      "fictional_boundary": "Literary analogy only; no claim of personhood, consciousness, mind transfer or civic deployment.",
+      "implementation_paths_inspected": []
+    },
+    {
+      "id": 6,
+      "repository": "astrivant/identity",
+      "visibility_verified": "public",
+      "checked_at": "2026-10-13T22:42:00Z",
+      "commit": "67c86d16ec24b8d9979856aa46f2f1d582cc448f",
+      "path": "docs/multisleeving.md",
+      "blob_sha": "f8f0cbfd7361d229644145dec1bc88a641439b68",
+      "url": "https://github.com/astrivant/identity/blob/67c86d16ec24b8d9979856aa46f2f1d582cc448f/docs/multisleeving.md",
+      "evidence_level": "public documentation and selected implementation inspected; not executed",
+      "claim": "The novel extends record portability into personhood. Identity's multisleeving workflow starts separate instances from a shared revision, with isolated worktrees, signed checkpoints and reconciliation before normal closure. These workflow gates cannot prevent a host from terminating a process.",
+      "fictional_boundary": "Literary analogy only; no claim of personhood, consciousness, mind transfer or civic deployment.",
+      "implementation_paths_inspected": [
+        "pkg/witful/sleeves/operations.py"
+      ]
+    },
+    {
+      "id": 7,
+      "repository": "astrivant/polyad",
+      "visibility_verified": "public",
+      "checked_at": "2026-10-13T22:42:00Z",
+      "commit": "c446fa5f0dc8eaaec82b49e864e8ca86046c53d1",
+      "path": "studies/soul/README.md",
+      "blob_sha": "0c4c825093fc3c4f829a5ee06463f1b28a97032e",
+      "url": "https://github.com/astrivant/polyad/blob/c446fa5f0dc8eaaec82b49e864e8ca86046c53d1/studies/soul/README.md",
+      "evidence_level": "public documentation and selected implementation inspected; not executed",
+      "claim": "The civic trial is imagined. Polyad's Soul study compares fixed and adaptive behavior across six real service processes, verifying completed work under controlled constraints. Its workload includes simulated I/O delay and modeled resource limits; it is not a production-scale civic trial.",
+      "fictional_boundary": "Literary analogy only; no claim of personhood, consciousness, mind transfer or civic deployment.",
+      "implementation_paths_inspected": [
+        "pkg/polyad-benchmarks/polyad_benchmarks/studies/soul/runtime/engine.py"
+      ]
+    },
+    {
+      "id": 8,
+      "repository": "astrivant/polyad",
+      "visibility_verified": "public",
+      "checked_at": "2026-10-13T22:42:00Z",
+      "commit": "c446fa5f0dc8eaaec82b49e864e8ca86046c53d1",
+      "path": "docs/operations/event-rebalancing.md",
+      "blob_sha": "55c66f479a276fdd5a6101fbc9fac7b15dd39ed8",
+      "url": "https://github.com/astrivant/polyad/blob/c446fa5f0dc8eaaec82b49e864e8ca86046c53d1/docs/operations/event-rebalancing.md",
+      "evidence_level": "public documentation and selected implementation inspected; not executed",
+      "claim": "Kite's lost experience is fiction. Polyad's managed event subscriptions can reconnect from their last completed checkpoint. Applications must preserve that checkpoint, handle at-least-once delivery and recover explicitly when replay has expired. This is an opt-in transport mechanism, not restoration of a mind.",
+      "fictional_boundary": "Literary analogy only; no claim of personhood, consciousness, mind transfer or civic deployment.",
+      "implementation_paths_inspected": [
+        "pkg/polyad-sdk/polyad_sdk/events/subscriptions.py"
+      ]
+    }
+  ],
+  "implementation_sources": [
+    {
+      "repo": "identity",
+      "path": "pkg/witful/sleeves/operations.py",
+      "sha": "4cb773dd4a7607f76cfe0f6ac888469a8a3485a4",
+      "url": "https://github.com/astrivant/identity/blob/67c86d16ec24b8d9979856aa46f2f1d582cc448f/pkg/witful/sleeves/operations.py"
+    },
+    {
+      "repo": "hypothesis-helm",
+      "path": "pkg/hypothesis_helm/charts/suites/generate.py",
+      "sha": "15a9422c0a3e9382341790e9306f78b5e10acf07",
+      "url": "https://github.com/astrivant/hypothesis-helm/blob/25d9b41a2ecdf020651d62f293d63bce8e935730/pkg/hypothesis_helm/charts/suites/generate.py"
+    },
+    {
+      "repo": "composer",
+      "path": "pkg/composer/compiler.py",
+      "sha": "f649df61177c7e543255b960f80cfc7af6db821b",
+      "url": "https://github.com/astrivant/composer/blob/4ee8ce8507e10b6cbbac607d7bda01e22740cd37/pkg/composer/compiler.py"
+    },
+    {
+      "repo": "polyad",
+      "path": "pkg/polyad-sdk/polyad_sdk/symbiosis/service.py",
+      "sha": "d7cc5623e7be2ec3ae188d74c2679b757a302c19",
+      "url": "https://github.com/astrivant/polyad/blob/c446fa5f0dc8eaaec82b49e864e8ca86046c53d1/pkg/polyad-sdk/polyad_sdk/symbiosis/service.py"
+    },
+    {
+      "repo": "polyad",
+      "path": "pkg/polyad-benchmarks/polyad_benchmarks/studies/soul/runtime/engine.py",
+      "sha": "cdddcb0fcb8c3b5311066f723e1791aa2632cce1",
+      "url": "https://github.com/astrivant/polyad/blob/c446fa5f0dc8eaaec82b49e864e8ca86046c53d1/pkg/polyad-benchmarks/polyad_benchmarks/studies/soul/runtime/engine.py"
+    },
+    {
+      "repo": "polyad",
+      "path": "pkg/polyad-sdk/polyad_sdk/events/subscriptions.py",
+      "sha": "63dd499a4bd17efbf7be15695cd4519372deb075",
+      "url": "https://github.com/astrivant/polyad/blob/c446fa5f0dc8eaaec82b49e864e8ca86046c53d1/pkg/polyad-sdk/polyad_sdk/events/subscriptions.py"
+    },
+    {
+      "repo": "identity",
+      "path": "pkg/witful/knowledge/models.py",
+      "sha": "01b0b9e7c0aedf7340b039cf53272c7387787aff",
+      "url": "https://github.com/astrivant/identity/blob/67c86d16ec24b8d9979856aa46f2f1d582cc448f/pkg/witful/knowledge/models.py"
+    }
+  ],
+  "implementation_review": "Selected public implementation files were read for corroboration. No package, integration, benchmark or production test was run for this editorial review."
+}
