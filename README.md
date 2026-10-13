@@ -1,5 +1,7 @@
 # The Hours We Keep
 
+![Corporate computation towers rise through mist above humans, cooperative machines and planted maintenance terraces.](illustrations/00_title_towers.png)
+
 An original illustrated cyberpunk novella about workers reclaiming control of their learned intelligence, and the costs of making that freedom usable.
 
 [Read the illustrated PDF](output/pdf/final/The%20Hours%20We%20Keep%20with%20appendix.pdf) · [Read the editable text](The%20Hours%20We%20Keep.md)
