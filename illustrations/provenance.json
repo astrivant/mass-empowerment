@@ -1,7 +1,7 @@
 {
-  "title": "The Hours We Keep \u2014 illustration source inventory",
-  "recovery_method": "The six interior illustrations were recovered losslessly from RGB image streams in the archived high-resolution review master. The current cover is a new AI-assisted revision of the recovered previous cover; its generated PNG is preserved without raster postprocessing.",
-  "original_file_status": "The six interior PNGs preserve master image pixels losslessly; the original generated interior PNG containers remain unavailable. The revised cover is a newly generated PNG, not a pixel recovery of the former cover.",
+  "title": "The Hours We Keep — illustration source inventory",
+  "recovery_method": "The seven current illustrations are AI-assisted revisions of previously recovered artwork. The approved cover is retained; each of the six interior plates was individually revised for the ecological edition. Generated RGB PNG files are retained without raster postprocessing.",
+  "original_file_status": "Current revised generated PNG containers are preserved. Previous recovered artwork and its provenance remain in Git history; revisions are not claimed to be pixel recoveries of earlier artwork.",
   "master_sha256": "7c512e35ba2e92fc348798c78b39bc99d49f90f1c6e246a0cca0abe7569a93ab",
   "artwork_origin": "Original AI-generated illustrations created for this novella.",
   "allocation": {
@@ -40,19 +40,26 @@
         "kind": "chapter",
         "after_chapter": 1
       },
-      "alt": "A tiny maintenance worker stands among enormous pumps, enclosed cooling mains and receding industrial galleries.",
+      "alt": "A tiny worker maintains colossal enclosed cooling pumps beside calm process water, under planted galleries and subtle machine interfaces. Small flying AI and wall-supported maintenance AI are visible.",
       "role": "world context",
       "width": 1024,
       "height": 1536,
       "color_mode": "RGB",
       "bits_per_channel": 8,
       "alpha": false,
-      "sha256": "40ffd879874d1a3f1526bd9b1db40dcb0e9056217c8c2b7e7d5e7747f0d0a574",
-      "bytes": 2975267,
-      "decoded_rgb_sha256": "885b205191d799897f91a30d715d2e8b775c0ea20fbc45f23de8f387d3c00433",
-      "archived_master_page": 11,
-      "original_generated_png_sha256": "1db610a6d6971b0f0492e003c97b6ab6383a95ab00fb05d504610456ff45dbb2",
-      "original_file_bytes_recovered": false
+      "sha256": "cc9bfa34b5eb6a03262f908af23f226004c7bf0e1e423e457e98cb9c723e3e85",
+      "bytes": 3309820,
+      "decoded_rgb_sha256": "a5804d1a11589df889384e5c915cf24379f831dc7ea040a59eab706ea63c90d7",
+      "revision_date": "2026-10-14",
+      "method": "AI-assisted revision of the previously recovered interior illustration; generated RGB PNG retained without raster postprocessing.",
+      "revision_summary": "Two sparse ring-propeller scouts in the open space at right. Faceted multi-contact climber gripping the upper-right vertical pipe/support. Existing small ferns/vines/orchids retained at pump and contained-water margins.",
+      "generated_png_preserved": true,
+      "previous_illustration": {
+        "sha256": "40ffd879874d1a3f1526bd9b1db40dcb0e9056217c8c2b7e7d5e7747f0d0a574",
+        "url": "https://github.com/astrivant/mass-empowerment/blob/c6a11a225f9f70fb8a86036e853cabbf34f57905/illustrations/01_pump_gallery.png",
+        "recovered_pixels_source": "Archived high-resolution review master",
+        "original_generated_png_sha256": "1db610a6d6971b0f0492e003c97b6ab6383a95ab00fb05d504610456ff45dbb2"
+      }
     },
     {
       "file": "02_municipal_cavern.png",
@@ -60,19 +67,26 @@
         "kind": "chapter",
         "after_chapter": 3
       },
-      "alt": "Two small figures cross a bridge within a vast geometric municipal data cavern.",
+      "alt": "Two tiny figures and a geometric guide cross a bridge in a vast virtual municipal data cavern of suspended slabs, inspection layers and distant terraces. Small flying AI and wall-supported maintenance AI are visible.",
       "role": "world context",
       "width": 1024,
       "height": 1536,
       "color_mode": "RGB",
       "bits_per_channel": 8,
       "alpha": false,
-      "sha256": "393865ee42889d24757027c651e165473aba5f456cdf49713a358ad629df0664",
-      "bytes": 2929874,
-      "decoded_rgb_sha256": "14bbca26facd9971e5cc8abe9476f4c4ad2c65db77770843a650487839b11f21",
-      "archived_master_page": 24,
-      "original_generated_png_sha256": "c063782539d72b569ee6a9b9b03ae51a679e055d20947ccc35fa6ec979287515",
-      "original_file_bytes_recovered": false
+      "sha256": "8b05dac25d1206a06fa08c50fbdde3ea4df29312ebc41f15eabc9d2f3f937c00",
+      "bytes": 2743598,
+      "decoded_rgb_sha256": "14492195b475d54764186f86d7b7f5209a43dc16ec535b6e139bea4d0efe4b21",
+      "revision_date": "2026-10-14",
+      "method": "AI-assisted revision of the previously recovered interior illustration; generated RGB PNG retained without raster postprocessing.",
+      "revision_summary": "Two restrained geometric flying avatars with thin rotor rings, left of and within the circular aperture. Angular geometric AI gripping the right foreground vertical service structure. Terrace planting retained; no physical water added to this virtual visualization.",
+      "generated_png_preserved": true,
+      "previous_illustration": {
+        "sha256": "393865ee42889d24757027c651e165473aba5f456cdf49713a358ad629df0664",
+        "url": "https://github.com/astrivant/mass-empowerment/blob/c6a11a225f9f70fb8a86036e853cabbf34f57905/illustrations/02_municipal_cavern.png",
+        "recovered_pixels_source": "Archived high-resolution review master",
+        "original_generated_png_sha256": "c063782539d72b569ee6a9b9b03ae51a679e055d20947ccc35fa6ec979287515"
+      }
     },
     {
       "file": "03_intake_nine.png",
@@ -80,19 +94,26 @@
         "kind": "chapter",
         "after_chapter": 6
       },
-      "alt": "Workers cross Intake Nine beside a monumental service gate, exposed machinery and a calm contained basin.",
+      "alt": "Workers cross a catwalk before Intake Nine’s monumental backflow gate above a calm contained basin, with a rail-supported maintenance crawler overhead. Small flying AI and wall-supported maintenance AI are visible.",
       "role": "story scene",
       "width": 1024,
       "height": 1536,
       "color_mode": "RGB",
       "bits_per_channel": 8,
       "alpha": false,
-      "sha256": "2ea21ae408f08c4d4d3d6e52716086de00216c48b7c73bb58de4e10f094cf2b3",
-      "bytes": 3247953,
-      "decoded_rgb_sha256": "786f3b7cf1fe9908bd83fdbc9ee67751e060a6839e0105b8181e40aca7ce7508",
-      "archived_master_page": 45,
-      "original_generated_png_sha256": "be803a287c2c6d66ee8684c5f6ec0c201db4a2b02565d3a8320d82bff8d31b5b",
-      "original_file_bytes_recovered": false
+      "sha256": "4e3fb2d50643c8a55529abb58d1586143380e16f240ee2a85905282750300310",
+      "bytes": 3151264,
+      "decoded_rgb_sha256": "b17b1a4c43fe69240dff0e49162ab42675b6f7479f9e3ff8139ee52be2f896fe",
+      "revision_date": "2026-10-14",
+      "method": "AI-assisted revision of the previously recovered interior illustration; generated RGB PNG retained without raster postprocessing.",
+      "revision_summary": "Two small ring-propeller scouts before the gate, reduced after first refinement to preserve architectural dominance. Small advanced machine attached to right vertical service rails; existing heavy upper-rail crawler retained. Delicate vines/ferns added along right containment ledges above the calm basin.",
+      "generated_png_preserved": true,
+      "previous_illustration": {
+        "sha256": "2ea21ae408f08c4d4d3d6e52716086de00216c48b7c73bb58de4e10f094cf2b3",
+        "url": "https://github.com/astrivant/mass-empowerment/blob/c6a11a225f9f70fb8a86036e853cabbf34f57905/illustrations/03_intake_nine.png",
+        "recovered_pixels_source": "Archived high-resolution review master",
+        "original_generated_png_sha256": "be803a287c2c6d66ee8684c5f6ec0c201db4a2b02565d3a8320d82bff8d31b5b"
+      }
     },
     {
       "file": "04_depot_raid.png",
@@ -100,19 +121,26 @@
         "kind": "chapter",
         "after_chapter": 9
       },
-      "alt": "People gather outside the rain-soaked tram depot beneath immense corporate structures.",
+      "alt": "Workers salvage tools and a person is escorted toward vans in a rainy tram depot yard beneath immense corporate walls and luminous geometric advertising. Small flying AI and wall-supported maintenance AI are visible.",
       "role": "story scene",
       "width": 1024,
       "height": 1536,
       "color_mode": "RGB",
       "bits_per_channel": 8,
       "alpha": false,
-      "sha256": "9be41f9a26d4c7c63a50b2a87dbec1a5951f34e634c8b060e18286428773770c",
-      "bytes": 3294498,
-      "decoded_rgb_sha256": "a624f724fd32e9c36be8751628beeddb4103afed20fac5fdd6a369b0bf33e353",
-      "archived_master_page": 66,
-      "original_generated_png_sha256": "01173d0d84a17b22968c7a0f00332dde4832b651ef27138061503488995a5a44",
-      "original_file_bytes_recovered": false
+      "sha256": "bd9ac43233012347893c22c454a92b3c3ae724fcc93f9f837bf60082d53136ef",
+      "bytes": 3303897,
+      "decoded_rgb_sha256": "fdb271d7b8418fed0042fe035a6b3e3ed457b5edf54fed1b8e4205b7b63dbdae",
+      "revision_date": "2026-10-14",
+      "method": "AI-assisted revision of the previously recovered interior illustration; generated RGB PNG retained without raster postprocessing.",
+      "revision_summary": "One sparse ring-propeller scout in upper-left open sky. Faceted gripping machine on upper-right corporate pipe/facade structure. Existing small plants beside rainy yard/puddle margins retained; no new flow.",
+      "generated_png_preserved": true,
+      "previous_illustration": {
+        "sha256": "9be41f9a26d4c7c63a50b2a87dbec1a5951f34e634c8b060e18286428773770c",
+        "url": "https://github.com/astrivant/mass-empowerment/blob/c6a11a225f9f70fb8a86036e853cabbf34f57905/illustrations/04_depot_raid.png",
+        "recovered_pixels_source": "Archived high-resolution review master",
+        "original_generated_png_sha256": "01173d0d84a17b22968c7a0f00332dde4832b651ef27138061503488995a5a44"
+      }
     },
     {
       "file": "05_storm_switchhouse.png",
@@ -120,19 +148,26 @@
         "kind": "chapter",
         "after_chapter": 11
       },
-      "alt": "A narrow catwalk reaches the suspended switchhouse beneath paired mains in a rainy mechanical cavern.",
+      "alt": "A narrow rainy catwalk leads to a lit switchhouse beneath paired enclosed cooling mains, above calm bounded water, with a supported maintenance crawler below the walkway. Small flying AI and wall-supported maintenance AI are visible.",
       "role": "story scene",
       "width": 1024,
       "height": 1536,
       "color_mode": "RGB",
       "bits_per_channel": 8,
       "alpha": false,
-      "sha256": "bc978a466b3f9c9e3a535725551a167718ddeb3e5d5e64545205409ef524e06a",
-      "bytes": 3092674,
-      "decoded_rgb_sha256": "e1ba92ab71ee4606ff16e64f0670cbb5ce9aed582e6f7ba18d87208ebd33ee24",
-      "archived_master_page": 82,
-      "original_generated_png_sha256": "ef872bf2558556375c414217c8194ed66a2df176d8166bdda8043fce5a5ec160",
-      "original_file_bytes_recovered": false
+      "sha256": "833d61022be171d3d1f9fd14abeba0a3f0ed9fe35755e9c382c2961d422b8b3e",
+      "bytes": 3303432,
+      "decoded_rgb_sha256": "d1036b9fd9bc567fca1d3460c099fb0f31b47cdb84792b9bb916e581bbd02ef9",
+      "revision_date": "2026-10-14",
+      "method": "AI-assisted revision of the previously recovered interior illustration; generated RGB PNG retained without raster postprocessing.",
+      "revision_summary": "One small distant ring-propeller scout in the right sheltered opening beneath main ducts. Advanced gripping silhouettes on right vertical wall, with original underside catwalk crawler retained. Small ferns/vines at protected lower-right basin ledges; bounded water remains calm beneath visible rain.",
+      "generated_png_preserved": true,
+      "previous_illustration": {
+        "sha256": "bc978a466b3f9c9e3a535725551a167718ddeb3e5d5e64545205409ef524e06a",
+        "url": "https://github.com/astrivant/mass-empowerment/blob/c6a11a225f9f70fb8a86036e853cabbf34f57905/illustrations/05_storm_switchhouse.png",
+        "recovered_pixels_source": "Archived high-resolution review master",
+        "original_generated_png_sha256": "ef872bf2558556375c414217c8194ed66a2df176d8166bdda8043fce5a5ec160"
+      }
     },
     {
       "file": "06_reclaimed_workshop.png",
@@ -140,19 +175,26 @@
         "kind": "chapter",
         "after_chapter": 14
       },
-      "alt": "A sunlit workshop opens onto immense machinery, with tropical plants, a human maker and capable maintenance machines.",
+      "alt": "A human maker and small wheeled modular machine work among tropical orchid shelves in a sunlit repair shop opening onto immense rail-supported machinery. Small flying AI and wall-supported maintenance AI are visible.",
       "role": "story scene",
       "width": 1024,
       "height": 1536,
       "color_mode": "RGB",
       "bits_per_channel": 8,
       "alpha": false,
-      "sha256": "9613a0ec027e37cc016897c8c79ab8cfb7564f1f58568e3e4a7be8e985870f5c",
-      "bytes": 3100933,
-      "decoded_rgb_sha256": "8aa90236c154b9522fac939dd8029973868c9689a5a21a8911007ae94aff2ea7",
-      "archived_master_page": 99,
-      "original_generated_png_sha256": "c4a2084fed85e574ea739d0a470bb7cebb3cf23f11d969007f90466a77d843f6",
-      "original_file_bytes_recovered": false
+      "sha256": "0a567b3bec3d05d055501f6d0e02671c6e3067fa1d1dacacf9d94ae210d54db4",
+      "bytes": 3256266,
+      "decoded_rgb_sha256": "86c8ff3a8b377799aa392e7761afd0c70590c0214a0312ea257b800292b5c061",
+      "revision_date": "2026-10-14",
+      "method": "AI-assisted revision of the previously recovered interior illustration; generated RGB PNG retained without raster postprocessing.",
+      "revision_summary": "One small ring-propeller scout far outside the doorway near the top of the long sightline. Two faceted gripping maintenance machines on outside right facade; existing distant heavy rail-supported machines retained. Orchid shelves, roots and ferns retained; no water scene invented in workshop.",
+      "generated_png_preserved": true,
+      "previous_illustration": {
+        "sha256": "9613a0ec027e37cc016897c8c79ab8cfb7564f1f58568e3e4a7be8e985870f5c",
+        "url": "https://github.com/astrivant/mass-empowerment/blob/c6a11a225f9f70fb8a86036e853cabbf34f57905/illustrations/06_reclaimed_workshop.png",
+        "recovered_pixels_source": "Archived high-resolution review master",
+        "original_generated_png_sha256": "c4a2084fed85e574ea739d0a470bb7cebb3cf23f11d969007f90466a77d843f6"
+      }
     }
   ]
 }
