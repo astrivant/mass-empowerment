@@ -1,5 +1,16 @@
 # Botanical ornament set
 
+<!-- toc:start -->
+**Table of contents**
+
+- [Deliverables and geometry](#deliverables-and-geometry)
+- [Restrained placement plan](#restrained-placement-plan)
+- [Palette](#palette)
+- [Botanical provenance and scope](#botanical-provenance-and-scope)
+- [Quality checks](#quality-checks)
+- [Vertical revision v2 — natural hanging plants](#vertical-revision-v2--natural-hanging-plants)
+<!-- toc:end -->
+
 Original vector-native ornaments for *The Hours We Keep*. Three unchanged Corinthian botanical dividers and three revised natural hanging-plant families in left/right orientations. These are deliberately stylized botanical drawings, not taxonomic botanical plates. The vertical revision contains actual cascading stems, leaves, flowers and roots; all ornamental acanthus/scroll spines have been removed.
 
 ## Deliverables and geometry

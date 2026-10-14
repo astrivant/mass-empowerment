@@ -8,10 +8,10 @@
 
 ## A future we can still shape
 
-The story begins in a city where the companies that provide bodies, education and computing power can also decide when people lose access to the skills they depend on. Mara, a maintenance worker, wakes in a replacement body with debts to pay and work she cannot afford to refuse.
+Lowreach, 2189. Mara wakes in a body she doesn’t recognize, with a day missing from her memory and work she cannot afford to refuse. In the city’s lower streets, even a lifetime of hard-earned skill can disappear behind an unpaid bill.
 
-As Mara and her companions try to keep what their work teaches them, they must build more than an escape from a contract. They need power, tools, shelter and ways to share responsibility without taking away one another’s right to leave. Their struggle brings people and embodied AI into difficult cooperation, with losses that cannot simply be undone.
+Then the company that controls her work offers her a way out: a steady salary, her housing debt cleared, a future she could finally stop worrying about. The price reaches into everything she and Kite, her AI companion, have learned together. Around a battered repair kitchen, Mara and her friends begin taking jobs on their own terms. Each repair brings in a little money. Each success gives them more to lose.
 
-The ending offers a foothold, not a finished utopia: useful work, room for privacy, and time that belongs to the person living it. That is the future this project hopes to make imaginable. A darker path remains possible, where intelligence and infrastructure concentrate power, and dependence becomes harder to refuse. The question is whether we can build a world in which people and AI can cooperate without surrendering themselves.
+High water is coming. The city is about to hand still more control to the company, and the people who keep its machinery running are running out of time to prove they can survive without surrendering themselves.
 
 [^fiction]: This review edition uses Lowreach as a provisional city name. Its people, corporations and technologies are fictional.
