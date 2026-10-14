@@ -1,7 +1,7 @@
 {
-  "title": "The Hours We Keep — illustration source inventory",
-  "recovery_method": "Lossless extraction from the archived high-resolution 99-page review master. Its RGB image streams use ASCII85Decode and FlateDecode; they are not JPEG streams. Each decoded stream was written to PNG without resizing, recoloring or pixel alteration. PNG round-trip decoded RGB hashes match the master exactly.",
-  "original_file_status": "The original generated PNG file containers have not been recovered. These PNG files preserve the master image pixels losslessly, but their file hashes differ from the recorded original PNG hashes. No image was regenerated or edited.",
+  "title": "The Hours We Keep \u2014 illustration source inventory",
+  "recovery_method": "The six interior illustrations were recovered losslessly from RGB image streams in the archived high-resolution review master. The current cover is a new AI-assisted revision of the recovered previous cover; its generated PNG is preserved without raster postprocessing.",
+  "original_file_status": "The six interior PNGs preserve master image pixels losslessly; the original generated interior PNG containers remain unavailable. The revised cover is a newly generated PNG, not a pixel recovery of the former cover.",
   "master_sha256": "7c512e35ba2e92fc348798c78b39bc99d49f90f1c6e246a0cca0abe7569a93ab",
   "artwork_origin": "Original AI-generated illustrations created for this novella.",
   "allocation": {
@@ -14,19 +14,25 @@
       "placement": {
         "kind": "frontmatter"
       },
-      "alt": "Corporate computation towers rise through mist above humans, cooperative machines and planted maintenance terraces.",
+      "alt": "Endless computation towers surround scaffold homes, plants, people and crawling machines, illuminated by localized neon signs and geometric AI holograms.",
       "role": "world context",
       "width": 1536,
       "height": 1024,
       "color_mode": "RGB",
       "bits_per_channel": 8,
       "alpha": false,
-      "sha256": "6efdefeb1bd89b2e265c76986d21346be326b93d87dac5111f0a6712054af989",
-      "bytes": 2489609,
-      "decoded_rgb_sha256": "00a31a3f4b7e7baa61d0110b4f627558bd9a1183f0ac325a34c3f9dd39e3e481",
-      "archived_master_page": 1,
-      "original_generated_png_sha256": "97e2c5d53d592906453a53fca074320b2ffced206fdd8532458bd4edfee8547f",
-      "original_file_bytes_recovered": false
+      "sha256": "7c4e640556d5648d74040169fe6139297d752f1ee385555df5d0e18f0abd681a",
+      "bytes": 3191149,
+      "decoded_rgb_sha256": "09eab44e7d4571cbc7925216e120109382097c39e9d21b7471884821683cb7ac",
+      "revision_date": "2026-10-14",
+      "method": "AI-assisted image revision; generated RGB PNG retained without raster postprocessing or recompression.",
+      "revision_summary": "Endless constructed depth, inhabited scaffolds, epiphytic plants, AI taxis and varied crawling machines, with localized neon and geometric holograms against a bleak industrial environment.",
+      "generated_png_preserved": true,
+      "previous_cover": {
+        "sha256": "6efdefeb1bd89b2e265c76986d21346be326b93d87dac5111f0a6712054af989",
+        "url": "https://github.com/astrivant/mass-empowerment/blob/11a322848f71a3b05a2aa1354e51375e952d37c0/illustrations/00_title_towers.png",
+        "original_generated_png_sha256": "97e2c5d53d592906453a53fca074320b2ffced206fdd8532458bd4edfee8547f"
+      }
     },
     {
       "file": "01_pump_gallery.png",

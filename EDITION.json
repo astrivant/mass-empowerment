@@ -5,7 +5,7 @@
   "city_name": "Lowreach",
   "city_name_status": "provisional",
   "pdf": "output/pdf/final/The Hours We Keep with appendix.pdf",
-  "pdf_sha256": "dc29375fb5c897304269621acf5e86d1d85234315d7db885fb4ea245b1934b91",
+  "pdf_sha256": "9e0f2cb98a5324dd5059006f9272ce94cda2f13ff16477c16706a5689d1dbc61",
   "pdf_pages": 98,
   "story_words": 21547,
   "introduction_words": 215,
@@ -24,19 +24,21 @@
   "public_reality_observed": 2,
   "coverage_unit": "Equal-weight shares of this selected checklist; not future completion, probability or implementation progress.",
   "qa": {
-    "visual_review": "Changed pages reviewed; all other pages render identically to the fully reviewed 11pt edition.",
+    "visual_review": "Title page visually reviewed; the other 97 pages are pixel-identical to the preceding published edition.",
     "literary_chapters_unchanged": true,
-    "selected_artwork_unchanged": true,
+    "selected_artwork_unchanged": false,
     "clipping_or_footnote_overlap": false,
-    "all_visible_fonts_embedded": true
+    "all_visible_fonts_embedded": true,
+    "interior_artwork_unchanged": true
   },
-  "pdf_revision": "Corrected a missing hyphen on PDF page 95; other 97 pages, links and bookmarks are unchanged.",
-  "source_package": "Reading PDF, illustrated editable text, chapter sources, citation provenance, evidence-map data and seven full-resolution lossless PNG pixel recoveries. Font files and rendering helpers are not included.",
+  "pdf_revision": "Revised title illustration with inhabited industrial structures, plants, machines, neon and AI holograms. All text, links, bookmarks and other 97 pages are unchanged; the page-95 hyphen correction is retained.",
+  "source_package": "Reading PDF, illustrated editable text, chapter sources, citation provenance, evidence-map data, a revised AI-generated cover PNG and six full-resolution lossless interior PNG pixel recoveries. Font files and rendering helpers are not included.",
   "separate_illustrations": {
     "count": 7,
     "format": "8-bit RGB PNG",
-    "pixel_source": "archived high-quality review master",
-    "original_png_containers_recovered": false,
+    "cover": "AI-assisted revision; generated PNG preserved",
+    "interior_pixel_source": "archived high-quality review master",
+    "interior_original_png_containers_recovered": false,
     "prose_unchanged": true
   },
   "ornament_exports": {
@@ -47,5 +49,10 @@
     "inventory": "ornaments/manifest.json",
     "border_and_corner_occurrences": 552,
     "divider_occurrences": 29
+  },
+  "cover_revision": {
+    "date": "2026-10-14",
+    "sha256": "7c4e640556d5648d74040169fe6139297d752f1ee385555df5d0e18f0abd681a",
+    "provenance": "illustrations/provenance.json"
   }
 }

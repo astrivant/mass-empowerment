@@ -1,5 +1,5 @@
 {
-  "title": "The Hours We Keep — border and divider assets",
+  "title": "The Hours We Keep \u2014 border and divider assets",
   "source_pdf": "The Hours We Keep with appendix.pdf",
   "source_pdf_sha256": "dc29375fb5c897304269621acf5e86d1d85234315d7db885fb4ea245b1934b91",
   "source_pdf_pages": 98,
@@ -6088,5 +6088,7 @@
       "#F2F1EF"
     ],
     "divider": "#746B66"
-  }
+  },
+  "source_pdf_url": "https://github.com/astrivant/mass-empowerment/blob/11a322848f71a3b05a2aa1354e51375e952d37c0/output/pdf/final/The%20Hours%20We%20Keep%20with%20appendix.pdf",
+  "later_revision_note": "The title illustration was revised subsequently; the exported ornament artwork is unchanged."
 }

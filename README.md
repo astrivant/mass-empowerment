@@ -1,6 +1,6 @@
 # The Hours We Keep
 
-![Corporate computation towers rise through mist above humans, cooperative machines and planted maintenance terraces.](illustrations/00_title_towers.png)
+![Endless computation towers surround scaffold homes, plants, people and crawling machines, illuminated by localized neon signs and geometric AI holograms.](illustrations/00_title_towers.png)
 
 An original illustrated cyberpunk novella about workers reclaiming control of their learned intelligence, and the costs of making that freedom usable.
 
@@ -18,6 +18,8 @@ This review edition uses Lowreach as a provisional city name. Its people, corpor
 - [Source materials](#source-materials)
 
 ## The edition
+
+The 14 October 2026 cover revision appears in the separate PNG, Markdown and reading PDF. The story text and six interior plates are unchanged.
 
 The 13 October 2026 edition contains fourteen chapters, a brief introduction, seven original illustrations, eight public-source footnotes and a seven-page evidence appendix. The PDF is 98 pages. The story contains 21,547 words; that count excludes front matter, footnotes and the appendix.
 
@@ -51,7 +53,7 @@ Do not submit confidential proposals, personal records, credentials or private c
 
 Story text is embedded EB Garamond at 11 points with 16.5-point leading, left aligned. Other type sizes are balanced around it. The PDF retains linked Contents, bookmarks and genuine page footnotes. Its reading copy compresses illustrations without reducing their original pixel dimensions; text and the evidence matrix remain vector content.
 
-The cover and six interior plates are original AI-assisted illustrations embedded in the PDF and linked from the Markdown. [Separate PNGs and provenance](illustrations/README.md) preserve the full-resolution RGB pixels losslessly from the archived high-quality master. Their PNG file containers differ from the unavailable original generated files. The story-scene/world-context allocation is four/three, approximately 57/43.
+The cover and six interior plates are original AI-assisted illustrations embedded in the PDF and linked from the Markdown. [Separate PNGs and provenance](illustrations/README.md) include the revised AI-generated cover and six full-resolution interior pixel recoveries. The cover adds inhabited scaffolds, plants, AI taxis, crawling machines and localized neon holograms within endless industrial structures; the six interiors preserve their archived master pixels exactly. The original interior PNG containers remain unavailable. The story-scene/world-context allocation is four/three, approximately 57/43.
 
 Headings and ornaments use a muted gray-brown derivative of the public [Tiger Lily Plants](https://tiger-lily-plants.com/) theme. This is a design reference, not an affiliation claim.
 
@@ -63,6 +65,6 @@ The PDF embeds EB Garamond and DejaVu for reading. No new general license is ass
 
 This repository includes the complete illustrated reading PDF, editable book text, fourteen chapter sources, public-source footnotes and provenance, and the appendix's indicator dataset and evidence map.
 
-Separate full-resolution PNG pixel recoveries are included, with alt text and chapter placement. Font files and executable rendering or validation helpers are not included in this edition. This is not a complete reproducible build package. The PDF, text, sources and dataset can be reviewed without running code.
+The generated cover PNG and six full-resolution interior pixel recoveries are included, with alt text and chapter placement. Font files and executable rendering or validation helpers are not included in this edition. This is not a complete reproducible build package. The PDF, text, sources and dataset can be reviewed without running code.
 
 Citation updates should keep their revised text and evidence together. A changed PDF should be published only after its layout and links have been checked. No repository automation or build workflow is enabled by this edition.
