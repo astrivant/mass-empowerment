@@ -2,6 +2,8 @@
 Maintain linked contents for repository documentation and generated Markdown reports.
 """
 
+# Adapted from Astrivant Polyad; GPL-3.0. See LICENSE-GPL-3.0 and ../NOTICE.
+
 from __future__ import annotations
 
 import argparse

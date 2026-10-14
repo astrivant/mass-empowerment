@@ -5,4 +5,5 @@ This notice licenses the adapted tooling only, not the manuscript, artwork or ed
 
 Table-of-contents maintenance adapted from Astrivant Polyad, revision c446fa5f0dc8eaaec82b49e864e8ca86046c53d1.
 https://github.com/astrivant/polyad/blob/c446fa5f0dc8eaaec82b49e864e8ca86046c53d1/scripts/documentation/update-contents.py
-Copyright 2026 Astrivant. Apache-2.0; see LICENSE-APACHE-2.0.
+The TOC helper is licensed under GPL-3.0; see documentation/LICENSE-GPL-3.0.
+Its license is separate from the Apache-2.0 syntax checker and release-signing helper.
