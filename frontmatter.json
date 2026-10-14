@@ -1,14 +1,15 @@
 {
   "epigraph": "The lights went out by floor, but the counting never stopped.",
   "title": "Introduction",
-  "contents_description": "How corporate nurseries and licensed education made dependence an ordinary condition of life.",
+  "contents_description": "Lowreach in 2189: who controls bodies, learning, infrastructure and the routes beyond company custody.",
   "paragraphs": [
-    "The city grew around the pumping stations. On the first maps, its streets were narrow lines between fields reclaimed from the tide. Later maps showed housing over the fields, roads over the housing, and districts whose daylight depended on the structures above them.",
-    "The company nurseries came after the floods. They promised healthy bodies and an education for every citizen. Governments already borrowing from their operators signed the contracts. Within three generations, most people were grown. The public allowance bought the smallest education package. Those with money could purchase the rest.",
-    "Families who still bore their own children received food credits and basic tools. The companies funding the programme kept first offers on whatever those children learned to do. A talent discovered in a flooded cellar could pay a distant office for years.",
-    "The law protected a citizen's name and memories. An expired account could still take away the skill to read a wiring plan. The record of yesterday's work would remain.",
-    "Below the streets, the Stackholds' buried computer halls ran through the night. Their cooling pipes passed through the foundations of buildings whose names had been forgotten. Far above, the high terraces were beginning to catch the sun.",
-    "The water pressed against the gates. Somewhere in the lower city, a kettle began to boil."
+    "It is 2189 in Lowreach. The city grew around the pumping stations: streets between reclaimed fields, housing over fields, roads over housing. Now a district's daylight depends on what has been built above it. Lamps for the gardens draw from the same supply as kitchens and machines.",
+    "The company nurseries came after the Floods. Governments already borrowing from their operators paid for healthy bodies and a basic education. Three generations later, most citizens are grown. The public allowance still buys the smallest lesson package; the companies sell the rest. Families who bear their own children receive food credits and tools, while the firms funding those grants keep first offers on what the children learn.",
+    "The law protects a citizen's name and memories. An expired account can still take away access to the skill needed to read a wiring plan. Yesterday's work remains available to remember, even when the learned processes that made it possible will no longer run.",
+    "Vesper is Lowreach's largest service operator. It owns most of the great Stackholds of computation, holds many workers' body-support and execution contracts, and manages much of the city's drainage and transport. Its coming system, Tomorrow, promises to join those services under one control. The city government still owns the gates and streets, awards the contracts and keeps a continuity witness desk outside Vesper's authority. It can require proof before a handoff. It cannot keep the water out with a signature.",
+    "Vesper does not own every current or pipe. Quay utilities and the old tram network retain separate supplies. Tenants' groups and repair kitchens hold a little equipment, a few independent backup keys and more obligations than cash. Dissident street communities pass on lessons the public allowance omits. None can yet replace the company's citywide work.",
+    "Undertow, a lower-city crime syndicate, controls routes for stolen equipment and sells protection from troubles it sometimes creates. Its hacking division, the Blindroom, speaks through interchangeable blank faces. It trades in access the companies refuse to sell, and in dependencies the buyers would rather keep secret. A route beyond Vesper can still lead to someone else's collector.",
+    "Below the streets, the Stackholds' computer halls run through the night. Their cooling mains pass through forgotten foundations. Far above, the high terraces are catching the sun. Water presses against the gates. Somewhere in the lower city, a kettle begins to boil."
   ],
   "cover_illustration": {
     "path": "illustrations/00_title_towers.png",

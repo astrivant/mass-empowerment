@@ -44,11 +44,20 @@ corroboration. Reading code is not running tests or validating a deployment.
 This document defines the review procedure; it does not install or claim that a
 weekly schedule exists.
 
-## Illustrated Markdown integrity
+## Literary integrity and editorial revisions
 
-`literary-baseline.json` records current chapter-file checksums, including their
-image references. `literary-prose-baseline.json` preserves the pre-illustration
-chapter checksums. Removing each added blank-line-prefixed illustration reference
-from the six illustrated chapter files reproduces those original bytes. This
-image-link edition changes no story prose or footnote claims. Git history retains
-the earlier text-only chapter files for direct comparison.
+`literary-baseline.json` records current chapter-file checksums, including image
+references. `literary-prose-baseline.json` records the same current chapters with
+only blank-line-prefixed illustration references removed. A citation-only review
+must preserve both baselines; changes to prose require a separate editorial revision.
+
+The 14 October 2026 editorial revision develops competition and cooperation over
+material resources, dates the fictional city to 2189, and expands Mara's programming
+experience and involvement with the fictional Undertow syndicate and its Blindroom
+division. It also updates the scene illustrations. These are authorized story and
+art changes, not changes justified by new technical evidence. The eight footnotes
+and public-source review remain unchanged.
+
+Earlier baselines and source text remain in Git history. The preceding published
+reader edition is commit `f3cabe1e93142792013b280aedf7eff945e4add8`. See
+[the editorial record](editorial/2026-10-14.md) for the revision scope.
