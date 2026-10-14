@@ -1,0 +1,9 @@
+# Maintainer review contact for the repository tooling maintained in this change.
+/.github/ @emmeowzing
+/.pre-commit-config.yaml @emmeowzing
+/.gitignore @emmeowzing
+/pyproject.toml @emmeowzing
+/poetry.lock @emmeowzing
+/SKILL.md @emmeowzing
+/docs/ @emmeowzing
+/scripts/ @emmeowzing

@@ -1,0 +1,22 @@
+name: Locked validation tools
+description: Install the repository's Python and Markdown validation environments.
+runs:
+  using: composite
+  steps:
+    - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+      with:
+        python-version: '3.13.16'
+    - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+      with:
+        node-version: '26.10.0'
+        cache: npm
+        cache-dependency-path: scripts/documentation/package-lock.json
+    - uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+      with:
+        path: |
+          .venv
+          ~/.cache/pip
+          ~/.cache/pre-commit
+        key: tools-${{ runner.os }}-${{ runner.arch }}-${{ github.workspace }}-${{ hashFiles('poetry.lock', 'pyproject.toml', '.pre-commit-config.yaml', '.github/actions/setup/action.yml', 'scripts/ci/setup.sh') }}
+    - run: bash scripts/ci/setup.sh
+      shell: bash
