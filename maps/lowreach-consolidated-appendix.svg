@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="6in" height="9in" viewBox="0 0 432 648"><title>Lowreach: Places and Connections</title>
+<desc>A one-page appendix schematic of selected relationships in Lowreach. A Stackhold stands above Intake Nine, which has a water connection to Silt’s drainage culvert. An independent old tram feeder powers the old tram switchhouse beneath the Stackhold’s southern span. A quay utility sells electricity to Tern cold store under an independent contract. Tern provides limited night electricity and cooling to the old tram depot and repair kitchen in Silt, and sends food to Kestrel Street, which contains a residential care home. Vesper controls Tomorrow, the city-service control system, and the virtual custody interface represented as a hall. Undertow directs its Blindroom hacking division, which also works in a room above the parts counter. Solid grey lines show physical relationships, blue lines show supply, and dashed green arrows show organizational control. Positions are diagrammatic, not geographic; only selected links are shown, and they refer to arrangements at different points in the story.</desc>
+<text x="46" y="65" font-family="EB Garamond, Garamond, serif" font-size="19" fill="#343633" text-anchor="start">Lowreach: Places and Connections</text>
+<text x="46" y="85" font-family="EB Garamond, Garamond, serif" font-size="10" fill="#343633" text-anchor="start" font-style="italic">A relational guide to the physical city and its systems</text>
+<rect x="211" y="108" width="10" height="10" rx="3" fill="none" stroke="#746B66" stroke-width=".6"/>
+<circle cx="216" cy="113" r="1.5" stroke="#746B66" fill="white" stroke-width=".7"/>
+<polyline points="208,110 190,110 178,116 149,116" fill="none" stroke="#746B66" stroke-width="0.7"/>
+<circle cx="149" cy="116" r="2" stroke="#746B66" fill="white" stroke-width=".7"/>
+<polyline points="208,116 197,116 186,122 166,122" fill="none" stroke="#746B66" stroke-width="0.7"/>
+<circle cx="166" cy="122" r="1.5" stroke="#746B66" fill="white" stroke-width=".7"/>
+<polyline points="224,110 242,110 254,116 283,116" fill="none" stroke="#746B66" stroke-width="0.7"/>
+<circle cx="283" cy="116" r="2" stroke="#746B66" fill="white" stroke-width=".7"/>
+<polyline points="224,116 235,116 246,122 266,122" fill="none" stroke="#746B66" stroke-width="0.7"/>
+<circle cx="266" cy="122" r="1.5" stroke="#746B66" fill="white" stroke-width=".7"/>
+<text x="46" y="148" font-family="EB Garamond, Garamond, serif" font-size="9" fill="#746B66" text-anchor="start">PHYSICAL RELATIONS</text>
+<rect x="46" y="161" width="98" height="38" rx="3" fill="#FFFFFF" stroke="#746B66" stroke-width=".6"/>
+<text x="95.0" y="176" font-family="EB Garamond, Garamond, serif" font-size="11" fill="#343633" text-anchor="middle">Stackhold</text>
+<text x="95.0" y="190" font-family="EB Garamond, Garamond, serif" font-size="9" fill="#746B66" text-anchor="middle">corporate computation</text>
+<rect x="169" y="161" width="98" height="38" rx="3" fill="#FFFFFF" stroke="#746B66" stroke-width=".6"/>
+<text x="218.0" y="176" font-family="EB Garamond, Garamond, serif" font-size="11" fill="#343633" text-anchor="middle">Intake Nine</text>
+<text x="218.0" y="190" font-family="EB Garamond, Garamond, serif" font-size="9" fill="#746B66" text-anchor="middle">below the Stackhold</text>
+<rect x="292" y="161" width="94" height="38" rx="3" fill="#FFFFFF" stroke="#746B66" stroke-width=".6"/>
+<text x="339.0" y="176" font-family="EB Garamond, Garamond, serif" font-size="11" fill="#343633" text-anchor="middle">Drainage culvert</text>
+<text x="339.0" y="190" font-family="EB Garamond, Garamond, serif" font-size="9" fill="#746B66" text-anchor="middle">beneath Silt</text>
+<polyline points="144,180 169,180" fill="none" stroke="#746B66" stroke-width="0.7"/>
+<text x="156" y="173" font-family="EB Garamond, Garamond, serif" font-size="9" fill="#746B66" text-anchor="middle" font-style="italic">above</text>
+<polyline points="267,178 292,178" fill="none" stroke="#476D76" stroke-width="0.7"/>
+<polyline points="267,182 292,182" fill="none" stroke="#476D76" stroke-width="0.7"/>
+<text x="279" y="171" font-family="EB Garamond, Garamond, serif" font-size="9" fill="#746B66" text-anchor="middle" font-style="italic">water</text>
+<rect x="46" y="228" width="127" height="38" rx="3" fill="#FFFFFF" stroke="#746B66" stroke-width=".6"/>
+<text x="109.5" y="243" font-family="EB Garamond, Garamond, serif" font-size="11" fill="#343633" text-anchor="middle">Old tram feeder</text>
+<text x="109.5" y="257" font-family="EB Garamond, Garamond, serif" font-size="9" fill="#746B66" text-anchor="middle">independent power</text>
+<rect x="250" y="228" width="136" height="38" rx="3" fill="#FFFFFF" stroke="#746B66" stroke-width=".6"/>
+<text x="318.0" y="243" font-family="EB Garamond, Garamond, serif" font-size="11" fill="#343633" text-anchor="middle">Old tram switchhouse</text>
+<text x="318.0" y="257" font-family="EB Garamond, Garamond, serif" font-size="9" fill="#746B66" text-anchor="middle">beneath the southern span</text>
+<polyline points="173,247 250,247" fill="none" stroke="#476D76" stroke-width="0.7"/>
+<polyline points="246.0,245.0 250,247 246.0,249.0" fill="none" stroke="#476D76" stroke-width="0.7"/>
+<text x="211" y="239" font-family="EB Garamond, Garamond, serif" font-size="9" fill="#746B66" text-anchor="middle" font-style="italic">power</text>
+<text x="46" y="291" font-family="EB Garamond, Garamond, serif" font-size="9" fill="#746B66" text-anchor="start">LOCAL SUPPLIES</text>
+<rect x="46" y="306" width="98" height="38" rx="3" fill="#FFFFFF" stroke="#746B66" stroke-width=".6"/>
+<text x="95.0" y="321" font-family="EB Garamond, Garamond, serif" font-size="11" fill="#343633" text-anchor="middle">Quay utility</text>
+<text x="95.0" y="335" font-family="EB Garamond, Garamond, serif" font-size="9" fill="#746B66" text-anchor="middle">independent contract</text>
+<rect x="174" y="306" width="90" height="38" rx="3" fill="#FFFFFF" stroke="#746B66" stroke-width=".6"/>
+<text x="219.0" y="321" font-family="EB Garamond, Garamond, serif" font-size="11" fill="#343633" text-anchor="middle">Tern cold store</text>
+<text x="219.0" y="335" font-family="EB Garamond, Garamond, serif" font-size="9" fill="#746B66" text-anchor="middle">food and refrigeration</text>
+<rect x="292" y="306" width="94" height="38" rx="3" fill="#FFFFFF" stroke="#746B66" stroke-width=".6"/>
+<text x="339.0" y="321" font-family="EB Garamond, Garamond, serif" font-size="11" fill="#343633" text-anchor="middle">Old tram depot</text>
+<text x="339.0" y="335" font-family="EB Garamond, Garamond, serif" font-size="9" fill="#746B66" text-anchor="middle">Silt · repair kitchen</text>
+<polyline points="144,325 174,325" fill="none" stroke="#476D76" stroke-width="0.7"/>
+<polyline points="170.0,323.0 174,325 170.0,327.0" fill="none" stroke="#476D76" stroke-width="0.7"/>
+<polyline points="264,322 292,322" fill="none" stroke="#476D76" stroke-width="0.7"/>
+<polyline points="288.0,320.0 292,322 288.0,324.0" fill="none" stroke="#476D76" stroke-width="0.7"/>
+<polyline points="264,328 292,328" fill="none" stroke="#476D76" stroke-width="0.7"/>
+<polyline points="288.0,326.0 292,328 288.0,330.0" fill="none" stroke="#476D76" stroke-width="0.7"/>
+<text x="46" y="432" font-family="EB Garamond, Garamond, serif" font-size="9" fill="#746B66" text-anchor="start">Quay → Tern: electricity.  Tern → depot: night power + cooling.</text>
+<rect x="161" y="374" width="116" height="38" rx="3" fill="#FFFFFF" stroke="#746B66" stroke-width=".6"/>
+<text x="219.0" y="389" font-family="EB Garamond, Garamond, serif" font-size="11" fill="#343633" text-anchor="middle">Kestrel Street</text>
+<text x="219.0" y="403" font-family="EB Garamond, Garamond, serif" font-size="9" fill="#746B66" text-anchor="middle">residential care home</text>
+<polyline points="219,344 219,374" fill="none" stroke="#476D76" stroke-width="0.7"/>
+<polyline points="221.0,370.0 219,374 217.0,370.0" fill="none" stroke="#476D76" stroke-width="0.7"/>
+<text x="242" y="362" font-family="EB Garamond, Garamond, serif" font-size="9" fill="#746B66" text-anchor="middle" font-style="italic">food</text>
+<text x="46" y="451" font-family="EB Garamond, Garamond, serif" font-size="9" fill="#746B66" text-anchor="start">ORGANIZATIONS AND INTERFACES</text>
+<rect x="46" y="464" width="91" height="38" rx="3" fill="#FFFFFF" stroke="#746B66" stroke-width=".6"/>
+<text x="91.5" y="479" font-family="EB Garamond, Garamond, serif" font-size="11" fill="#343633" text-anchor="middle">Vesper</text>
+<text x="91.5" y="493" font-family="EB Garamond, Garamond, serif" font-size="9" fill="#746B66" text-anchor="middle">service operator</text>
+<rect x="193" y="464" width="193" height="38" rx="3" fill="#FFFFFF" stroke="#746B66" stroke-width=".6"/>
+<text x="289.5" y="479" font-family="EB Garamond, Garamond, serif" font-size="11" fill="#343633" text-anchor="middle">Tomorrow / custody hall</text>
+<text x="289.5" y="493" font-family="EB Garamond, Garamond, serif" font-size="9" fill="#746B66" text-anchor="middle">city control system / virtual custody interface</text>
+<polyline points="137,483 193,483" fill="none" stroke="#546E58" stroke-width="0.7" stroke-dasharray="4,2"/>
+<polyline points="189.0,481.0 193,483 189.0,485.0" fill="none" stroke="#546E58" stroke-width="0.7"/>
+<text x="165" y="475" font-family="EB Garamond, Garamond, serif" font-size="9" fill="#746B66" text-anchor="middle" font-style="italic">controls</text>
+<rect x="46" y="517" width="91" height="38" rx="3" fill="#FFFFFF" stroke="#746B66" stroke-width=".6"/>
+<text x="91.5" y="532" font-family="EB Garamond, Garamond, serif" font-size="11" fill="#343633" text-anchor="middle">Undertow</text>
+<text x="91.5" y="546" font-family="EB Garamond, Garamond, serif" font-size="9" fill="#746B66" text-anchor="middle">syndicate</text>
+<rect x="193" y="517" width="193" height="38" rx="3" fill="#FFFFFF" stroke="#746B66" stroke-width=".6"/>
+<text x="289.5" y="532" font-family="EB Garamond, Garamond, serif" font-size="11" fill="#343633" text-anchor="middle">Blindroom</text>
+<text x="289.5" y="546" font-family="EB Garamond, Garamond, serif" font-size="9" fill="#746B66" text-anchor="middle">hackers; room above the parts counter</text>
+<polyline points="137,536 193,536" fill="none" stroke="#546E58" stroke-width="0.7" stroke-dasharray="4,2"/>
+<polyline points="189.0,534.0 193,536 189.0,538.0" fill="none" stroke="#546E58" stroke-width="0.7"/>
+<text x="165" y="528" font-family="EB Garamond, Garamond, serif" font-size="9" fill="#746B66" text-anchor="middle" font-style="italic">directs</text>
+<text x="46" y="577" font-family="EB Garamond, Garamond, serif" font-size="9" fill="#746B66" text-anchor="start">Solid grey: physical relation.  Blue: supply; arrows show direction.</text>
+<text x="46" y="591" font-family="EB Garamond, Garamond, serif" font-size="9" fill="#746B66" text-anchor="start">Dashed green: control.  Selected links; no geographic scale.</text>
+</svg>

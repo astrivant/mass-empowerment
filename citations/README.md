@@ -61,3 +61,7 @@ and public-source review remain unchanged.
 Earlier baselines and source text remain in Git history. The preceding published
 reader edition is commit `f3cabe1e93142792013b280aedf7eff945e4add8`. See
 [the editorial record](editorial/2026-10-14.md) for the revision scope.
+
+The subsequent [accessible prose and botanical revision](editorial/2026-10-14-accessibility-botanical.md) updates this baseline again. Footnote claims and pinned links remain unchanged; three anchors follow the revised prose.
+
+The subsequent [accessible prose and botanical revision](editorial/2026-10-14-accessibility-botanical.md) updates this baseline again. Footnote claims and pinned links remain unchanged; three anchors follow the revised prose.

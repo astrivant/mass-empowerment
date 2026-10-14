@@ -5,10 +5,10 @@
   "city_name": "Lowreach",
   "city_name_status": "provisional",
   "pdf": "output/pdf/final/The Hours We Keep with appendix.pdf",
-  "pdf_sha256": "7439a1e8d815fdd0a0ca1f3689615ccca66bd0afcecbedf1f704b7bedf4023d7",
-  "pdf_pages": 102,
-  "story_words": 23892,
-  "introduction_words": 392,
+  "pdf_sha256": "a73e7f061e07b9b90f8994e1f6a03bd3c95b7b4738e4b523b3080dcc9e76394a",
+  "pdf_pages": 103,
+  "story_words": 23489,
+  "introduction_words": 473,
   "chapters": 14,
   "illustrations": 7,
   "body_font": "EB Garamond",
@@ -16,7 +16,7 @@
   "body_leading_points": 16.5,
   "appendix_starts_pdf_page": 96,
   "appendix_pages": 7,
-  "contents_links": 16,
+  "contents_links": 17,
   "same_page_story_footnotes": 8,
   "public_source_urls": 17,
   "vision_indicators": 10,
@@ -30,11 +30,11 @@
     "same_page_footnotes": 8,
     "clipping_or_footnote_overlap": false,
     "all_visible_fonts_embedded": true,
-    "visual_review": "Independent review of all102 pages plus full-size introduction, chapter8 and ending; no layout defects found.",
+    "visual_review": "Independent final review passed for103 pages, narrative, navigation, seven illustrations, consolidated map, hanging plants and paragraph balance.",
     "reading_copy_text_and_navigation_match_master": true,
     "illustration_dimensions_preserved": true
   },
-  "pdf_revision": "Rebuilt reading edition with revised ecological and Mara/Undertow narrative, dated introduction, consistent organization/event capitalization and six revised interior illustrations. The approved title image, eight footnotes and evidence appendix are retained.",
+  "pdf_revision": "Accessible prose revision with simpler Contents, a single consolidated appendix map, paragraph balancing, scene-aware return links, plant-enriched illustrations and hanging botanical margins. All eight public-source footnote claims and URLs are retained; three anchors follow the revised prose.",
   "source_package": "Reading PDF, illustrated editable text, chapter sources, citation provenance, evidence-map data and seven lossless generated PNGs. Font files and rendering helpers are not included.",
   "separate_illustrations": {
     "count": 7,
@@ -50,23 +50,46 @@
     "inventory": "ornaments/manifest.json",
     "border_and_corner_occurrences": 552,
     "divider_occurrences": 29,
-    "source_edition": "Original98-page edition; placement inventory describes that edition, not the rebuilt102-page layout."
+    "source_edition": "Recovered motif placement inventory describes the original98-page source. Current103-page edition additionally uses the revised cursive divider and botanical assets."
   },
   "cover_revision": {
     "date": "2026-10-14",
-    "sha256": "7c4e640556d5648d74040169fe6139297d752f1ee385555df5d0e18f0abd681a",
+    "sha256": "4ca85be643a42c70dc955a1a1be085e482e5703788df041475e539d934269f57",
     "provenance": "illustrations/provenance.json"
   },
   "editorially_revised_on": "2026-10-14",
   "fictional_year": 2189,
   "word_count_method": "Whitespace-delimited tokens in rendered prose paragraphs; excludes headings, alt text, contents, footnotes and appendix.",
-  "editorial_record": "citations/editorial/2026-10-14.md",
+  "editorial_record": "citations/editorial/2026-10-14-accessibility-botanical.md",
   "pdf_encoding": {
     "purpose": "Optimized reading copy",
     "illustrations": "JPEG quality95 with no chroma subsampling; original pixel dimensions retained.",
     "text_and_navigation": "Text, links, bookmarks and page count unchanged from reviewed full-quality master.",
     "separate_pngs": "All seven lossless generated PNG files retained separately.",
-    "full_quality_master_sha256": "ccf8ae3da663c1958802366ddb7676a7afe5cfd6dc00f2a33e00eddbbf453f13",
+    "full_quality_master_sha256": "cc59f964a98a8ba7783f74d6f39f5d7fa438f3f20e5decde1546a7c85fb38e9b",
     "full_quality_master_status": "Preserved separately; not included in this repository edition."
+  },
+  "navigation": {
+    "contents_entries": 17,
+    "footer_links": 96,
+    "footer_target_pdf_page": 2,
+    "total_links": 155,
+    "external_link_occurrences": 42
+  },
+  "appendix_map": {
+    "pdf_page": 103,
+    "source": "maps/lowreach-consolidated-appendix.svg",
+    "title": "Lowreach: Places and Connections"
+  },
+  "botanical_ornaments": {
+    "inventory": "ornaments/botanical/manifest.json",
+    "horizontal_dividers": 3,
+    "hanging_margin_variants": 6,
+    "formats": [
+      "SVG",
+      "PDF",
+      "600-dpi PNG"
+    ],
+    "revision": "v2-natural-hanging-plants"
   }
 }

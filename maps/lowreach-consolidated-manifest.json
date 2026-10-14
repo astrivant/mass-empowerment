@@ -1,0 +1,61 @@
+{
+  "title": "Lowreach: Places and Connections",
+  "placement": "Single appendix page after the story; linked from contents and PDF bookmark. No front-matter map.",
+  "supersedes_placement": "Earlier two-map front/appendix layout; earlier artifacts retained.",
+  "format": {
+    "trim_points": [
+      432,
+      648
+    ],
+    "png_pixels": [
+      1800,
+      2700
+    ],
+    "minimum_type_points": 9,
+    "embedded_pdf_typeface": "EB Garamond",
+    "footer_bottom_points_reserved": 36
+  },
+  "diagram_source_relationship_ids": [
+    "O2",
+    "O3",
+    "O4",
+    "O5",
+    "O6",
+    "O8",
+    "O9",
+    "D1",
+    "D2",
+    "D3",
+    "D4",
+    "D9",
+    "D10",
+    "D11",
+    "D12"
+  ],
+  "reference_relationship_count": 24,
+  "coverage_note": "Consolidated diagram is intentionally selective. Full 24-relationship evidence and additional-place inventory remain in source-relationships.json. Municipal viewer detail, freight/service access routes and some containment detail are omitted to preserve readability.",
+  "files": [
+    "lowreach-consolidated-appendix.pdf",
+    "lowreach-consolidated-appendix.svg",
+    "lowreach-consolidated-appendix.png",
+    "lowreach-consolidated-alt-text.txt",
+    "source-relationships.json"
+  ],
+  "qa": {
+    "visual_review": "passed at print-scale preview, revision 2",
+    "source_excerpt_verification": "passed in source-relationships.json",
+    "safe_bounds_check": "passed",
+    "one_page_pdf": true,
+    "food_edge": "straight vertical, no text crossing or wraparound"
+  },
+  "revision": 2,
+  "change": "Kestrel Street aligned directly below Tern. Food arrow runs straight down. Quay/Tern supply annotation is below the whole branch, clear of every edge.",
+  "sha256": {
+    "lowreach-consolidated-appendix.pdf": "b197999094254e4763224f120725e2d106125bee5e007247104ab0627beb58dc",
+    "lowreach-consolidated-appendix.svg": "c370037eb80d73dad779ab2a4df833c27e7719c520c702d4dd7af84e5cf79dab",
+    "lowreach-consolidated-appendix.png": "65986d2af1a16afdcff23b25f14cb151d864b252d20c06bd1bf4d0005daa8dff",
+    "lowreach-consolidated-alt-text.txt": "668a818e4d0a1ea7d4f8f6e142a4878a33aada599e4412f07fe31f4c86f26528",
+    "source-relationships.json": "c31f05130e60287a5c0f9777a32db66f936560bb687236c282476bfa10385263"
+  },
+  "evidence_note": "Relationship meanings rechecked against final accessible prose. Source inventory explicitly identifies historical excerpts that no longer match final wording."
+}

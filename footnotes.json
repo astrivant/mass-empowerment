@@ -18,7 +18,7 @@
   {
     "id": 3,
     "chapter": 4,
-    "anchor": "Three independent services could now agree which truck belonged where.",
+    "anchor": "Now all three showed which truck belonged at each bay.",
     "html": "The cold store&#x27;s joined services are fictional. Astrivant&#x27;s Composer translates Helm charts into Docker Compose development environments; translating deployment descriptions does not reproduce every controller&#x27;s behavior. <link href=\"https://github.com/astrivant/composer/blob/4ee8ce8507e10b6cbbac607d7bda01e22740cd37/README.md\" color=\"#000000\"><u>Public source</u></link>",
     "text": "The cold store's joined services are fictional. Astrivant's Composer translates Helm charts into Docker Compose development environments; translating deployment descriptions does not reproduce every controller's behavior.",
     "url": "https://github.com/astrivant/composer/blob/4ee8ce8507e10b6cbbac607d7bda01e22740cd37/README.md"
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "chapter": 10,
-    "anchor": "Seven members had brought identity claims:",
+    "anchor": "Three of the seven souls had begun as humans;",
     "html": "The novel extends record portability into personhood. Identity&#x27;s multisleeving workflow starts separate instances from a shared revision, with isolated worktrees, signed checkpoints and reconciliation before normal closure. These workflow gates cannot prevent a host from terminating a process. <link href=\"https://github.com/astrivant/identity/blob/67c86d16ec24b8d9979856aa46f2f1d582cc448f/docs/multisleeving.md\" color=\"#000000\"><u>Public source</u></link>",
     "text": "The novel extends record portability into personhood. Identity's multisleeving workflow starts separate instances from a shared revision, with isolated worktrees, signed checkpoints and reconciliation before normal closure. These workflow gates cannot prevent a host from terminating a process.",
     "url": "https://github.com/astrivant/identity/blob/67c86d16ec24b8d9979856aa46f2f1d582cc448f/docs/multisleeving.md"
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "chapter": 12,
-    "anchor": "Vesper's emergency submission arrived as a long avenue of rooms.",
+    "anchor": "Vesper's emergency submission opened a long avenue of rooms.",
     "html": "The civic trial is imagined. Polyad&#x27;s Soul study compares fixed and adaptive behavior across six real service processes, verifying completed work under controlled constraints. Its workload includes simulated I/O delay and modeled resource limits; it is not a production-scale civic trial. <link href=\"https://github.com/astrivant/polyad/blob/c446fa5f0dc8eaaec82b49e864e8ca86046c53d1/studies/soul/README.md\" color=\"#000000\"><u>Public source</u></link>",
     "text": "The civic trial is imagined. Polyad's Soul study compares fixed and adaptive behavior across six real service processes, verifying completed work under controlled constraints. Its workload includes simulated I/O delay and modeled resource limits; it is not a production-scale civic trial.",
     "url": "https://github.com/astrivant/polyad/blob/c446fa5f0dc8eaaec82b49e864e8ca86046c53d1/studies/soul/README.md"
