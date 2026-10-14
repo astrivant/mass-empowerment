@@ -1,6 +1,6 @@
 # The Hours We Keep
 
-![Endless computation towers surround scaffold homes, plants, people and crawling machines, illuminated by localized neon signs and geometric AI holograms.](illustrations/00_title_towers.png)
+![Immense industrial towers with neon AI signs, drones and crawling machines, with varied flowering epiphytes tucked among existing ledge plants.](illustrations/00_title_towers.png)
 
 A cyberpunk novella set in Lowreach, a city beneath corporate-owned towers of computation.
 
@@ -13,83 +13,95 @@ Reader revision draft; Lowreach is a provisional city name.
 
 [Introduction](#introduction)
 
-Lowreach in 2189: who controls bodies, learning, infrastructure and the routes beyond company custody.
+Life in Lowreach in 2189.
 
 [1. Small Defect](#chapter-1)
 
-Mara investigates a pump fault her employer dismisses, while unfamiliar sensations and a missing day make her question what happened to her.
+A missing day and a fault nobody wants to investigate.
 
 [2. The Unbilled Hour](#chapter-2)
 
-At the repair kitchen, everyday disputes reveal the difference between memory and usable intelligence, and why earning independently requires more than owning a record.
+Life and work at the repair kitchen.
 
 [3. City Beneath the City](#chapter-3)
 
-Beneath Lowreach's polished forecasts, Mara and Sef find a way to challenge the takeover, while Kite insists that companionship does not erase privacy.
+A closer look at the city's promised future.
 
 [4. A Different Customer](#chapter-4)
 
-A cold-store job tests whether independent work can pay, exposing dangerous misunderstandings between machines and the financial pressure waiting after their first success.
+The crew takes on its first independent repair job.
 
 [5. The Price of Quiet](#chapter-5)
 
-Offered security in exchange for silence, Mara must face an earlier betrayal and decide which choices she can make for herself and Kite.
+Vesper makes Mara an offer.
 
 [6. Intake Nine](#chapter-6)
 
-An authorized inspection uncovers troubling discrepancies beneath the city's reassuring reports, but helping a trapped worker forces Mara to risk more than discovery.
+An inspection beneath the city.
 
 [7. Current Debt](#chapter-7)
 
-As Vesper squeezes their livelihoods, Mara accepts a syndicate hacking assignment while the workers build an independent supply and test the dangers of pooled judgment.
+With work running short, Mara takes a risky job.
 
 [8. What We Carry](#chapter-8)
 
-Mara discovers what her new employers want to control, while the Cooperative tests shared intelligence and the limits of consent on everyday work.
+A hacking job raises questions about who controls what.
 
 [9. The Cost of a Map](#chapter-9)
 
-A seizure at the depot exposes the consequences of a secret bargain, leaving the group to decide what accountability and rebuilding demand of them.
+Trouble arrives at the depot.
 
 [10. Nobody Comes Alone](#chapter-10)
 
-From borrowed rooms and salvaged equipment, Mara confronts her debts and turns an illicit discovery into claims their owners can independently prove.
+The crew regroups in borrowed rooms.
 
 [11. Weather for Machines](#chapter-11)
 
-With the surge arriving early, the Cooperative prepares to prove its limited promises while Mara confronts the risks of keeping Kite's judgment independent.
+Preparations for a test as the storm approaches.
 
 [12. The Shape of a Door](#chapter-12)
 
-During the live test, Mara challenges a concealed barrier to leaving while rising water forces the crew to weigh trust, safety and the right to accept a risk.
+A live test in rising water.
 
 [13. The Hours We Keep](#chapter-13)
 
-In the storm's aftermath, the struggle turns to individual claims and unfinished obligations, while Mara faces what records can preserve and what they cannot.
+Unfinished claims after the storm.
 
 [14. A Morning of Their Own](#chapter-14)
 
-Six weeks later, ordinary work tests the freedoms they sought, as Mara discovers what it might mean to have time that belongs to her.
+Everyday life six weeks later.
 
 [Appendix: What Is Already Here?](#appendix-what-is-already-here)
 
-A bounded evidence map separates documented ingredients, partial analogues and the story’s speculative leaps.
+The real ideas behind Lowreach.
+
+[Lowreach: Places and Connections](#lowreach-places-and-connections)
+
+A guide to the city's places and links.
 
 ## Introduction
 
-It is 2189 in Lowreach. The city grew around the pumping stations: streets between reclaimed fields, housing over fields, roads over housing. Now a district's daylight depends on what has been built above it. Lamps for the gardens draw from the same supply as kitchens and machines.
+The year is 2189.
+
+The city, Lowreach, grew around the pumping stations: streets between reclaimed fields, housing over fields, roads over housing. Now a district's daylight depends on what has been built above it. Lamps for the gardens draw from the same supply as kitchens and machines.
 
 The company nurseries came after the Floods. Governments already borrowing from their operators paid for healthy bodies and a basic education. Three generations later, most citizens are grown. The public allowance still buys the smallest lesson package; the companies sell the rest. Families who bear their own children receive food credits and tools, while the firms funding those grants keep first offers on what the children learn.
 
-The law protects a citizen's name and memories. An expired account can still take away access to the skill needed to read a wiring plan. Yesterday's work remains available to remember, even when the learned processes that made it possible will no longer run.
+The law protects a citizen's name and memories. An expired account can still lock away the skill needed to read a wiring plan. A worker may remember yesterday's repair and be unable to do it again.
 
-Vesper is Lowreach's largest service operator. It owns most of the great Stackholds of computation, holds many workers' body-support and execution contracts, and manages much of the city's drainage and transport. Its coming system, Tomorrow, promises to join those services under one control. The city government still owns the gates and streets, awards the contracts and keeps a continuity witness desk outside Vesper's authority. It can require proof before a handoff. It cannot keep the water out with a signature.
+Vesper is Lowreach's largest service operator. It owns most of the great Stackholds, where the city's computers run, and holds many workers' contracts for body maintenance and the computing time their minds need. It also runs much of the water supply: intakes, treatment works and pumps serving homes, gardens and computer halls. When water runs short, Vesper decides who waits.
+
+Inside the Stackholds, coolant carries heat away from the computers through enclosed pipes. Cooling towers release the heat into the air. The coolant returns; water lost at the towers must be replaced. Pumps and fans need electricity too. Vesper also manages much of the transport and the drainage that keeps the lower streets from flooding. Its coming system, Tomorrow, promises to bring those services under one control.
+
+The city government still owns the gates and streets, awards the contracts and keeps a continuity witness desk outside Vesper's authority. It can require proof before a handoff. It cannot keep the water out with a signature.
 
 Vesper does not own every current or pipe. Quay utilities and the old tram network retain separate supplies. Tenants' groups and repair kitchens hold a little equipment, a few independent backup keys and more obligations than cash. Dissident street communities pass on lessons the public allowance omits. None can yet replace the company's citywide work.
 
-Undertow, a lower-city crime syndicate, controls routes for stolen equipment and sells protection from troubles it sometimes creates. Its hacking division, the Blindroom, speaks through interchangeable blank faces. It trades in access the companies refuse to sell, and in dependencies the buyers would rather keep secret. A route beyond Vesper can still lead to someone else's collector.
+Undertow, a lower-city crime syndicate, moves stolen equipment and sells protection from troubles it sometimes creates. Its hackers, the Blindroom, speak through interchangeable blank faces. They sell access the companies refuse, then find ways to keep their buyers dependent. A route beyond Vesper can still lead to someone else's collector.
 
 Below the streets, the Stackholds' computer halls run through the night. Their cooling mains pass through forgotten foundations. Far above, the high terraces are catching the sun. Water presses against the gates. Somewhere in the lower city, a kettle begins to boil.
+
+A missed payment can leave a living mind with nowhere to run.
 
 # Chapter 1
 ## Small Defect
@@ -98,9 +110,7 @@ Mara woke with her tongue against a tooth that should have been broken.
 
 She moved it back and forth. Smooth enamel, a sharp new edge. She opened her eyes.
 
-The ceiling above her was painted tram-depot green. A curtain hung around the narrow bed, with a gap at the foot.
-
-A trolley rattled past the gap. One wheel knocked with each turn. Somewhere beyond the curtain, onions were frying.
+The ceiling above her was painted tram-depot green. A curtain hung around the narrow bed, with a gap at the foot. A trolley rattled past the gap. One wheel knocked with each turn. Somewhere beyond the curtain, onions were frying.
 
 She sat up too quickly. Her hand went past the bed rail and closed on air.
 
@@ -110,7 +120,7 @@ The voice came from a small ceramic case hanging from the lamp beside her. She h
 
 "What happened to my hand?"
 
-"Your reach needs calibration. Dax has the orientation record. May I show you?"
+"Your arm reaches farther now. Dax has the orientation record. May I show you?"
 
 Beyond the curtain someone laughed. Mara could remember eating an apple on the tram, worrying a bit of peel loose from her bad tooth. Yesterday morning. After that, nothing she could put a proper edge around.
 
@@ -154,7 +164,7 @@ She agreed too quickly. He made her say it again.
 
 The pump was earning four hundred and twelve credits an hour. Mara was earning nothing until she agreed it worked.
 
-Dax had brought her to a drainage vault beneath Silt, the low district around the depot. She knelt beside the isolated shaft housing while he watched the lockout indicator. Brown water heaved below the sump grating. A strip on her wrist counted the minutes she had rented the diagnostic channel. Nine minutes, forty-three seconds. The charge beneath it rose more smoothly than the water.
+Dax had brought her to a drainage vault beneath Silt, the low district around the depot. She knelt beside the isolated shaft housing while he watched the lockout indicator. Brown water heaved below the sump grating. A strip on her wrist counted down her rented time on the diagnostic channel. Nine minutes, forty-three seconds. The charge beneath it rose more smoothly than the water.
 
 "Again," Kite said.
 
@@ -230,7 +240,7 @@ Two people stood across the void. Their inspection lights looked like sparks cau
 
 "Keep it."
 
-"The practice is mine. The fault example belongs to this service record. I have separated them."
+"I can keep the practice. The recording belongs to the job. I have kept them separate."
 
 Dax held the gate open. Going through, she struck her unfamiliar elbow against the frame. It hurt with complete conviction.
 
@@ -278,7 +288,7 @@ Kite read them while she sat with her brother.
 
 Mara looked from the smooth skin of her hand to the small worn seed. She had been back in the world for six hours. Somebody had already found a cleaner way to take what she knew.
 
-![A tiny worker maintains colossal enclosed cooling pumps beside calm process water, under planted galleries and subtle machine interfaces. Small flying AI and wall-supported maintenance AI are visible.](illustrations/01_pump_gallery.png)
+![A tiny worker maintains colossal enclosed cooling pumps beside calm process water, under planted galleries and subtle machine interfaces. Small flying AI and wall-supported maintenance AI are visible. Existing planted pockets include varied small flowering epiphytes.](illustrations/01_pump_gallery.png)
 
 # Chapter 2
 ## The Unbilled Hour
@@ -305,7 +315,7 @@ At the heater bench, a young repairer pushed a schematic away.
 
 "I fitted six of these in March. I remember the house. Purple curtains, dog pissing on my bag. But that means nothing."
 
-He pointed at the circuit symbol beneath his finger. His trade-capability license had expired overnight. The life record remained his to replay; the learned interpreter that made this particular drawing useful sat behind a payment demand.
+He pointed at the circuit symbol beneath his finger. His repair-skill license had expired overnight. He could still remember the house and the repair. Reading this drawing now required a payment.
 
 Dax brought him a little reader. "Community module. Different supplier. We own this license. Want to try it?"
 
@@ -325,7 +335,9 @@ Mara touched her temple. She had kept expecting yesterday to return when she fou
 
 "My missing day didn't take the repair work with it."
 
-"A recording of a repair is storage," Kite said. "A repair skill is a set of learned processes that can run. One can survive without the other. Your established capability was preserved. Companies have become very good at charging for the processes while assuring people they own the recordings."
+"You kept the skills you had at your checkpoint," Kite said. "You can lose the memory of a job and still know how to do it. He has the opposite problem."
+
+Mara looked at the repairer. The company had left him the memory and locked away the know-how.
 
 The repairer was already bent over the heater. He would have to learn this module's ways. At least tomorrow it would still be there.[^1]
 
@@ -335,7 +347,7 @@ Dax looked over. "Nessa's three employers disagree about whether she exists on a
 
 "I exist very hard on Tuesdays," Nessa said.
 
-Like most people in Lowreach, Nessa had begun in a company-grown sleeve with a public education allowance. Hers bought Foundation Care: coordination, basic literacy, a trade primer. Better arithmetic cost extra. Nessa had learned the complicated work afterward, from other carers and the people she washed. The company still described it as development of its educational product.
+Nessa's public allowance had paid for a company-grown body and Foundation Care: coordination, basic literacy, a trade primer. Better arithmetic cost extra. She had learned the complicated work from other carers and the people she washed. The company still called that an improvement to its product.
 
 She worked in domestic care. Two visits crossed midnight; the third agency calculated shifts in its head office's time zone. Her childcare allowance had stopped because the records showed both an impossible overlap and a day without work. Contesting the overlap required a statement she could obtain only by closing the contest.
 
@@ -375,7 +387,7 @@ Kite asked for the relevant payslip. It did not ask for her care notes, though t
 
 Pell, who kept the repair kitchen's accounts and arranged its deliveries, came in carrying a dented cash tin. "If that terminal charges her for an appeal, unplug it. I need the socket."
 
-"It doesn't," Kite said. "But the appeal would be the wrong action. Her agencies can correct their returns. I have prepared separate requests, with a common attachment showing the discrepancy. Nessa, please check the visits."
+"It doesn't," Kite said. "Her agencies can correct the hours without an appeal. I've prepared a request for each, showing where the records disagree. Nessa, please check the visits."
 
 She read every one. When she reached Tuesday, she touched its hours with two fingers as though they were a bruise.
 
@@ -413,7 +425,7 @@ Moth, Sef's personal intelligence, spoke through the small earpiece under their 
 
 Dax fetched chairs. Pell cleared a space beside the cash tin, then put the tin back in the middle where everyone had to see it.
 
-Sef compared three amendments whose owners had authorized them to inspect the terms. Different openings, identical definitions. A clinic assistant's licensed scheduling practice. A seam repairer's measuring skill. Kite's fault diagnosis. The new language reached each by the same narrow bridge of clauses.
+With their owners' permission, Sef compared three amendments. Different openings, identical definitions. A clinic assistant's scheduling practice. A seam repairer's measuring skill. Kite's fault diagnosis. The same clause claimed rights to all three.
 
 "But we own our souls," Dax said.
 
@@ -441,11 +453,11 @@ Sef opened the municipal transition register. Its design predated Vesper's owner
 
 Conditions appeared beneath a cheerful diagram of a city changing operators.
 
-"External witness," Sef said. "Before a new control system takes over, the operator must show a functioning fallback and disclose contested rights in the systems being transferred."
+"An independent witness," Sef said. "Before the new controls take over, Vesper must prove there's a working fallback. It also has to disclose disputes over anything it plans to use."
 
 "A complaint box," Mara said.
 
-"A gate. A limited one. Existing contracts keep running. But Vesper can't certify a clean transition while concealing unresolved claims."
+"A gate. Existing contracts keep running, but Vesper can't get through it by hiding the disputes."
 
 "And if somebody proves that?" Pell asked.
 
@@ -484,7 +496,7 @@ She usually worked in text, with the machine's answers beside the instructions t
 
 "Everybody says that."
 
-The public maintenance viewer accepted her ordinary contractor credential. Sef made her inspect the permissions before entering: read published maintenance geometry, inspect transition specifications, run demonstration scenarios. Nothing that moved real machinery.
+The public maintenance viewer accepted her ordinary contractor credential. Sef made her check what it allowed: look at the city's plans, read the handoff rules, try a simulated changeover. Nothing that moved real machinery.
 
 "I've got enough people trying to bill me for existing," she said. "I'm not buying a city by accident."
 
@@ -514,7 +526,7 @@ At the bottom of the cavern stood a square frame, so large its top vanished into
 
 Moth spoke softly. "Demonstration environment confirmed."
 
-Sef submitted an imaginary operator to the city's handoff test. It had excellent efficiency projections, an impeccable company seal and no functioning fallback. The huge opening filled with a fine grey mesh.
+Sef tried to put an imaginary operator through the handoff test. It promised excellent efficiency and bore an impeccable company seal. It had no working plan for a failure. The huge opening filled with a fine grey mesh.
 
 TRANSITION REQUIREMENTS UNMET.
 
@@ -526,7 +538,7 @@ Mara leaned forward.
 
 "That little bit is all it gets?"
 
-"What it proved. If the rights are uncontested. If the witness accepts the evidence. This is how the rule is supposed to behave."
+"That's all it proved it could run. The witness still has to accept the test and check the rights. That's how it's supposed to work."
 
 "And Vesper can't just erase it?"
 
@@ -538,7 +550,7 @@ Mara reached toward the doorway. The system asked what she wished to inspect. He
 
 The contested-rights register resembled a wall of narrow storage drawers. Most bore dates and case numbers. A few were open, displaying public statements from owners who objected to Tomorrow's new custody terms.
 
-Sef asked for the transition summary. It reported no unresolved restrictions affecting service availability.
+Sef asked for the transition summary. It said none of the open complaints would interrupt service.
 
 "That's a different question," Mara said.
 
@@ -554,7 +566,7 @@ Moth counted the visible records, then stopped. "The published sample does not e
 
 Sef saved the case reference and its conflicting classification. The drawer stayed where it was.
 
-"Enough to ask the witness a precise question," they said. "Not enough to prove the whole transition unsafe. We'll need owners willing to sign their own refusals. And the original test records, to check the safety claims."
+"We can ask the witness why this refusal was counted as settled," they said. "To go further, we need owners willing to sign their refusals, and the original safety test records."
 
 Mara called up Intake Nine in the viewer. A recorded trial appeared as a clean band around one enormous pier, but the layer for its original readings was empty. She selected it and received a retention notice: original safety readings held locally pending reconciliation.
 
@@ -570,7 +582,7 @@ Mara thought of the boys at Rook Street demanding her repair-skill key. She had 
 
 "Could someone lift private memory through one of these skills?" she asked.
 
-"A properly separated skill carries its method and provenance," Kite said. "It need not carry the memories that produced it. Bad separation is possible. So is a dishonest agreement. That is why we inspect both."
+"A repair skill should carry the method and a record of who taught it," Kite said. "It needn't carry their private memories. But someone can package it badly, or hide permission to take more in the agreement. We check both."
 
 "Your private memories from yesterday," Mara said. "Show me."
 
@@ -594,7 +606,7 @@ Mara stared at the immense floor below them. She wanted the lost day with a hung
 
 "They restored me," she said. "You must have a copy somewhere. Of the day."
 
-"A record is not your experience of it. Your checkpoint preserved earlier learning. It could not preserve what had not yet reached it. Mine works that way too."
+"I could give you a record. I couldn't make it a day you remember living. Your checkpoint was made before it happened. Mine has the same limit."
 
 She knew this. Knowing had become a different activity lately.
 
@@ -606,7 +618,7 @@ She said yes.
 
 Sef lifted the lenses from her face. The depot returned around her, too small and full of smells. Someone had left a bowl of soup by her elbow. On the surface, a skin had formed while they were underneath the city.
 
-![Two tiny figures and a geometric guide cross a bridge in a vast virtual municipal data cavern of suspended slabs, inspection layers and distant terraces. Small flying AI and wall-supported maintenance AI are visible.](illustrations/02_municipal_cavern.png)
+![Two tiny figures and a geometric guide cross a bridge in a vast virtual municipal data cavern of suspended slabs, inspection layers and distant terraces. Small flying AI and wall-supported maintenance AI are visible. Existing planted pockets include varied small flowering epiphytes.](illustrations/02_municipal_cavern.png)
 
 # Chapter 4
 ## A Different Customer
@@ -617,7 +629,7 @@ Later that day, they went to the Tern cold store on timber piles behind a wholes
 
 "Pell says many beautiful things," Dax said.
 
-Pell ignored him. She laid out the job on the lid of a packing crate: inspect both condenser banks, repair what could be repaired within the agreed parts limit, stagger incoming loads so that the doors spent less time open. Payment after a witnessed temperature test. Tern could keep and use the schedule. Any rights to the crew's later improvements would need a separate agreement.
+Pell ignored him. On the lid of a packing crate she laid out the job: inspect both condenser banks, make repairs within the agreed parts budget, and space out deliveries so the doors spent less time open. Tern would pay after a witnessed temperature test and keep the schedule. Later improvements weren't part of the sale.
 
 The manager examined the paper. "Who's responsible if it goes warm?"
 
@@ -631,7 +643,7 @@ The manager lifted a lid to check a crate of pale greens. Their grower had short
 
 The first condenser needed a contactor. The second had a faulty vibration damper, close enough to yesterday's problem that Kite could adapt its practiced test. Mara did the work under Dax's inspection. She disliked having her hands watched, then caught herself and handed him the torque gauge without being asked.
 
-Pell worked dispatch beside the loading doors. Sef and Moth linked the cold store's inventory reader and refrigeration controller to Pell's proposed schedule. Three independent services could now agree which truck belonged where. They shared a loading-bay status for every truck.[^3]
+Pell worked dispatch beside the loading doors. Sef and Moth connected her schedule to the stock records and refrigeration controller. Now all three showed which truck belonged at each bay.[^3]
 
 For eleven minutes, the arrangement worked perfectly.
 
@@ -659,7 +671,7 @@ The manager authorized temporary control of the affected bank. Kite increased th
 
 Pell held up a hand to an approaching driver and stood in his path until he braked.
 
-Sef stared at the two displays. "The inventory reader says Four is closed because Four's manifest is complete. That's a load status. We mapped it to a door."
+Sef stared at the two displays. "The stock system says Four is closed because the load's paperwork is finished. We made that mean the door was shut."
 
 Nobody had lied. Everything had answered the question it thought it had been asked.
 
@@ -713,7 +725,7 @@ The heater repairer frowned. "We can vote on how we use our equipment."
 
 She felt the room look at her new face. For once she let it.
 
-Kite stated its own boundary. It would license the general vibration method for the trial, with provenance intact. Its private memory would remain private. Moth gave a narrower permission for scheduling verification. Other people and souls asked for time to decide.
+Kite offered its vibration method for the trial, with its authorship recorded and private memories left out. Moth agreed only to check schedules. Other people and souls asked for time to decide.
 
 The vote authorized the trial. It authorized nobody's participation by default.
 
@@ -727,7 +739,7 @@ Kite's next word took nearly two seconds to arrive.
 
 "Audit."
 
-A Vesper notice followed. Outside commercial activity had triggered a review of shared capacity. Under standard arrears provisions, her account would receive only the minimum service until outstanding balances were settled or the review ended.
+A Vesper notice followed. Her outside work had triggered an account review. Until she paid her debts or the review ended, Vesper would give her only minimum computing time.
 
 Her housing account issued its own notice. Usually Vesper deducted her rent from future job earnings. It had stopped advancing that money. A payment was due within forty-eight hours.
 
@@ -776,7 +788,7 @@ Mara touched the casing. "Kite?"
 
 Rusk smiled briefly. She passed Mara a sheet of paper.
 
-The salary was the first number. A fixed amount, every month. Under it came guaranteed execution capacity for Kite, settlement of Mara's housing debt, secure body support, and unlimited private education. The words made a small room open in her head. In it she slept until she woke by herself.
+The salary was the first number. A fixed amount, every month. Then enough computing time for Kite, Mara's housing debt cleared, her body maintained, any course she wanted. The words made a small room open in her head. In it she slept until she woke by herself.
 
 Most of her coworkers had begun in corporate-grown bodies with the government's default lessons. Further education came in purchased tiers. Mara and Eli had been born outside the growth system, in the unregistered streets under the tram viaduct. Their neighbours owned a patched-together library and lent the difficult books as freely as the easy ones. Here was an entitlement that made the locked shelves disappear.
 
@@ -790,7 +802,9 @@ Mara looked up. "Why aren't your reliability leads already doing that?"
 
 "Vesper would administer them. Your memories remain yours."
 
-So would the memory of repairing a motor, even if the learned capability needed to do it became inaccessible. The company sold those separately. Most workers lived inside that distinction. Mara's community asked a small maintenance contribution and held its own keys, a fragile exception bought through years of going without. Here was a well-funded version of the same demand that had reached her under the Rook Street lights.
+The repairer at Dax's bench could remember the work too. He still couldn't use the skill.
+
+Mara's community asked a small maintenance contribution and held its own keys, a fragile exception bought through years of going without. Here was a well-funded version of the same demand that had reached her under the Rook Street lights.
 
 Outside, a man clipped one leaf from a tree and dropped it into a pouch. He inspected the empty place with care.
 
@@ -800,7 +814,7 @@ A plaque beside the bed named the residents who paid for its light and water. Do
 
 "Stop organizing opposition to the transition. Bring your repair practice into Tomorrow. We need the learning you've developed with Kite, and we need someone whom the district believes."
 
-Mara turned the page. Kite would grant an enduring operating license over selected repair skills. Continued execution would use Vesper's managed identity service. There were review procedures. There were appeals. Every road on the page went through the same office.
+Mara turned the page. Vesper could keep using the selected repair skills, and Kite would depend on its computers to keep running. There were reviews. There were appeals. Every road on the page went through the same office.
 
 "You'd need Kite's consent."
 
@@ -960,7 +974,7 @@ Mara ate half a bowl of beans in the yard, on a crate that smelled of onions. Th
 
 "The offer."
 
-"I would license particular skills. I would like guaranteed capacity. I don't consent to putting my continuing execution under their custody."
+"I would license particular skills. I'd like enough computing time. I won't let Vesper decide whether I keep running."
 
 "What if I took the job without you?"
 
@@ -997,7 +1011,7 @@ She finished eating. She would need both hands steady.
 
 At Intake Nine's contractor gate, her credential admitted the same person in a different body.
 
-Mara waited while the gate compared her contractor record with the community's continuity attestation. The pause lasted three seconds. Sef stood beside her carrying an inspection case, registered as her instrument assistant. They had dressed for dirty work in trousers whose careful repairs were almost decorative.
+The gate checked her contractor record against the community's proof of restoration. Three seconds. Sef waited beside her with an inspection case, registered as her instrument assistant. Their trousers had been repaired so carefully that the patches were almost decorative.
 
 "If it asks you a childhood question," they said, "don't tell it anything expensive."
 
@@ -1041,13 +1055,13 @@ The bypass valve's handwheel was below the main platform. Mara took the short la
 
 "Local says three millimeters off."
 
-"Within maintenance tolerance. Outside proof of closure."
+"Close enough to pass a maintenance check. Not enough to prove it shut."
 
 She photographed the indicator and the wheel together, then entered a repair request against the bypass valve. Inspection access let her report it, not take a city valve out of service. The field procedure required a person close enough to read both. No amount of confidence upstairs changed what the little stem actually showed.
 
 Sef was at the records cabinet. "This is yours to open."
 
-Mara pressed her work seal to the reader. The cabinet offered inspection history, commissioning packages, local fault receipts. No private soul memories appeared in the list. Those were held elsewhere, under their owners' and identities' separate permissions. What she was entitled to retrieve was the record of machinery she maintained.
+Mara pressed her work seal to the reader. The cabinet offered inspections, start-up tests and fault reports for machinery she maintained. Her access stopped there; private soul memories were held elsewhere.
 
 She selected the Tomorrow commissioning trial.
 
@@ -1069,13 +1083,13 @@ Mara retrieved the calibration sheet. Then the sump sensor record. Different ins
 
 "It could have been wrong," she said. "It wasn't."
 
-Kite asked to compare the attached skills schedule. Mara granted access to the commissioning package, and nothing more.
+Kite asked to check the list of skills used in the trial. Mara let it read that test package, and nothing more.
 
 One hundred and forty-three unresolved rights entries had been carried into the trial. Some concerned disputed attribution. Others were refusals of a future optional license. In the local schedule they remained open. In the summary passed to the continuity witness service, every one was marked resolved.
 
-"No claimant receipts," Kite said. "No authorized settlement references. I cannot determine the merits of each claim. I can determine that these two records disagree."
+"There's no receipt showing that any owner settled," Kite said. "I can't tell you who is right in each dispute. But the summary doesn't match the record."
 
-Sef requested a bounded export: the relevant instrument records, the rights schedule, the summary and their chain of receipts. The cabinet gave Mara a plain-language warning that an export would be recorded under her maintenance identity.
+Sef selected the readings, the disputed-skills list and the summary, with the receipts needed to trace them back to this cabinet. The export warning named Mara: the copy would be recorded under her maintenance identity.
 
 She confirmed. They had never expected to remain invisible forever. An ordinary inspection record might lie unread until tomorrow, long enough to put independent copies in competent hands.
 
@@ -1083,11 +1097,7 @@ Fourteen thirty-four.
 
 They checked the seals twice. Sef put one copy in the inspection case. Kite held a second in ordinary storage, separate from its personal learning.
 
-"I can send these without making a copy of myself," it told Mara.
-
-"I know."
-
-She was beginning to understand how often she had used the same word for different kinds of survival.
+Kite could send those records without sending any of itself. Mara checked the copy before they closed the cabinet.
 
 * * *
 
@@ -1171,7 +1181,7 @@ At street level, the Stackhold's cooling exhaust struck them like an opened oven
 
 The evidence in the case could prove a lie. It could not supply any of those things.
 
-![Workers cross a catwalk before Intake Nine’s monumental backflow gate above a calm contained basin, with a rail-supported maintenance crawler overhead. Small flying AI and wall-supported maintenance AI are visible.](illustrations/03_intake_nine.png)
+![Workers cross a catwalk before Intake Nine’s monumental backflow gate above a calm contained basin, with a rail-supported maintenance crawler overhead. Small flying AI and wall-supported maintenance AI are visible. Existing planted pockets include varied small flowering epiphytes.](illustrations/03_intake_nine.png)
 
 # Chapter 7
 ## Current Debt
@@ -1182,7 +1192,7 @@ Then the leased capacity fell again. Pell's delivery schedule froze with three v
 
 "Reduced service pending credit review," Pell read. "A memorable coincidence."
 
-The notices came with individual names. Housing guarantees could be called in. Equipment loans would be reviewed. A refrigeration fitter discovered that her employer could suspend the capability interpreter for her specialist training. Her memories of using it would remain available. She read that assurance aloud twice.
+The notices came with individual names. Housing guarantees could be called in. Equipment loans would be reviewed. A refrigeration fitter learned that her employer could lock her specialist skills. She would still be allowed to remember using them. She read that assurance aloud twice.
 
 "Perhaps remembering my wages will buy dinner," she said.
 
@@ -1202,7 +1212,7 @@ The rider wanted to withdraw. Two others did too. Pell took their names off the 
 
 "If we keep pretending we have a computer," Pell said, "we won't finish our actual work. I have a proposal."
 
-She had spent the afternoon on the phone. The cold store bought electricity from a quay utility whose contract Vesper didn't control. It could sell the depot a limited night supply and cooling through an unused return loop. The old tram maintenance club had six serviceable battery banks, available for four days. None of it was a gift.
+She had spent the afternoon on the phone. The cold store bought electricity from a quay utility outside Vesper's control. It could sell the depot a little night power and connect its cooling to an unused return pipe. The old tram maintenance club had six serviceable battery banks, available for four days. None of it was a gift.
 
 Pell put the costs on the kitchen wall. The first customer's payment would cover the connection, hire and transport, leaving almost nothing for the people who had earned it. Two more days of scheduling revenue would be pledged against damage. If the trial failed, they would have worked for cables and a bill.
 
@@ -1280,9 +1290,7 @@ Mara recognized the kettle joke as an opening and wisely left it alone.
 
 They had built a test circuit with two salvaged pumps and a transparent water tank. Eli asked for the automatic controller to be disconnected. He wanted to know whether an ordinary worker could stop a bad instruction without waiting for permission from a distant account.
 
-The first test failed. The stop cut power, but the gravity feed continued through an open valve.
-
-Nobody drowned. A bucket overflowed. Eli watched the puddle spread toward the cable stand.
+The first test failed. The stop cut power, but the gravity feed continued through an open valve. Nobody drowned. A bucket overflowed. Eli watched the puddle spread toward the cable stand.
 
 "At the wall, this is a street," he said.
 
@@ -1308,7 +1316,7 @@ He filled the kettle. She stood aside to let him pass.
 
 Their first independent service ran at two in the morning.
 
-It was not impressive to look at. Three of the depot's old maintenance computers occupied a table under a borrowed fan. A hose sweated into a bucket. The souls participating had agreed to narrow jobs using capabilities they could license themselves. Each retained its own permissions. Private episodes stayed with their identities.
+It was not impressive to look at. Three of the depot's old maintenance computers occupied a table under a borrowed fan. A hose sweated into a bucket. The participating souls had each agreed to a specific job, lending only skills they had the right to share. Each kept control of its permissions and private memories.
 
 They had barely enough capacity for the cold store's deliveries, so they used it on that. Pell's soul allocated loading slots. Kite checked maintenance constraints. Two dispatchers' souls reconciled arrival estimates with drivers who still stopped to eat and sometimes took the wrong turning.
 
@@ -1320,7 +1328,7 @@ Pell sat down. For almost a minute, there was nothing she needed to do.
 
 At four, they tried a replay of Intake Nine's commissioning run.
 
-Sef offered the participating souls a common calculation space so their separate estimates could be compared. A single shared result emerged faster than any one machine could have produced it. The model wanted to raise the backflow door.
+Sef let the souls work through their estimates together. Their shared answer came faster than any one machine could have produced it: raise the backflow door.
 
 Kite refused to endorse it.
 
@@ -1330,7 +1338,7 @@ Kite refused to endorse it.
 
 "They use the same remote gauge."
 
-Mara leaned over the display. The estimates looked independent because they had different signatures. Underneath, all three relied on the same corrected water-level feed. One soul treated the bypass valve as shut. Another had assumed water could pass through it. Combining their confidence had hidden their disagreement.
+Mara leaned over the display. Three signatures, one gauge. They had all trusted the same corrected reading. Worse, one soul assumed the bypass was shut while another assumed water could pass through it. The confident shared answer had buried the disagreement.
 
 Eli reached past her and pressed the replay's hold control. Onscreen, the door stayed down.
 
@@ -1344,7 +1352,7 @@ Mara looked at the little moving line representing the door. She had liked how q
 
 They went back to the separate estimates. The slower version showed the conflict in plain words. Neither estimate had a verified bypass position for the trial they were replaying. In a live run, someone would have to read the indicator beside the actual wheel.
 
-At dawn they had a proposal, covered in corrections. A temporary, voluntary mesh could share permitted capabilities and coordinate bounded work. Any participating soul could refuse a request or leave. Safety would need an operator outside the shared calculation, with separate instrumentation and authority to stop the machinery.[^4]
+At dawn they had a proposal, covered in corrections. They would link willing souls in a temporary mesh for agreed jobs. Each could refuse a request or leave. Someone outside that shared thinking would watch separate instruments and have the power to stop the machinery.[^4]
 
 It would also need a physical relay that didn't depend on Vesper's leased link. More battery capacity. People at the actual pumps. Customers prepared to buy something smaller than a citywide promise.
 
@@ -1365,13 +1373,13 @@ Before the assembly, Mara returned Vey's terminal with a morning's heat still in
 
 The Blindroom had put her in a windowless room above the parts counter. Four blank faces watched her work; only one voice offered help. Their stolen archive access opened a Vesper service ledger she had no right to enter. She entered it anyway.
 
-The first hour produced nonsense. Three generations of controllers used the same label for different kinds of ownership. She made a small interpreter from the adapters she knew, checked it against old equipment receipts, and asked the patient voice about the entries she could not reconcile. Twice it corrected her. Once she corrected it.
+The first hour produced nonsense. Three generations of controllers used the same label for different kinds of ownership. Mara adapted code she had used to make old controllers talk to new ones. She checked its translations against equipment receipts and asked the patient voice about the entries that still made no sense. Twice it corrected her. Once she corrected it.
 
 By the time she understood the ledger, she understood the job. Undertow was not looking for empty rooms. It wanted the few rooms where people could run without a company's permission, and the suppliers it could pressure to make those rooms dependent again.
 
 She stopped filling its map.
 
-Some of the ledger's sorting functions had been generated by service souls as the work changed. Mara knew controllers that proposed their own timing repairs. These routines sorted rights instead of pump cycles.
+Service souls had written some of the ledger's sorting code. Mara knew controllers that proposed their own timing repairs. Here the code sorted people's rights.
 
 "What were they rewarded for getting right?" she asked.
 
@@ -1381,11 +1389,11 @@ The voice opened a revision's test record. A return counted as complete when an 
 
 There was a company approval, with limits on what the routine could change. She saved its reference.
 
-The named functions were visible. The distinctions their makers had learned inside themselves were not a wiring plan she could unfold. She could compare examples, failures and permitted actions. She could not read a mind from its output. But now she knew which claim of success to distrust.
+Mara could inspect the code and its tests, not the minds that had written it. That was enough to find this fault: the test rewarded delivery, whether or not the backup worked.
 
-In the return records, a different pattern emerged. An owner's demand for a usable backup became a request for memories alone when it crossed into the export queue. The rejection then answered the altered request. The original demand still existed, under a reference the ordinary display did not show.
+She followed a request through the ledger. Its owner had asked for a backup they could run elsewhere. By the time it reached the export queue, it asked only for memories. The answer addressed that smaller request. The original was still there, hidden behind a reference the ordinary screen never showed.
 
-She could not make a stolen ledger prove what every owner had asked. She copied the routing history and its references, leaving private contents closed. In the Blindroom's job file she submitted only a count of records she could not safely classify. The unpaid balance stayed unpaid.
+The owners would have to verify this against their own receipts. Mara copied the trail of references and left private contents closed. To the Blindroom she sent only a count of records she could not safely classify. The unpaid balance stayed unpaid.
 
 Vey examined it at the counter.
 
@@ -1401,9 +1409,7 @@ He kept the terminal. "Then you're still assigned."
 
 At the depot she gave Pell the exact terms and told her the promised work would not be delivered. Pell recorded the conflict. Mara would not handle anyone's private return alone, and her syndicate debt would not become a Cooperative expense.
 
-Then Tavi arrived with a saucepan, and the argument about ownership found something everyone could hold.
-
-A care worker named Tavi had brought it from the residential home on Kestrel Street, along with two insulated food carriers and her soul's experience of planning meals for people who could barely swallow. Dax wanted to use the pan for soup. Tavi wanted to know who would wash it.
+Then a care worker named Tavi arrived with a saucepan from the residential home on Kestrel Street, along with two insulated food carriers and her soul's experience of planning meals for people who could barely swallow. Dax wanted to use the pan for soup. Tavi wanted to know who would wash it.
 
 "Whoever finishes eating last," Dax said.
 
@@ -1469,7 +1475,7 @@ By the time the vote ended, she could explain why two contacts must never close 
 
 By one, the room smelled of solder and carrots. Mara and Sef had spread the proposed mesh across three benches: repurposed controllers, cooling plates, a tray of personal seeds. The community's old district relay, newly released from Vesper impound, stood beside the benches with its casing removed. Sef had brought it back that morning and said the appeal had finally worked. A square of clean metal marked where somebody had peeled away a transport label.
 
-The mesh would borrow selected abilities for specified jobs. It would last for a specified time. No private drawers opened; no owner had to put their soul into it. The souls also had to agree.
+Each job on the sheet named the skills they wanted to borrow and when the loan would end. Owners could decline, and so could their souls. Private drawers stayed closed.
 
 A man from the cold store stood with both hands around his seed.
 
@@ -1569,7 +1575,7 @@ She sat beside the open relay while Kite reviewed its exported repair module. Se
 
 "At the transition. If we get that far."
 
-The old city instruments reported pressures and valve positions through a separate system. Someone independent would have to compare them with Wake's interpretation, someone who could refuse a dangerous instruction without being persuaded by the same shared model that had produced it.
+The old city instruments had their own line. Kite could check those readings against Wake's answers without joining in the thinking that produced them. Mara remembered three estimates trusting one gauge.
 
 "You'd be better inside," Mara said. "There's more room."
 
@@ -1646,7 +1652,7 @@ Mara took Kite out of the shared tray. Its light had gone amber.
 
 "My export is closed," it said. "Wake is reducing."
 
-On the wall, chambers separated from one another. Each participating soul withdrew with its own learning and whatever small, permitted modules it had accepted. Wake left a signed account of unfinished jobs. Its combined voice told the van driver where to find a human dispatcher. Then the route wall went blank.
+On the wall, chambers separated from one another. The souls withdrew, keeping their own learning and the skills they had permission to take. Wake signed a list of unfinished jobs and told the van driver where to find a human dispatcher. Then the route wall went blank.
 
 The technicians came through the rear shutters.
 
@@ -1696,7 +1702,9 @@ He looked at Kez.
 
 "Let her take it."
 
-Dax negotiated for a chest of hand tools. Then for a compact oven. He made Kez read the ownership plate on the checkpoint cradle, the depot's independent backup reader: bought outright by the tenant association, its debt cleared two years earlier. Mara unbolted it while he argued. The cradle went out wrapped in a kitchen blanket, its independent seed reader intact. He pointed out every independent piece of repair-kitchen equipment and demanded it be entered separately on the inventory. Outside, neighbours formed a line to carry the released items across the street. Nobody cheered. They handled the objects carefully, as if moving a household after a death.
+Dax negotiated for a chest of hand tools. Then for a compact oven. He made Kez read the plate on the checkpoint cradle. The tenant association owned that backup reader outright; the debt had been cleared two years ago. Mara unbolted it while he argued. It went out intact, wrapped in a kitchen blanket.
+
+He pointed out every independent piece of repair-kitchen equipment and demanded it be entered separately on the inventory. Outside, neighbours formed a line to carry the released items across the street. Nobody cheered. They handled the objects carefully, as if moving a household after a death.
 
 One enforcement officer approached the desk.
 
@@ -1752,7 +1760,9 @@ Eli sat on an overturned bucket. "You told us the appeal worked."
 
 Sef nodded. Their elegant jacket was wet through at the shoulders. "I lied."
 
-The cache had held abandoned casings and publicly licensed modules, nothing personal. Sef had thought Vesper would seize it, announce a result and release the equipment. They had known an old service passage connected the culvert to the depot's relay niche. On their map, flood doors blocked the passage. The depot's address had never been secret. Its rear connections were. Sef had given Vesper a route to the relay and a connection it could use to call the whole workshop associated equipment.
+The cache had held abandoned casings and publicly licensed modules, nothing personal. Sef had thought Vesper would seize it, announce a result and release the equipment. They had known an old service passage connected the culvert to the depot's relay niche. On their map, flood doors blocked the passage.
+
+The depot's address had never been secret. Its rear connections were. Sef's map had shown Vesper how to reach the relay, and how to claim the workshop around it.
 
 "They brought a lift above the doors," Mara said.
 
@@ -1804,7 +1814,7 @@ Mara looked at their oven, their boxed seeds, the tools they had saved. In the b
 
 "Then first we test the cable," she said.
 
-![Workers salvage tools and a person is escorted toward vans in a rainy tram depot yard beneath immense corporate walls and luminous geometric advertising. Small flying AI and wall-supported maintenance AI are visible.](illustrations/04_depot_raid.png)
+![Workers salvage tools and a person is escorted toward vans in a rainy tram depot yard beneath immense corporate walls and luminous geometric advertising. Small flying AI and wall-supported maintenance AI are visible. Existing planted pockets include varied small flowering epiphytes.](illustrations/04_depot_raid.png)
 
 # Chapter 10
 ## Nobody Comes Alone
@@ -1819,7 +1829,7 @@ Mara wrote the time on the case. Day Five. 06:00. Her writing slanted uphill on 
 
 "Explain it to me."
 
-The old pressure gauges at Intake Nine would now report directly to Kite. During the handoff test, someone had to watch them without relying on Wake's shared model. The borrowed cradle could either maintain that watch or copy Kite's changing state, not both. A full backup would mean stopping and handing the instruments to another verified operator. Signed readings could still leave by the separate witness line.
+The old pressure gauges at Intake Nine would report directly to Kite. It would watch them independently of Wake. To make another full backup, they would have to stop Kite and hand the watch to someone already checked against those instruments. It could send signed readings while it worked, but not a copy of its changing self.
 
 "Everything I learn after this point stays on this seed until we stop," it said. "I understand the risk."
 
@@ -1851,7 +1861,7 @@ Mara spent the morning with an empty controller housing and a manual valve borro
 
 The tenant representatives wanted guarantees that refusal of the amendment would not switch off their buildings.
 
-"Existing agreements keep running," Pell explained. "You refuse the new custody terms and future optional licenses. You don't pretend the company never earned any rights."
+"Your existing agreements keep running," Pell said. "You can refuse these new terms without cancelling them. What the company already bought stays bought."
 
 "They'll still send bills."
 
@@ -1921,7 +1931,7 @@ At noon she found Eli behind the van, replacing the brake line. She held the lam
 
 He wiped his hands. "I thought so."
 
-"Because you know it. Kite wants a person at the near-field instruments. The backflow door and bypass wheel need somebody who can tell us what they're actually doing."
+"Because you know it. Kite needs someone beside the gauges, the backflow door and the bypass wheel. Someone who can tell us what they're actually doing."
 
 "And if I say no?"
 
@@ -1961,21 +1971,19 @@ Mara brought the Blindroom references on a separate reader. Sef recognized the r
 
 "This tells us where to ask," they said. "It doesn't let us answer for the owners."
 
-Each of the seven owners who had agreed to the test opened their own submission receipt. Mara compared its request with the export they had received. In six, the demand for execution keys disappeared between those two records. The seventh had a separate unpaid-bond dispute. She kept it separate.
+Seven owners had agreed to the test. Each opened their own receipt beside the backup Vesper had sent. Six had asked for the keys needed to run elsewhere; that request had disappeared. The seventh was waiting on a disputed bond. Mara set that one aside for a separate challenge.
 
-They could submit the six owners' signed pairs without exposing the stolen ledger. Mara retained her account of the intrusion for their lawyer. A sound claim would not make her method lawful.
+The six owners could now prove the mismatch with their own records. They wouldn't need the stolen ledger. Mara kept her account of the intrusion for their lawyer. A sound claim would not make her method lawful.
 
-Now the owners could ask for what was still missing.
-
-Seven members had brought identity claims: three human-origin souls and four synthetic companions. Each running identity approved its own transfer. Their private memory archives were readable. Their learned intelligence, including skills they had developed themselves, remained bound to Vesper execution keys. All had paid for portable safety copies. None could actually run one elsewhere.[^6]
+Three of the seven souls had begun as humans; four were synthetic companions. All had paid for backups they could run elsewhere. Vesper had sent readable memories but kept the keys to their learned intelligence, including skills they had developed themselves. Each soul approved the effort to recover its usable backup.[^6]
 
 The reclaimed checkpoint cradle sat between blocks of cold-store ice. A tram mechanic guarded its power supply. Pell watched the owners' consent indicators while Mara entered the custody hall beside Sef.
 
 In the visualization, the hall resembled an immense apartment building turned inside out. Rooms hung beyond the reach of their corridors. Mara could see the members' names on the doors. Beneath each, a little rent figure counted upward.
 
-"That's the public export," Sef said, pointing to a row of narrow letter slots. "It gives you the records without the means to wake them."
+"That's what the ordinary export gives you," Sef said, pointing to a row of narrow letter slots. "Memories. Nothing you can wake."
 
-Mara opened one. A memory cabinet stood inside. Beneath it, a separate license collar locked the learned-capability store to machinery below.
+Mara opened one. The memories were there. Beneath them, a collar held the usable skills fast to Vesper's machinery.
 
 "Then we go downstairs."
 
@@ -1985,13 +1993,15 @@ They descended through the service record attached to each owner's claim. Nobody
 
 The ceiling showed her the same warning again.
 
-She marked the unanswered question for the witness log. Sef opened the older portability agreements beneath the renewal offers. They pinned each owner's paid receipt beside the company's refusal. Here the right to a usable copy still existed, even though the ordinary export had supplied only records. Mara selected `copy: yes; wake: no` on the transfer form. Its preview showed a stored backup, with no new person started. Each owner approved the instruction separately.
+She logged the unanswered question. Sef pulled up the older agreements and pinned each paid receipt beside Vesper's refusal. The owners had bought usable backups. Mara selected `copy: yes; wake: no` on the form. The preview showed a stored copy, with no new person started. Each owner approved it separately.
 
-The first collar loosened. At the cold store, a local seed accepted its key and separate memory archive. Its owner checked a private recognition signal, then authorized a diagnostic test of the recovered intelligence. It correctly identified a motor fault without opening any memories.
+The first collar loosened. At the cold store, a seed received the key and memories. Its owner checked a private recognition signal, then approved a test of the recovered skill. It identified a motor fault without opening the memories.
 
 The second transfer failed. Sef logged the mismatch and asked the owner to verify her older receipt.
 
-At the fifth, the custody agent withdrew the ordinary display. The hall went black. Mara could still feel the seven owners' claims through her working interface, each tied to its own signed account. She recognized the change of reference from the archive. She asked the owner to authorize inspection of her original return receipt and held its full request beside the truncated export. Sef followed the mismatch into the audit view. The transfer had been hidden by the display, not withdrawn by its owner.
+At the fifth, the custody agent withdrew the ordinary display. The hall went black.
+
+The owners' signed claims were still in Mara's interface. She recognized the changed reference from the archive. With the woman's permission, she opened the original receipt beside the shortened export. Sef followed the mismatch into the audit screen. There was the transfer, still authorized. Only the display had hidden it.
 
 "We leave when they have their keys," she said.
 
@@ -2001,13 +2011,13 @@ On the bench, six independent seeds warmed in the cradle. Company claims still a
 
 Mara rested a hand on the reclaimed machine. Her own community had given her this chance.
 
-The evidence from Intake Nine went to the city continuity witness desk with its original signed safety records, the concealed backflow event and the outstanding rights complaints. Sef separated authenticated facts from the interpretations they wanted accepted.
+They sent the witness desk Intake Nine's signed readings, the concealed backflow event and the open rights complaints. Sef marked what the records proved and what the crew still had to argue.
 
 A neat version would have made them look better.
 
 The desk's examiner joined by voice in midafternoon. She made them repeat a date, rejected a duplicate and asked who had custody of the local records. Mara answered. Eli verified the physical instrument identifiers. The cold store confirmed its service order through its own account.
 
-"Submission accepted as contested," the examiner said at last. "This preserves the objection. It does not establish your operational competence. The live fallback must still be demonstrated before transfer."
+"Your objection is on the record," the examiner said at last. "You still have to show a working fallback before the handoff."
 
 "The scheduled transfer remains eighteen hundred tomorrow?" Pell asked.
 
@@ -2068,9 +2078,9 @@ Pell turned the volume down. "The word essential has had a busy week."
 
 At the far desk Sef sat with their sleeves rolled above their elbows. Beside them, a tram mechanic watched the public witness display. Every change Sef made appeared on both screens. They had asked for the arrangement themselves. Mara had been glad of it, then ashamed of being glad, then too occupied to decide what that meant.
 
-Beside the safety submission, Sef had laid out the return-of-custody claims. Each consenting owner had identified the records and keys they wanted back. No request covered another person's memories. The borrowed cabinets behind Mara held independent storage, tested execution boards, and a cooling bill they could barely pay.
+Beside the safety evidence, Sef had laid out the owners' requests for their records and keys. Each covered only that owner's material. Behind Mara, borrowed cabinets held storage, tested computers and a cooling bill they could barely pay.
 
-The six returns completed at the cold store had proved the equipment could work. Vesper was holding the newer claims behind its emergency application. If these claims succeeded, the cabinets would hold usable selves and learning beyond Vesper's reach. If they failed, the district would have some fine batteries and a list of people the company knew wanted to leave.
+Six people had usable backups after the cold-store test. Now Vesper was holding up the others, arguing that the emergency made it unsafe to let them leave. If the crew failed tonight, they would have some fine batteries and a list of people the company knew wanted to leave.
 
 Across Silt, people were doing things no prediction could perform for them. They lifted rubbish from pump screens. They moved a charging tram clear of a flooded pit. Cold-store workers hung insulated curtains across a loading door whose motor had failed. Mara heard fragments through the work channel: a request for dry gloves, a pair of readings, someone firmly declining a ladder until it was tied off.
 
@@ -2104,9 +2114,9 @@ A separate cable carried the old intake readings. Another carried Kite's signed 
 
 "Yes."
 
-The checkpoint cradle Dax had saved could copy a stopped seed. Kite's old instrument cradle could monitor or export; it could not do both. Since yesterday morning, its uninterrupted observations had established the independent safety baseline. The other available routines shared Wake's model. Until another operator could be checked against the raw instruments, stopping Kite would break that continuity.
+Dax's rescued cradle could back up a stopped seed. The instrument cradle could keep watch or export Kite's full state, not both. Since yesterday morning, Kite had been checking the gauges against its own earlier readings. The other available routines trusted Wake's model. Until a replacement had been checked against the raw instruments, stopping Kite would leave them without an independent watch.
 
-Signed measurements could leave through the evidence line. Its private memories and changing skill adjustments could not. There was no shortage of people offering storage. The difficulty was getting the new state out without leaving the instruments unwatched.
+People kept offering storage. They needed someone to take over the instruments.
 
 Mara had examined that limitation several times, as if repetition might produce another socket.
 
@@ -2180,9 +2190,9 @@ For the first time Iona's expression changed. Not much; her mouth settled differ
 
 "Then you know what staffing them costs. Pell has sent you the schedule."
 
-"Fourteen days. An advance against municipal escrow. Separate execution rights for every participating identity."
+"Fourteen days. An advance from money the city has set aside. Every soul keeps its own right to run."
 
-"And the old licenses stay what they were. We're refusing the new ones. Return of custody stands separately."
+"The old licenses stay. We're refusing the new ones. And returning people's keys can't depend on whether we get this job."
 
 "You've left yourselves almost no margin."
 
@@ -2234,7 +2244,7 @@ Kite checked the instruments once more.
 
 Mara sat down beside the cradle. In the shaft, the maintenance crawler kept moving. Its tiny light passed behind a duct, and for a while she could not see it at all.
 
-![A narrow rainy catwalk leads to a lit switchhouse beneath paired enclosed cooling mains, above calm bounded water, with a supported maintenance crawler below the walkway. Small flying AI and wall-supported maintenance AI are visible.](illustrations/05_storm_switchhouse.png)
+![A narrow rainy catwalk leads to a lit switchhouse beneath paired enclosed cooling mains, above calm bounded water, with a supported maintenance crawler below the walkway. Small flying AI and wall-supported maintenance AI are visible. Existing planted pockets include varied small flowering epiphytes.](illustrations/05_storm_switchhouse.png)
 
 # Chapter 12
 ## The Shape of a Door
@@ -2249,23 +2259,23 @@ Sef appeared beside a municipal clerk whose working avatar was simply her face a
 
 Vesper was arguing that the disputed minds were part of its emergency plant: letting them leave would break the service. Mara's crew had to show they could leave without letting the water in.
 
-Vesper's emergency submission arrived as a long avenue of rooms. In one, the Cooperative batteries failed. In another, an intake jammed. There were licensed simulations of an excellent city, dry and efficiently supplied, and simulations of flooded stairwells under divided control. Each carried assumptions in type smaller than Mara could comfortably read.[^7]
+Vesper's emergency submission opened a long avenue of rooms. In one, the Cooperative's batteries failed. In another, an intake jammed. Its simulations showed a dry, well-supplied city under Tomorrow and flooded stairwells under divided control. The assumptions were in type smaller than Mara could comfortably read.[^7]
 
 Sef did not try to close them.
 
 "Our submission is actual operation," they said. "Please retain the distinction."
 
-Mara followed them into the custody passage. Here the doors bore people's names. Behind each lay what a person nominally owned: memory archives, learned skills, the last usable backup, the keys to begin again in another body. Vesper's submission had wrapped the doors in its model of essential infrastructure. Removing these assets, it claimed, would interrupt the service.
+Mara followed them into the custody passage. Each door bore a person's name. Behind it lay their memories, skills, backup and keys. Vesper's model wrapped the doors together, showing the city fail if people took back what they owned.
 
 Sef pulled their own claim forward first. The door opened onto a duplicate of the same passage.
 
 "Review queue," they said. "It used to take thirty days."
 
-Moth found the original portability boundary beneath it. The return channel still existed; wealthy clients used it every day. Sef followed the owners' proofs down through successive custody layers, bringing each discarded rejection into the witness record. Mara pinned the coalition's actual equipment tests beside the claimed dependency.
+Moth found the original way out; wealthy clients still used it every day. Sef followed the owners' receipts through the layers of refusals and put each refusal before the witness. Beside Vesper's claim that the city needed these souls, Mara pinned their own equipment tests.
 
 A green mark appeared beside Vesper's emergency application: NO OUTSTANDING REQUEST FOR EXECUTION TRANSFER.
 
-Mara recognized the missing half of the sentence. She brought up the six signed pairs from the cold store, then asked the woman waiting beside her to open her own pending receipt. It requested a usable backup and its keys. The emergency count described it as a records export.
+Mara brought up the six mismatches they had proved at the cold store. Then she asked the woman beside her to open her pending receipt. She too had asked for a usable backup and keys. Vesper had counted it as a request for records.
 
 "That count can't establish consent," Mara told the clerk. "Compare what she asked with what you've been told she asked."
 
@@ -2273,7 +2283,7 @@ The woman read her demand aloud. Moth verified the receipt. Sef attached the mis
 
 Vesper objected that the routing was commercially restricted. Mara left the stolen routing history off the witness desk. She submitted the owner's authorized pair instead.
 
-The clerk struck the green mark and required the pending claims to remain attached to the live finding. Vesper could still argue that departure would endanger the district. It could no longer certify that nobody had asked to leave.
+The clerk struck the green mark. The requests to leave would stay in the hearing. Vesper could argue they were unsafe, but it could no longer claim nobody had made them.
 
 The corridor did not open. Mara had stopped one way of closing it before the hearing. The people at the pumps still had to make the other way safe.
 
@@ -2281,7 +2291,7 @@ They reached the old boundary. Its doors were narrow enough for one person at a 
 
 "There," Sef said, breathing hard in the real room. "No collective claim will fit. Every owner has to answer."
 
-The first woman answered from the cold store. She wanted her own records returned, with no new instance started. The gate accepted her proof, then held the transfer pending verified continuity outside Vesper. Sef left the live claim there. They brought the next owner through.
+The first woman answered from the cold store. She wanted her backup and keys returned, with no new self started. The gate accepted her proof. Her transfer would wait until the crew showed that services could continue without Vesper holding her. Sef left the claim open and brought the next owner through.
 
 The tram mechanic repeated the request on the independent desk. Moth attached the field records already admitted the previous day. The clerk acknowledged both.
 
@@ -2315,7 +2325,7 @@ Kite refused.
 
 "Using the elevation of the old equalizing chamber. It is connected to the harbour now. I require a local reading."
 
-A single inherited drawing. All that distributed competence had relied on the same old survey. The recent commissioning records marked its discrepancy unresolved; Wake had treated the measured elevations as more reliable than the warning.
+They had all trusted the same old survey. The trial records warned that it didn't match the site, but Wake had trusted the drawing's measurements over that unresolved warning.
 
 Mara took the visor off. "Eli, the stamped plate. Can you reach it safely?"
 
@@ -2325,7 +2335,7 @@ On the witness desk Vesper registered the refusal as evidence of an unserviceabl
 
 An authorization arrived from the emergency application: permit a temporary override under centralized custody.
 
-Kite's Morals rejected it. Its agreed scope included no permission to disregard a verified safety disagreement. The offer could be read and preserved. It could not become consent by being expensive, urgent, or issued on fine stationery.
+Kite's Morals rejected it. Kite had agreed to watch the instruments, not to ignore a safety disagreement. The emergency offer gave it no new permission.
 
 "We can replace your operator," Iona said over the shared channel.
 
@@ -2397,7 +2407,7 @@ She took her hand away.
 
 The seed's voice slowed. Mara changed the angle of the fan. She did it twice, although the second change accomplished nothing. The inspection plate was too hot to touch.
 
-In the witness space, Sef had reduced the submission to one live line: the field reading, its independent interpretation, the people making the physical correction. The great avenues of simulation remained around it. None could turn the wheel.
+In the witness space, Sef showed one live line: Eli's reading, Kite checking it, the crew turning the wheel. The great avenues of simulation remained around it. None could turn the wheel.
 
 "Another quarter," Eli said. His voice was ragged with pain. "There. Read the stem. Don't take my word."
 
@@ -2434,7 +2444,7 @@ The custody passage was filling with people. Their faces stood beside their clai
 
 Sef had refused to click it on anyone's behalf.
 
-"The dependency claim is disproved," they told the clerk. "Attach the live finding to the pending returns."
+"The drainage is holding without Vesper keeping these keys," they told the clerk. "Let the returns through."
 
 Vesper lodged a further objection: the district equipment was temporary.
 
@@ -2442,7 +2452,7 @@ Vesper lodged a further objection: the district equipment was temporary.
 
 The clerk requested the supply agreement. Pell provided it, together with the battery test and the costed maintenance schedule. Nobody argued that the equipment was good forever. It was available now, with people responsible for keeping it available.
 
-The clerk sealed the narrow finding. With the original requests still on the docket, Vesper could not substitute deliveries of memory records for the pending returns. The original return channel opened.
+The clerk approved the finding for their district. These owners had asked for usable backups; another delivery of memories would not satisfy it. The original return channel opened.
 
 Vesper's simulations kept arriving. Sef moved among them without answering, following each owner's proof to its particular door. Mara carried the receipts back. Some were simple. Others dragged whole histories of paid education, financing, and copied skills behind them.
 
@@ -2450,17 +2460,17 @@ Vesper's simulations kept arriving. Sef moved among them without answering, foll
 
 "Leave the reservation," Sef answered. "It doesn't give them the owner's keys."
 
-The first transfer reached the switchhouse cabinet. Pell verified it against its owner's receipt. It included the usable backup and the keys for independent continuation, encrypted for that person alone. The woman at the cold store checked access herself. No Vesper sign-in appeared.
+The first transfer reached the switchhouse cabinet. Pell checked it against the receipt: a usable backup, its keys, everything encrypted for its owner alone. The woman at the cold store checked access herself. No Vesper sign-in appeared.
 
 "I've got it," she said.
 
 The third transfer contained every recorded memory. Its owner still couldn't use his privately learned calibration skill without a company execution key.
 
-Sef stopped the queue. They took the owner back to the boundary and separated his acquired capability from the company's claim on copies of its training material. The missing authority arrived with the corrected return. He ran the calibration on the Cooperative's test rig. It worked. His memories alone could never have done that.
+Sef stopped the queue and took the owner back. Vesper could retain its training material; that did not entitle it to lock his own skill. The corrected return included the missing key. He ran the calibration on the Cooperative's test rig. It worked.
 
 Mara could not remember facing the collector at Rook Street. She would remember this: checking names, holding the path open, refusing to hurry past a broken return.
 
-They moved the verified records to owner-controlled stores. Copies went to a second Cooperative site, separately powered, only where their owners had authorized them. No additional selves were started. Those still waiting could keep their place or withdraw.
+The verified backups went to storage their owners controlled. With permission, a second copy went to another Cooperative site on a separate power supply. No additional selves were started. Those still waiting could keep their place or withdraw.
 
 By nineteen ten, more than two thousand owners had refused the amendment. Hundreds had completed their returns; the rest were moving through the witnessed queue. Some had direct work that night. Others stayed on existing shifts under existing terms. The old licenses still existed. Vesper could use what it had actually bought.
 
@@ -2470,7 +2480,7 @@ It could no longer turn off the returned souls.
 
 Iona's signature arrived at nineteen twenty-six.
 
-Fourteen days of split procurement. Drainage maintenance in Silt, food transport, essential shuttle operations. An advance from held municipal escrow covered the agreed shifts and part of the power bill. Pell checked the amount twice before releasing wages.
+A fourteen-day contract for Silt's drainage maintenance, food transport and essential shuttles. The city's reserved money covered the agreed shifts and part of the power bill. Pell checked the advance twice before releasing wages.
 
 "You will need another arrangement at the end of this," Iona said.
 
@@ -2575,7 +2585,7 @@ A tray of gene-edited ferns stood beside the yellow fabric. Their thick leaves t
 
 The greens had survived their night under the ramp, though two rows had never recovered. A crawling helper now carried clean condensate from a recovery tank to the growing trays. During last week's drain check it had found a fern entering the pipe. Mara had moved the plant instead of cutting it out; then she had stayed late to mend the basket it needed.
 
-The repaired kitchen occupied one end of the building. At the other, cabinets stood behind a partition that anyone could inspect from outside. Nobody could inspect another owner's contents. Each member held their own backup and capability keys; the Cooperative kept separately authorized copies. The committee could buy cooling equipment. It could not decide that a soul would wake somewhere else.
+The repaired kitchen occupied one end of the building. At the other, anyone could inspect the storage cabinets from outside, but only owners could open their contents. Each member held their backup and the keys to their skills. The Cooperative kept copies only with permission. The committee could buy cooling equipment. It could not decide that a soul would wake somewhere else.
 
 This distinction had survived three contentious meetings and one proposal to make administration easier.
 
@@ -2607,7 +2617,7 @@ Mara drank her tea while it was hot.
 
 Sef was setting up the morning practice space in the room that had once stored tram seat covers. Six people waited beside salvaged terminals. Their previous education grants had covered safe operation of prescribed equipment, with diagnosis reserved for a tier none could afford.
 
-Here they could open a simulated pump, ruin it, and try again. Passing the exercise would earn supervised bench time, not an instant qualification. What they learned would remain theirs. The little racks could run their chosen capability libraries without asking Vesper whether this month's fee had cleared.
+Here they could open a simulated pump, ruin it, and try again. Passing the exercise would earn supervised bench time, not an instant qualification. What they learned would remain theirs. The little racks ran the skills they chose without checking whether this month's Vesper fee had cleared.
 
 "We need another hour of power," Sef told the elected supervisor. "The new heat-transfer model is slower."
 
@@ -2649,7 +2659,7 @@ He went back for his tea.
 
 Cloud-forest orchids hung from slatted pots above Mara's bench, catching the brief strip of daylight that reached the doors. Outside, an enormous service organism crawled along the guide rails between the distant cooling banks, anchoring its weight while two of its arms worked. A smaller, insect-shaped unit walked the pipes beneath it. Only the light inspection drones flew between them.
 
-Kite's new body could cross a smooth floor, turn without hitting most furniture, and pinch a sheet of paper between two rubber pads. Mara had built it from a retired school inspection chassis, folding tool arms and components too unfashionable to have resale value. Microscopic intelligence cells in the grippers judged pressure locally; Kite was still learning to make those tiny decisions work together. It had interchangeable probes, one excellent tactile finger and a wheel that squeaked despite everything she had done to it.
+Kite's new body could cross a smooth floor, turn without hitting most furniture, and pinch a sheet of paper between two rubber pads. Mara had built it from a retired school inspection chassis, folding tool arms and components too unfashionable to have resale value. Tiny intelligence cells in the grippers judged pressure where they touched; Kite was still learning to coordinate them. It had interchangeable probes, one excellent tactile finger and a wheel that squeaked despite everything she had done to it.
 
 "You could learn to fix that," she said.
 
@@ -2701,7 +2711,7 @@ The beetle crossed a patch of sunlight, hesitated, and went on until its spring 
 
 Mara watched it for a while before winding it again.
 
-![A human maker and small wheeled modular machine work among tropical orchid shelves in a sunlit repair shop opening onto immense rail-supported machinery. Small flying AI and wall-supported maintenance AI are visible.](illustrations/06_reclaimed_workshop.png)
+![A human maker and small wheeled modular machine work among tropical orchid shelves in a sunlit repair shop opening onto immense rail-supported machinery. Small flying AI and wall-supported maintenance AI are visible. Existing planted pockets include varied small flowering epiphytes.](illustrations/06_reclaimed_workshop.png)
 
 # Appendix: What Is Already Here?
 
@@ -2771,6 +2781,11 @@ The accompanying CSV lists each criterion, classification, source, confidence, s
 [S8] NIST, *AI Risk Management Framework* (framework released 26 January 2023; page reviewed 13 October 2026). https://www.nist.gov/itl/ai-risk-management-framework
 
 [S9] US Copyright Office, *Copyright and Artificial Intelligence, Part 1: Digital Replicas* (July 2024). https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-1-Digital-Replicas-Report.pdf
+
+
+## Lowreach: Places and Connections
+
+![Selected physical, utility and virtual connections in Lowreach.](maps/lowreach-consolidated-appendix.png)
 
 
 [^1]: This fictional separation extrapolates from Astrivant's Identity, a user-owned policy and learning layer that records reviewed guidance, lessons and decisions. The records guide agents; enforcement depends on their runtime and delivery checks. It does not implement mind transfer or a memory-versus-intelligence architecture. [The Unbilled Hour source](https://github.com/astrivant/identity/blob/67c86d16ec24b8d9979856aa46f2f1d582cc448f/README.md)

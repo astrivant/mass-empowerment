@@ -1,5 +1,5 @@
 {
-  "title": "The Hours We Keep \u2014 border and divider assets",
+  "title": "The Hours We Keep — border and divider assets",
   "source_pdf": "The Hours We Keep with appendix.pdf",
   "source_pdf_sha256": "dc29375fb5c897304269621acf5e86d1d85234315d7db885fb4ea245b1934b91",
   "source_pdf_pages": 98,
@@ -5945,130 +5945,167 @@
     {
       "id": "divider-pencil",
       "file": "divider-pencil.png",
-      "description": "Three overlapping hand-drawn pencil-like curves.",
+      "description": "Flowing pencil-gray cursive flourish with asymmetric loops; no lettering.",
       "pixels": [
         1075,
-        67
+        134
       ],
       "dpi": 600,
       "mode": "RGBA",
       "transparent_background": true,
-      "bytes": 6734,
-      "sha256": "112efc1454ba51a319c3253071e5b5fa36d30030e10e6422c9645aefbbf0652f",
+      "bytes": 14559,
+      "sha256": "fc2b6804d0b513a5e41bbc23ae3fd22d4955dfe358c5810a14a17aa9738aebc0",
       "source_bounds_points": [
-        155.0,
-        391.0,
-        280.0,
-        394.9
+        2,
+        2,
+        127,
+        14
       ],
       "export_crop_points": [
-        153.0,
-        388.92,
-        282.0,
-        396.96
+        0,
+        0,
+        129,
+        16
       ],
       "native_ornament_size_points": [
-        125.0,
-        3.9
+        125,
+        12
       ],
-      "representative_source_page": 14,
-      "path_count": 3,
-      "occurrence_count": 9,
-      "source_pages": [
-        14,
-        31,
-        38,
-        49,
-        57,
-        64,
-        71,
-        78,
-        83
-      ],
-      "occurrences": [
-        {
-          "page": 14,
-          "bounds_points": [
-            155.0,
-            391.0,
-            280.0,
-            394.9
-          ]
-        },
-        {
-          "page": 31,
-          "bounds_points": [
-            155.0,
-            160.0,
-            280.0,
-            163.9
-          ]
-        },
-        {
-          "page": 38,
-          "bounds_points": [
-            155.0,
-            292.0,
-            280.0,
-            295.9
-          ]
-        },
-        {
-          "page": 49,
-          "bounds_points": [
-            155.0,
-            143.5,
-            280.0,
-            147.4
-          ]
-        },
-        {
-          "page": 57,
-          "bounds_points": [
-            155.0,
-            325.0,
-            280.0,
-            328.9
-          ]
-        },
-        {
-          "page": 64,
-          "bounds_points": [
-            155.0,
-            259.0,
-            280.0,
-            262.9
-          ]
-        },
-        {
-          "page": 71,
-          "bounds_points": [
-            155.0,
-            53.0,
-            280.0,
-            56.9
-          ]
-        },
-        {
-          "page": 78,
-          "bounds_points": [
-            155.0,
-            308.5,
-            280.0,
-            312.4
-          ]
-        },
-        {
-          "page": 83,
-          "bounds_points": [
-            155.0,
-            483.0,
-            280.0,
-            486.9
-          ]
-        }
-      ],
-      "direct_original_crop_pixel_match": true
+      "method": "New vector-native SVG illustration, rendered losslessly at 600 DPI. Not a raster edit or recovery of prior strokes.",
+      "svg_source": "divider-pencil.svg",
+      "svg_sha256": "9876e034a3f63861cf66d766c326e18f189b95309ebdf87366387b83bac6d6cf",
+      "revision_date": "2026-10-14",
+      "layout": "Same 129-point display width and 32-point separator allocation; height 16 points.",
+      "previous_asset": {
+        "id": "divider-pencil",
+        "file": "divider-pencil.png",
+        "description": "Three overlapping hand-drawn pencil-like curves.",
+        "pixels": [
+          1075,
+          67
+        ],
+        "dpi": 600,
+        "mode": "RGBA",
+        "transparent_background": true,
+        "bytes": 6734,
+        "sha256": "112efc1454ba51a319c3253071e5b5fa36d30030e10e6422c9645aefbbf0652f",
+        "source_bounds_points": [
+          155.0,
+          391.0,
+          280.0,
+          394.9
+        ],
+        "export_crop_points": [
+          153.0,
+          388.92,
+          282.0,
+          396.96
+        ],
+        "native_ornament_size_points": [
+          125.0,
+          3.9
+        ],
+        "representative_source_page": 14,
+        "path_count": 3,
+        "occurrence_count": 9,
+        "source_pages": [
+          14,
+          31,
+          38,
+          49,
+          57,
+          64,
+          71,
+          78,
+          83
+        ],
+        "occurrences": [
+          {
+            "page": 14,
+            "bounds_points": [
+              155.0,
+              391.0,
+              280.0,
+              394.9
+            ]
+          },
+          {
+            "page": 31,
+            "bounds_points": [
+              155.0,
+              160.0,
+              280.0,
+              163.9
+            ]
+          },
+          {
+            "page": 38,
+            "bounds_points": [
+              155.0,
+              292.0,
+              280.0,
+              295.9
+            ]
+          },
+          {
+            "page": 49,
+            "bounds_points": [
+              155.0,
+              143.5,
+              280.0,
+              147.4
+            ]
+          },
+          {
+            "page": 57,
+            "bounds_points": [
+              155.0,
+              325.0,
+              280.0,
+              328.9
+            ]
+          },
+          {
+            "page": 64,
+            "bounds_points": [
+              155.0,
+              259.0,
+              280.0,
+              262.9
+            ]
+          },
+          {
+            "page": 71,
+            "bounds_points": [
+              155.0,
+              53.0,
+              280.0,
+              56.9
+            ]
+          },
+          {
+            "page": 78,
+            "bounds_points": [
+              155.0,
+              308.5,
+              280.0,
+              312.4
+            ]
+          },
+          {
+            "page": 83,
+            "bounds_points": [
+              155.0,
+              483.0,
+              280.0,
+              486.9
+            ]
+          }
+        ],
+        "direct_original_crop_pixel_match": true
+      },
+      "pdf_source": "divider-pencil.pdf",
+      "pdf_sha256": "025ae72d6188bd16ba5be36280e2d6ac32221380be0c26253a12952c671485be"
     }
   ],
   "qa": {
@@ -6089,6 +6126,5 @@
     ],
     "divider": "#746B66"
   },
-  "source_pdf_url": "https://github.com/astrivant/mass-empowerment/blob/11a322848f71a3b05a2aa1354e51375e952d37c0/output/pdf/final/The%20Hours%20We%20Keep%20with%20appendix.pdf",
-  "later_revision_note": "The title illustration was revised subsequently; the exported ornament artwork is unchanged."
+  "revision_note": "The hand-drawn divider-pencil is newly drawn as a cursive vector flourish. Historical source-PDF extraction metadata applies to unchanged recovered assets; see the revised asset entry and its preserved previous_asset provenance."
 }

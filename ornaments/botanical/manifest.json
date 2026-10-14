@@ -1,0 +1,334 @@
+{
+  "method": "Original vector-native artwork. Horizontal dividers unchanged; vertical revision uses cascading botanical growth, branched shoots, leaves, flowers and epiphytic roots, with no Corinthian scroll spine. Reference-informed botanical ornament, not taxonomic illustration.",
+  "palette": {
+    "foliage_gray": "#A4A7A1",
+    "pale_foliage": "#D9DCD5",
+    "orchid_mauve": "#B5A4B0",
+    "petal_pink": "#D9C3CA",
+    "oncidium_gray_gold": "#BCB79E"
+  },
+  "assets": [
+    {
+      "id": "divider-corinthian-orchid",
+      "dimensions_pt": [
+        129,
+        16
+      ],
+      "pixels": [
+        1075,
+        134
+      ],
+      "dpi": 600,
+      "alpha_bbox_pixels": [
+        40,
+        19,
+        1035,
+        114
+      ],
+      "files": {
+        "svg": {
+          "file": "divider-corinthian-orchid.svg",
+          "sha256": "72e07c3af7214884104c3d75a75f0e9699d5b5f437fa864b513e21f67ffea2b9"
+        },
+        "png": {
+          "file": "divider-corinthian-orchid.png",
+          "sha256": "797f6a2ba872a9de04e7b217dd278c65453f631813a0d1557f97add7e1d5b7dc"
+        },
+        "pdf": {
+          "file": "divider-corinthian-orchid.pdf",
+          "sha256": "0ecccf2ea7b294fead3f1b2cbc3f9d769ec9f83e4d0092949947100214ac4207"
+        }
+      }
+    },
+    {
+      "id": "divider-corinthian-oncidium",
+      "dimensions_pt": [
+        129,
+        16
+      ],
+      "pixels": [
+        1075,
+        134
+      ],
+      "dpi": 600,
+      "alpha_bbox_pixels": [
+        40,
+        19,
+        1035,
+        114
+      ],
+      "files": {
+        "svg": {
+          "file": "divider-corinthian-oncidium.svg",
+          "sha256": "04413ef7d3d586778a66a6f01a770b16aba536c5dc3635e27fc5422ed2393b65"
+        },
+        "png": {
+          "file": "divider-corinthian-oncidium.png",
+          "sha256": "637ad2d18873b030aed87c609e159fff888bd84df4acf5cd736e5b08c645dfb7"
+        },
+        "pdf": {
+          "file": "divider-corinthian-oncidium.pdf",
+          "sha256": "f34f8d6e8a77f14c2609a886ad086cfb76e5d71d5afb58e0878131eb59c5affc"
+        }
+      }
+    },
+    {
+      "id": "divider-corinthian-ceratostema",
+      "dimensions_pt": [
+        129,
+        16
+      ],
+      "pixels": [
+        1075,
+        134
+      ],
+      "dpi": 600,
+      "alpha_bbox_pixels": [
+        40,
+        19,
+        1035,
+        114
+      ],
+      "files": {
+        "svg": {
+          "file": "divider-corinthian-ceratostema.svg",
+          "sha256": "81ff419313d51de55be6aeec83e371b7f2223b340f66dd755e3bf3a7a8946942"
+        },
+        "png": {
+          "file": "divider-corinthian-ceratostema.png",
+          "sha256": "fe0674389217b18b1451e6c21afe037605faadd2cd9ac8ccd51d0c9aa6866dab"
+        },
+        "pdf": {
+          "file": "divider-corinthian-ceratostema.pdf",
+          "sha256": "c97932166cd2f220a3a1b118d86ae31aedd3c287a5814a774eed1c72bce9ab97"
+        }
+      }
+    },
+    {
+      "id": "trailing-pendant-left",
+      "dimensions_pt": [
+        28,
+        190
+      ],
+      "pixels": [
+        234,
+        1584
+      ],
+      "dpi": 600,
+      "alpha_bbox_pixels": [
+        24,
+        48,
+        201,
+        1479
+      ],
+      "files": {
+        "svg": {
+          "file": "trailing-pendant-left.svg",
+          "sha256": "469fa350c5373a8e86e777efb955887c4d2eec969a66ad01d6bb5e2fc4d5ccbd"
+        },
+        "png": {
+          "file": "trailing-pendant-left.png",
+          "sha256": "a37ad6c1b3f569210d87dfd65c8fb56f7f04e4f1ec2aa5431686d179ae0370f7"
+        },
+        "pdf": {
+          "file": "trailing-pendant-left.pdf",
+          "sha256": "e2c565805a01536222b5a43dd107b752d9463ac724b899d0f2ccfa84e8651bbe"
+        }
+      },
+      "revision": "v2-natural-hanging-plants"
+    },
+    {
+      "id": "trailing-pendant-right",
+      "dimensions_pt": [
+        28,
+        190
+      ],
+      "pixels": [
+        234,
+        1584
+      ],
+      "dpi": 600,
+      "alpha_bbox_pixels": [
+        33,
+        48,
+        210,
+        1479
+      ],
+      "files": {
+        "svg": {
+          "file": "trailing-pendant-right.svg",
+          "sha256": "d70672e6a58fdc08957e1a69b13d9972331326cdac13549f958887770a7db3e8"
+        },
+        "png": {
+          "file": "trailing-pendant-right.png",
+          "sha256": "6e07a895680bbe87ec6be957609c41a1e0d1efc7dba1ca167a403a7e3f3d2135"
+        },
+        "pdf": {
+          "file": "trailing-pendant-right.pdf",
+          "sha256": "84fe39ed3f783c882826eb25e50fa2482dc1c7474e535d2986c970b55792527a"
+        }
+      },
+      "revision": "v2-natural-hanging-plants"
+    },
+    {
+      "id": "trailing-orchid-left",
+      "dimensions_pt": [
+        28,
+        190
+      ],
+      "pixels": [
+        234,
+        1584
+      ],
+      "dpi": 600,
+      "alpha_bbox_pixels": [
+        14,
+        64,
+        212,
+        1311
+      ],
+      "files": {
+        "svg": {
+          "file": "trailing-orchid-left.svg",
+          "sha256": "77b4fcb056db944fcdc35c91cb2788f2f5d8130eed93d9d50d4dab39e963a386"
+        },
+        "png": {
+          "file": "trailing-orchid-left.png",
+          "sha256": "9cb95481920721847dcc14c2b63f318d45ca7383ac77cd58eeda20ba43ac73e6"
+        },
+        "pdf": {
+          "file": "trailing-orchid-left.pdf",
+          "sha256": "cf5e32474c5f14fbc220d4021c19be25ac23a457c4c47684f28b032f6ef665c6"
+        }
+      },
+      "revision": "v2-natural-hanging-plants"
+    },
+    {
+      "id": "trailing-orchid-right",
+      "dimensions_pt": [
+        28,
+        190
+      ],
+      "pixels": [
+        234,
+        1584
+      ],
+      "dpi": 600,
+      "alpha_bbox_pixels": [
+        21,
+        64,
+        219,
+        1335
+      ],
+      "files": {
+        "svg": {
+          "file": "trailing-orchid-right.svg",
+          "sha256": "e8230dbf2bba5f56487781cdef346cba57c5c59ab4b7ca373d4f22b013d51a46"
+        },
+        "png": {
+          "file": "trailing-orchid-right.png",
+          "sha256": "a477238eed8e7148926bcbcf1862ae405cbe22d653ca80aee506238640f68254"
+        },
+        "pdf": {
+          "file": "trailing-orchid-right.pdf",
+          "sha256": "5b1725d4a2179446a82278951e3d6b92fcfc02decad2f939391fe070ea8d1e75"
+        }
+      },
+      "revision": "v2-natural-hanging-plants"
+    },
+    {
+      "id": "trailing-grammatophyllum-acianthera-left",
+      "dimensions_pt": [
+        28,
+        190
+      ],
+      "pixels": [
+        234,
+        1584
+      ],
+      "dpi": 600,
+      "alpha_bbox_pixels": [
+        30,
+        64,
+        193,
+        1503
+      ],
+      "files": {
+        "svg": {
+          "file": "trailing-grammatophyllum-acianthera-left.svg",
+          "sha256": "9906b38be9a3da7199eca864b90b1096ba85835d37c8e1ae94ef451a0eade58b"
+        },
+        "png": {
+          "file": "trailing-grammatophyllum-acianthera-left.png",
+          "sha256": "a64b79858a74deb95c034cab90fb7ee893612ad1b4c52c6f2bdc7fd27981bbb0"
+        },
+        "pdf": {
+          "file": "trailing-grammatophyllum-acianthera-left.pdf",
+          "sha256": "a7c8621f7d93570839964c769e300946ad7072a92b5b07c59d63db029a21fdfe"
+        }
+      },
+      "revision": "v2-natural-hanging-plants"
+    },
+    {
+      "id": "trailing-grammatophyllum-acianthera-right",
+      "dimensions_pt": [
+        28,
+        190
+      ],
+      "pixels": [
+        234,
+        1584
+      ],
+      "dpi": 600,
+      "alpha_bbox_pixels": [
+        40,
+        64,
+        218,
+        1492
+      ],
+      "files": {
+        "svg": {
+          "file": "trailing-grammatophyllum-acianthera-right.svg",
+          "sha256": "766bedf27e60b944b9b5b782bed4e8bf4376f5218a4520b4cd4c0f3f413ba539"
+        },
+        "png": {
+          "file": "trailing-grammatophyllum-acianthera-right.png",
+          "sha256": "9d8b96ad6a534b3abe74a9fb11318f7c8b37fc28c4d2f824a8493c99a76b9ccc"
+        },
+        "pdf": {
+          "file": "trailing-grammatophyllum-acianthera-right.pdf",
+          "sha256": "1abe628dcfc1cad0e79658f54a1e5460eda7eb2b0e6d1d4d86f30f2ceb76d1e4"
+        }
+      },
+      "revision": "v2-natural-hanging-plants"
+    }
+  ],
+  "added_reference_forms": {
+    "Grammatophyllum": "Narrow spreading greenish-yellow tepals with visible brown markings on an elongated floral axis; strap-like leaves. Ornamental simplification.",
+    "Acianthera recurva": "Compact oval-leaf epiphyte mats with wiry roots and miniature grouped flowers. Collection-habit-inspired, not a taxonomic portrait."
+  },
+  "vertical_revision": "v2-natural-hanging-plants",
+  "previous_vertical_revision": "Earlier scroll-style designs retained separately in the authoring history.",
+  "book_placement": {
+    "anchor": "Paired top-left and top-right corners on selected ordinary text pages",
+    "top_points": 5,
+    "left_edge_points": 5,
+    "right_edge_points": 427,
+    "proportional_display_heights_points": [
+      142,
+      145,
+      148,
+      150,
+      158,
+      164,
+      165,
+      178,
+      184,
+      186,
+      190
+    ],
+    "geometry": "Uniform scaling; source proportions preserved",
+    "geometric_borders": "All edge motifs and both corner brackets omitted on plant pages",
+    "horizontal_dividers": "Unchanged"
+  }
+}

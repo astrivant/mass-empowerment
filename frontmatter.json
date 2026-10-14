@@ -1,18 +1,22 @@
 {
   "epigraph": "The lights went out by floor, but the counting never stopped.",
   "title": "Introduction",
-  "contents_description": "Lowreach in 2189: who controls bodies, learning, infrastructure and the routes beyond company custody.",
+  "contents_description": "Life in Lowreach in 2189.",
   "paragraphs": [
-    "It is 2189 in Lowreach. The city grew around the pumping stations: streets between reclaimed fields, housing over fields, roads over housing. Now a district's daylight depends on what has been built above it. Lamps for the gardens draw from the same supply as kitchens and machines.",
+    "The year is 2189.",
+    "The city, Lowreach, grew around the pumping stations: streets between reclaimed fields, housing over fields, roads over housing. Now a district's daylight depends on what has been built above it. Lamps for the gardens draw from the same supply as kitchens and machines.",
     "The company nurseries came after the Floods. Governments already borrowing from their operators paid for healthy bodies and a basic education. Three generations later, most citizens are grown. The public allowance still buys the smallest lesson package; the companies sell the rest. Families who bear their own children receive food credits and tools, while the firms funding those grants keep first offers on what the children learn.",
-    "The law protects a citizen's name and memories. An expired account can still take away access to the skill needed to read a wiring plan. Yesterday's work remains available to remember, even when the learned processes that made it possible will no longer run.",
-    "Vesper is Lowreach's largest service operator. It owns most of the great Stackholds of computation, holds many workers' body-support and execution contracts, and manages much of the city's drainage and transport. Its coming system, Tomorrow, promises to join those services under one control. The city government still owns the gates and streets, awards the contracts and keeps a continuity witness desk outside Vesper's authority. It can require proof before a handoff. It cannot keep the water out with a signature.",
+    "The law protects a citizen's name and memories. An expired account can still lock away the skill needed to read a wiring plan. A worker may remember yesterday's repair and be unable to do it again.",
+    "Vesper is Lowreach's largest service operator. It owns most of the great Stackholds, where the city's computers run, and holds many workers' contracts for body maintenance and the computing time their minds need. It also runs much of the water supply: intakes, treatment works and pumps serving homes, gardens and computer halls. When water runs short, Vesper decides who waits.",
+    "Inside the Stackholds, coolant carries heat away from the computers through enclosed pipes. Cooling towers release the heat into the air. The coolant returns; water lost at the towers must be replaced. Pumps and fans need electricity too. Vesper also manages much of the transport and the drainage that keeps the lower streets from flooding. Its coming system, Tomorrow, promises to bring those services under one control.",
+    "The city government still owns the gates and streets, awards the contracts and keeps a continuity witness desk outside Vesper's authority. It can require proof before a handoff. It cannot keep the water out with a signature.",
     "Vesper does not own every current or pipe. Quay utilities and the old tram network retain separate supplies. Tenants' groups and repair kitchens hold a little equipment, a few independent backup keys and more obligations than cash. Dissident street communities pass on lessons the public allowance omits. None can yet replace the company's citywide work.",
-    "Undertow, a lower-city crime syndicate, controls routes for stolen equipment and sells protection from troubles it sometimes creates. Its hacking division, the Blindroom, speaks through interchangeable blank faces. It trades in access the companies refuse to sell, and in dependencies the buyers would rather keep secret. A route beyond Vesper can still lead to someone else's collector.",
-    "Below the streets, the Stackholds' computer halls run through the night. Their cooling mains pass through forgotten foundations. Far above, the high terraces are catching the sun. Water presses against the gates. Somewhere in the lower city, a kettle begins to boil."
+    "Undertow, a lower-city crime syndicate, moves stolen equipment and sells protection from troubles it sometimes creates. Its hackers, the Blindroom, speak through interchangeable blank faces. They sell access the companies refuse, then find ways to keep their buyers dependent. A route beyond Vesper can still lead to someone else's collector.",
+    "Below the streets, the Stackholds' computer halls run through the night. Their cooling mains pass through forgotten foundations. Far above, the high terraces are catching the sun. Water presses against the gates. Somewhere in the lower city, a kettle begins to boil.",
+    "A missed payment can leave a living mind with nowhere to run."
   ],
   "cover_illustration": {
     "path": "illustrations/00_title_towers.png",
-    "alt": "Endless computation towers surround scaffold homes, plants, people and crawling machines, illuminated by localized neon signs and geometric AI holograms."
+    "alt": "Immense industrial towers with neon AI signs, drones and crawling machines, with varied flowering epiphytes tucked among existing ledge plants."
   }
 }
